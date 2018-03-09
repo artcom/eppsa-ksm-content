@@ -1,2 +1,8 @@
 {
+  "languages": [
+    {
+      "id": "de",
+      "name": "German"
+    }
+  ]
 }
