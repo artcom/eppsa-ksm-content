@@ -1,0 +1,16 @@
+{
+  "fields": [
+    {
+      "name": "navigation",
+      "type": "string"
+    },
+    {
+      "name": "color",
+      "type": "string"
+    },
+    {
+      "name": "uri",
+      "type": "string"
+    }
+  ]
+}

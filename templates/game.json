@@ -1,0 +1,12 @@
+{
+  "fields": [
+    {
+      "name": "description",
+      "type": "string"
+    }
+  ],
+  "children": [
+    "avatars",
+    "challenges"
+  ]
+}
