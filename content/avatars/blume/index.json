@@ -1,0 +1,8 @@
+{
+  "name": "Blume",
+  "description": "Riecht so gut.",
+  "icon": {
+    "src": "79/Flower-79f359dc9725294ec732009991c565590d5d8073-79f359dc9725294ec732009991c565590d5d8073.png"
+  },
+  "template": "avatar"
+}
