@@ -12,5 +12,8 @@
       "name": "uri",
       "type": "string"
     }
+  ],
+  "children": [
+    "challenges/button"
   ]
 }
