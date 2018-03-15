@@ -4,8 +4,5 @@
       "name": "reward",
       "type": "number"
     }
-  ],
-  "children": [
-    "challenges/button"
   ]
 }
