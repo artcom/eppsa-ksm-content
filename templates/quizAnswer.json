@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "name": "answer",
+      "type": "string"
+    },
+    {
+      "name": "isCorrect",
+      "type": "enum",
+      "values": [
+        {
+          "name": "True",
+          "value": true
+        },
+        {
+          "name": "False",
+          "value": false
+        }
+      ]
+    }
+  ]
+}

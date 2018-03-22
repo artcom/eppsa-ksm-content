@@ -1,5 +1,6 @@
 {
 "children": [
-    "button"
+    "button",
+    "quiz"
   ]
 }
