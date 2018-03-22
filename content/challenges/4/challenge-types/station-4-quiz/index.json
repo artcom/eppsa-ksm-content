@@ -1,5 +1,5 @@
 {
-  "question": "",
-  "reward": null,
+  "question": "What is the speed of a swallow?",
+  "reward": 1000,
   "template": "quiz"
 }
