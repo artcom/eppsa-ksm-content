@@ -1,11 +1,15 @@
 {
   "fields": [
     {
+      "name": "question",
+      "type": "string"
+    },
+    {
       "name": "reward",
       "type": "number"
     }
   ],
   "children": [
-    "quizQuestion"
+    "quizAnswer"
   ]
 }
