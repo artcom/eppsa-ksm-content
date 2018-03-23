@@ -1,6 +1,0 @@
-{
-  "name": "Material",
-  "description": "Find the most stable material for shipbuilding",
-  "items": "pine, oak, teak",
-  "template": "quest"
-}
