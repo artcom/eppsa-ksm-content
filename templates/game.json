@@ -3,14 +3,6 @@
     {
       "name": "description",
       "type": "string"
-    },
-    {
-      "name": "buttonGameFactor",
-      "type": "number"
-    },
-    {
-      "name": "quizGameFactor",
-      "type": "number"
     }
   ],
   "children": [
