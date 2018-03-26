@@ -9,7 +9,19 @@
       "type": "number"
     },
     {
-      "name": "maxAnsweringTime",
+      "name": "sessionLength",
+      "type": "number"
+    },
+    {
+      "name": "tier1TimeBonus",
+      "type": "number"
+    },
+    {
+      "name": "tier2TimeBonus",
+      "type": "number"
+    },
+    {
+      "name": "tier3TimeBonus",
       "type": "number"
     }
   ],

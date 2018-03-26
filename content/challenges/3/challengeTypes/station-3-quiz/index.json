@@ -1,6 +1,5 @@
 {
   "question": "Are you contradicting me?",
   "reward": 2500,
-  "template": "quiz",
-  "maxAnsweringTime": 3
+  "template": "quiz"
 }
