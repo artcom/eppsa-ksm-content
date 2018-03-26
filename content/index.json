@@ -1,4 +1,6 @@
 {
   "template": "game",
-  "description": "Willkomen in der Spieleaustellung."
+  "description": "Willkomen in der Spieleaustellung.",
+  "buttonGameFactor": 10,
+  "quizGameFactor": 100
 }
