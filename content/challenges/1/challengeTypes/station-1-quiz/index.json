@@ -1,5 +1,9 @@
 {
   "question": "What is your favorite color?",
   "reward": 1000,
-  "template": "quiz"
+  "template": "quiz",
+  "sessionLength": 30,
+  "tier1TimeBonus": 1000,
+  "tier2TimeBonus": 500,
+  "tier3TimeBonus": 200
 }
