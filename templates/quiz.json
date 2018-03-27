@@ -3,10 +3,47 @@
     {
       "name": "question",
       "type": "string"
+    },
+    {
+      "name": "answer1",
+      "type": "string"
+    },
+    {
+      "name": "answer2",
+      "type": "string"
+    },
+    {
+      "name": "answer3",
+      "type": "string"
+    },
+    {
+      "name": "answer4",
+      "type": "string"
+    },
+    {
+      "name": "correctAnswer",
+      "type": "enum",
+      "values": [
+        {
+          "name": "Answer 1",
+          "value": 1
+        },
+        {
+          "name": "Answer 2",
+          "value": 2
+        },
+        {
+          "name": "Answer 3",
+          "value": 3
+        },
+        {
+          "name": "Answer 4",
+          "value": 4
+        }
+      ]
     }
   ],
   "children": [
-    "quizAnswer",
     "scoreCalculation"
   ]
 }
