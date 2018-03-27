@@ -7,6 +7,7 @@
   ],
   "children": [
     "avatars",
-    "challenges"
+    "challenges",
+    "shared"
   ]
 }

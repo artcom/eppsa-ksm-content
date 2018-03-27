@@ -1,0 +1,8 @@
+{
+  "fields": [
+    {
+      "name": "quizFactor",
+      "type": "number"
+    }
+  ]
+}
