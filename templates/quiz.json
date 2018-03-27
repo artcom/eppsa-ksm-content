@@ -3,33 +3,10 @@
     {
       "name": "question",
       "type": "string"
-    },
-    {
-      "name": "reward",
-      "type": "number"
-    },
-    {
-      "name": "gameFactor",
-      "type": "number"
-    },
-    {
-      "name": "sessionLength",
-      "type": "number"
-    },
-    {
-      "name": "tier1TimeBonus",
-      "type": "number"
-    },
-    {
-      "name": "tier2TimeBonus",
-      "type": "number"
-    },
-    {
-      "name": "tier3TimeBonus",
-      "type": "number"
     }
   ],
   "children": [
-    "quizAnswer"
+    "quizAnswer",
+    "scoreCalculation"
   ]
 }
