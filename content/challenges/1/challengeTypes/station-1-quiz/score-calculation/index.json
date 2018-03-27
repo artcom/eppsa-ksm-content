@@ -1,0 +1,9 @@
+{
+  "reward": 1000,
+  "gameFactor": 1,
+  "sessionLength": 60,
+  "tier1TimeBonus": 1000,
+  "tier2TimeBonus": 500,
+  "tier3TimeBonus": 200,
+  "template": "scoreCalculation"
+}
