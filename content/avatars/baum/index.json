@@ -1,6 +1,8 @@
 {
   "name": "Ein Baum",
   "description": "Er Malt.",
-  "icon": null,
+  "icon": {
+    "src": "ef/Bildschirmfoto 2017-12-13 um 11.49.02-ef7afc0efebe28d2e14f31bc02072270d43fd7c3.png"
+  },
   "template": "avatar"
 }
