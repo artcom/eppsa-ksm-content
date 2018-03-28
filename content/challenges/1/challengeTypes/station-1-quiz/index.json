@@ -1,9 +1,9 @@
 {
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "question": "What is your favorite color",
+  "answer1": "Green",
+  "answer2": "Blue, no red",
+  "answer3": "Dunno",
+  "answer4": "What?",
   "correctAnswer": 1,
   "template": "quiz"
 }
