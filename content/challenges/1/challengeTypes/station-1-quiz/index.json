@@ -1,9 +1,0 @@
-{
-  "question": "What is your favorite color?",
-  "correctAnswer": 4,
-  "answer1": "Dunno",
-  "answer2": "Blue. No, red!",
-  "answer3": "42",
-  "answer4": "Green",
-  "template": "quiz"
-}
