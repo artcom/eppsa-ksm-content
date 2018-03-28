@@ -1,6 +1,6 @@
 {
-  "navigation": "Go to the fourth station",
-  "color": "Bordeaux",
-  "uri": "",
+  "navigation": "Got to fourth station",
+  "color": "magenta",
+  "token": "4",
   "template": "challenge"
 }
