@@ -1,9 +1,9 @@
 {
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
-  "correctAnswer": 1,
+  "question": "What's for lunch?",
+  "answer1": "Pizza",
+  "answer2": "Pasta",
+  "answer3": "Currywurst",
+  "answer4": "Tofu",
+  "correctAnswer": 2,
   "template": "quiz"
 }
