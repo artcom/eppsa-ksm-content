@@ -1,10 +1,15 @@
 {
-  "question": "Are you contradicting me?",
-  "reward": 2500,
-  "template": "quiz",
-  "sessionLength": 20,
-  "tier1TimeBonus": 1000,
-  "tier2TimeBonus": 500,
   "tier3TimeBonus": 200,
-  "gameFactor": 1
+  "gameFactor": 1,
+  "tier2TimeBonus": 500,
+  "tier1TimeBonus": 1000,
+  "question": "Are you contradicting me?",
+  "correctAnswer": 1,
+  "reward": 2500,
+  "answer1": "No I'm not.",
+  "answer2": "Yes I am.",
+  "answer3": "You're contradicting yourself.",
+  "answer4": "Huh?",
+  "template": "quiz",
+  "sessionLength": 20
 }
