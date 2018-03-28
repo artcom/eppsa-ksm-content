@@ -1,6 +1,5 @@
 {
   "reward": 1500,
-  "gameFactor": 1,
   "sessionLength": 30,
   "tier1TimeBonus": 500,
   "tier2TimeBonus": 200,

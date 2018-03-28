@@ -1,15 +1,9 @@
 {
-  "tier3TimeBonus": 200,
-  "gameFactor": 1,
-  "tier2TimeBonus": 500,
-  "tier1TimeBonus": 1000,
   "question": "What is your favorite color?",
   "correctAnswer": 4,
-  "reward": 1000,
   "answer1": "Dunno",
   "answer2": "Blue. No, red!",
   "answer3": "42",
   "answer4": "Green",
-  "template": "quiz",
-  "sessionLength": 30
+  "template": "quiz"
 }
