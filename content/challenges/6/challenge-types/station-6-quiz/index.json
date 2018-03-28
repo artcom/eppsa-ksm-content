@@ -1,0 +1,9 @@
+{
+  "question": "When?",
+  "answer1": "Last year",
+  "answer2": "Yesterday",
+  "answer3": "Tomorrow",
+  "answer4": "Last week",
+  "correctAnswer": 3,
+  "template": "quiz"
+}
