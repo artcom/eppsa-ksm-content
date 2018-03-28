@@ -9,7 +9,7 @@
       "type": "string"
     },
     {
-      "name": "uri",
+      "name": "token",
       "type": "string"
     }
   ],

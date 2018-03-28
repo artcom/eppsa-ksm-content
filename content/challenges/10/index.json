@@ -1,6 +1,6 @@
 {
   "navigation": "Got to tenth station",
   "color": "magenta",
-  "uri": "",
+  "token": "10",
   "template": "challenge"
 }
