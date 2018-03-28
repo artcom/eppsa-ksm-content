@@ -1,0 +1,9 @@
+{
+  "question": "How?",
+  "answer1": "like this",
+  "answer2": "like that",
+  "answer3": "some other",
+  "answer4": "huh?",
+  "correctAnswer": 1,
+  "template": "quiz"
+}
