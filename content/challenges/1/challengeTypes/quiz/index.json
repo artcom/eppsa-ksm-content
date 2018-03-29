@@ -1,7 +1,7 @@
 {
-  "question": "What is your favorite color",
+  "question": "What is your favorite color?",
   "answer1": "Green",
-  "answer2": "Blue, no red",
+  "answer2": "Blue, no red. No, wait, green. Or yellow, maybe?",
   "answer3": "Dunno",
   "answer4": "What?",
   "correctAnswer": 1,
