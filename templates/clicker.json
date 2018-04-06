@@ -1,0 +1,8 @@
+{
+  "fields": [
+    {
+      "name": "reward",
+      "type": "number"
+    }
+  ]
+}
