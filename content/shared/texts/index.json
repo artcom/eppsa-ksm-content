@@ -1,4 +1,5 @@
 {
   "next": "Weiter",
-  "template": "texts"
+  "template": "texts",
+  "questionTitle": "Frage:"
 }
