@@ -5,6 +5,10 @@
       "type": "string"
     },
     {
+      "name": "manualText",
+      "type": "string"
+    },
+    {
       "name": "color",
       "type": "string"
     },
