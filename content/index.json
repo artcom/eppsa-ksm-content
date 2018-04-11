@@ -1,6 +1,7 @@
 {
   "template": "game",
-  "description": "Willkomen in der Spieleaustellung.",
+  "manualText": "Willkomen in der Spieleaustellung. Das ist ein tolles Spiel.",
+  "finishText": "Herzlichen Glückwunsch. Sie haben es geschafft.",
   "buttonGameFactor": 10,
   "quizGameFactor": 100
 }

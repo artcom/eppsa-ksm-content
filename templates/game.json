@@ -1,7 +1,11 @@
 {
   "fields": [
     {
-      "name": "description",
+      "name": "manualText",
+      "type": "string"
+    },
+    {
+      "name": "finishText",
       "type": "string"
     }
   ],
