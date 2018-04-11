@@ -5,5 +5,6 @@
   "answer3": "Currywurst",
   "answer4": "Tofu",
   "correctAnswer": 2,
-  "template": "quiz"
+  "template": "quiz",
+  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich."
 }

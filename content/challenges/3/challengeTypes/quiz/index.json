@@ -3,6 +3,7 @@
   "correctAnswer": 1,
   "reward": 2500,
   "answer1": "No I'm not.",
+  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
   "answer2": "Yes I am.",
   "answer3": "You're contradicting yourself.",
   "answer4": "Huh?",
