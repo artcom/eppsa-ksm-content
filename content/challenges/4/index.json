@@ -1,5 +1,5 @@
 {
-  "navigation": "Got to fourth station",
+  "navigationText": "Got to fourth station",
   "color": "magenta",
   "token": "4",
   "template": "challenge"

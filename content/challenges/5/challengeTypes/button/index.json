@@ -1,4 +1,5 @@
 {
   "reward": 75,
-  "template": "button"
+  "template": "button",
+  "manualText": "Drücken Sie den Knopf ganz fest."
 }

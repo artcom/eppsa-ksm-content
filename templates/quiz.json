@@ -1,6 +1,10 @@
 {
   "fields": [
     {
+      "name": "manualText",
+      "type": "string"
+    },
+    {
       "name": "question",
       "type": "string"
     },

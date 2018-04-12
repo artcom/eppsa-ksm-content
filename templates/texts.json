@@ -3,6 +3,10 @@
     {
       "name": "next",
       "type": "string"
+    },
+    {
+      "name": "questionTitle",
+      "type": "string"
     }
   ]
 }
