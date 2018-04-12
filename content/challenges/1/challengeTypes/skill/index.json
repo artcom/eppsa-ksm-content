@@ -1,10 +1,18 @@
 {
-  "manualText": "Answer the questions as fast as you can.",
-  "question": "What is your favorite color",
-  "answer1": "Green",
-  "answer2": "Blue, no red",
-  "answer3": "Dunno",
-  "answer4": "25",
-  "correctAnswer": 1,
-  "template": "quiz"
+  "countdown": 3,
+  "minTilt": 30,
+  "maxTilt": 30,
+  "sensitivty": 2,
+  "vehicleAngle": 20,
+  "inertia": 0.4,
+  "vehicleWinAngle": 3,
+  "streamRange": 20,
+  "streamForce": 4,
+  "streamWindAngle": 20,
+  "destabiliser": 0.01,
+  "npcHorizontalStay": 0.7,
+  "npcHorizontalExit": 0.3,
+  "npcTiltStay": 0.3,
+  "npcTiltExit": 0.7,
+  "template": "skill"
 }
