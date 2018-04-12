@@ -1,4 +1,5 @@
 {
   "maxAgents": 5,
+  "exit": "",
   "template": "graph"
 }
