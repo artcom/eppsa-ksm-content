@@ -1,4 +1,5 @@
 {
+  "timer": 20,
   "maxTilt": 30,
   "npcHorizontalExit": 0.3,
   "vehicleWinAngle": 3,
