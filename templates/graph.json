@@ -3,6 +3,10 @@
       {
           "name": "maxAgents",
           "type": "string"
+      },
+      {
+        "name":  "exit",
+        "type": "image"
       }
     ],
     "children": [
