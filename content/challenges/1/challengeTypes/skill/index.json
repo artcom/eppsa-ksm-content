@@ -1,10 +1,10 @@
 {
-  "question": "What is your favorite color?",
-  "answer1": "Green",
-  "answer2": "Blue, no red. No, wait, green. Or yellow, maybe?",
-  "answer3": "Dunno",
-  "answer4": "What?",
+  "manualText": "",
+  "question": "",
+  "answer1": "",
+  "answer2": "",
+  "answer3": "",
+  "answer4": "",
   "correctAnswer": 1,
-  "template": "quiz",
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich."
+  "template": "quiz"
 }
