@@ -2,7 +2,11 @@
   "name": "Ein Baum",
   "description": "Er Malt.",
   "icon": {
+<<<<<<< HEAD
+    "src": "be/Sequoia_au_parc_de_Noisiel-be99d13a4aa09ea0dc724d50ca1878ab951ee743.jpg"
+=======
     "src": "a3/baum-a31506f511605d3c819e91513da2cea2e19a2a86.jpg"
+>>>>>>> 49b0e6f6e0c4ff9929e0ec89c1fca8ca7f43e311
   },
   "template": "avatar"
 }
