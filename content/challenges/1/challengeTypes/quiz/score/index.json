@@ -4,5 +4,5 @@
   "tier1TimeBonus": 1000,
   "tier2TimeBonus": 500,
   "tier3TimeBonus": 200,
-  "template": "scoreCalculation"
+  "template": "score"
 }

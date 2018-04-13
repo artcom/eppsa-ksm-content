@@ -3,10 +3,9 @@
     {
       "name": "manualText",
       "type": "string"
-    },
-    {
-      "name": "reward",
-      "type": "number"
     }
+  ],
+  "children": [
+    "score"
   ]
 }

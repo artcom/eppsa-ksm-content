@@ -48,6 +48,6 @@
     }
   ],
   "children": [
-    "scoreCalculation"
+    "score"
   ]
 }

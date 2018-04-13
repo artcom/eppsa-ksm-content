@@ -16,6 +16,7 @@
   "children": [
     "players",
     "quests",
-    "items"
+    "items",
+    "score"
   ]
 }
