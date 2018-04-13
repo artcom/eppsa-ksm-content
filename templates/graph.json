@@ -5,6 +5,10 @@
       "type": "string",
       "default": "Bringe alle Leute nach Hause."
     },
+ 	{
+      "name": "spawnInterval",
+      "type": "number"
+    },
     {
       "name": "maxAgents",
       "type": "string"
