@@ -1,6 +1,7 @@
 {
   "children": [
     "button",
+    "clicker",
     "hidden",
     "hunt",
     "graph",
