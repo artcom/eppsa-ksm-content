@@ -5,7 +5,7 @@
           "type": "string"
       },
       {
-        "name":  "exit",
+        "name":  "image",
         "type": "image"
       }
     ]
