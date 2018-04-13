@@ -3,7 +3,7 @@
   "nodePauseTime": 0,
   "yPosition": 18,
   "edgeDirection": "none",
-  "connectedTo": "List [ 6 ]",
+  "connectedTo": "[ 6 ]",
   "collisionEventEdge": "1.4",
   "isExit": "false",
   "edgeTreshold": 1.4,
