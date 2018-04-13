@@ -1,0 +1,12 @@
+{
+    "fields": [
+      {
+          "name": "maxAgents",
+          "type": "string"
+      }
+    ],
+    "children": [
+      "agents", "nodes"
+    ]
+  }
+  
