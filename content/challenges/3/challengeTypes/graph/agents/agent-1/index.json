@@ -1,13 +1,13 @@
 {
-    "name": "bakerh",				
-    "classes": 5,					
-    "classCap": 40,				
-    "spawnProbability": 0.2,		
-    "isHostile": "false",		
-    "pauseTime": 2.5,				
-    "speed": 1,					
-    "localRotation": 90,			
-    "assignedDestination": 0,		
-    "collisionRadius": 0.5,
-    "template": "agent"
+  "assignedDestination": 0,
+  "pauseTime": 2.5,
+  "collisionRadius": 0.5,
+  "classes": 5,
+  "speed": 1,
+  "localRotation": 90,
+  "name": "bakerh",
+  "isHostile": "false",
+  "template": "agent",
+  "spawnProbability": 0.2,
+  "classCap": 40
 }
