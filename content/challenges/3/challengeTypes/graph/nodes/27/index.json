@@ -1,0 +1,17 @@
+{
+  "xPosition": 90,
+  "nodePauseTime": 0,
+  "yPosition": 90,
+  "edgeDirection": "none",
+  "connectedTo": "List [ 26 ]",
+  "collisionEventEdge": "false",
+  "isExit": "false",
+  "edgeTreshold": 1.4,
+  "collisionEventNode": "false",
+  "nodeState": "exit",
+  "isStart": "false",
+  "template": "node",
+  "expectedVisitors": 5,
+  "skin": "tailor",
+  "nodeID": 27
+}
