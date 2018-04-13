@@ -1,16 +1,16 @@
 {
     "fields": [
       {
-          "name": "maxAgents",
-          "type": "string"
+          "name": "spawnInterval",
+          "type": "number"
       },
       {
-        "name":  "exit",
-        "type": "image"
+          "name": "maxAgents",
+          "type": "string"
       }
     ],
     "children": [
-      "agents", "nodes"
+      "agents", "nodes", "assets"
     ]
   }
   
