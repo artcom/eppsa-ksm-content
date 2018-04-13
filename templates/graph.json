@@ -10,8 +10,8 @@
     }
   ],
   "children": [
-    "agents",
-    "nodes",
+    "graphAgents",
+    "graphNodes",
     "score"
   ]
 }
