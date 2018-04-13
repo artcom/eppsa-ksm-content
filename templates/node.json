@@ -22,7 +22,7 @@
         },
         {
             "name": "nodeState",
-            "type": "number"
+            "type": "string"
         },
         {
             "name": "isStart",
