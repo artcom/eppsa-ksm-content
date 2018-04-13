@@ -1,6 +1,7 @@
 {
     "name": "baker",
-    "image": ""
+    "image": "",
+    "template": "asset"
     
   }
   
