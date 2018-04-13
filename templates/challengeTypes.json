@@ -1,6 +1,11 @@
 {
   "children": [
     "button",
-    "quiz"
+    "hidden",
+    "hunt",
+    "graph",
+    "quiz",
+    "skill",
+    "sorting",
   ]
 }

@@ -8,12 +8,5 @@
       "name": "reward",
       "type": "number"
     }
-    {
-        "name": "maxAgents",
-        "type": "string"
-    }
-  ],
-  "children": [
-    "agents", "nodes"
   ]
 }
