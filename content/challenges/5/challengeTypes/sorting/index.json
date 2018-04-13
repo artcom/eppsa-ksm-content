@@ -1,5 +1,6 @@
 {
   "manualText": "",
-  "reward": null,
+  "topLabel": "Reichtum",
+  "bottomLabel": "Armut",
   "template": "sorting"
 }

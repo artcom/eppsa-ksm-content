@@ -1,0 +1,9 @@
+{
+  "image": {
+    "src": ""
+  },
+  "text": "info text - correct position 1",
+  "initialPosition": 4,
+  "correctPosition": 1,
+  "template": "sortingItem"
+}
