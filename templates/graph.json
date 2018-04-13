@@ -12,6 +12,10 @@
     {
       "name": "maxAgents",
       "type": "string"
+    },
+    {
+      "name": "timer",
+      "type": "number"
     }
   ],
   "children": [
