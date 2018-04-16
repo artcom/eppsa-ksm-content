@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "tag": "",
-  "direction": "",
+  "name": "puppy",
+  "tag": "cute,doggie,is,pure,love",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "1",
   "type": 1,
   "template": "picture"
 }
