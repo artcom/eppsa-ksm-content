@@ -1,6 +1,6 @@
 {
   "maxAgents": 5,
   "template": "graph",
-  "spawnInterval": 1,
+  "spawnInterval": 3,
   "timer": 330
 }
