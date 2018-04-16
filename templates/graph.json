@@ -16,6 +16,10 @@
     {
       "name": "timer",
       "type": "number"
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string"
     }
   ],
   "children": [
