@@ -1,0 +1,10 @@
+{
+  "name": "puppy2",
+  "tag": "cute,doggie,wants,cuddles",
+  "direction": "Right",
+  "positionX": "",
+  "positionY": "",
+  "depth": "1",
+  "type": 1,
+  "template": "picture"
+}
