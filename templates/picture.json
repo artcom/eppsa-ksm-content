@@ -1,0 +1,43 @@
+{
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "tag",
+            "type": "string"
+        },
+        {
+            "name": "direction",
+            "type": "string"
+        },
+        {
+            "name": "positionX",
+            "type": "string"
+        },
+        {
+            "name": "positionY",
+            "type": "string"
+        },
+        {
+            "name": "depth",
+            "type": "string"
+        },
+        {
+            "name": "type",
+            "type": "enum",
+            "values": [
+                {
+                  "name": "interactive",
+                  "value": 1
+                },
+                {
+                  "name": "blocking",
+                  "value": 2
+                }
+              ]
+        }
+    ]
+    
+}

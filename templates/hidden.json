@@ -3,9 +3,13 @@
     {
       "name": "manualText",
       "type": "string"
+    },
+    {
+      "name": "timer",
+      "type": "number"
     }
   ],
   "children": [
-    "score"
+    "score", "pictures", "assets"
   ]
 }
