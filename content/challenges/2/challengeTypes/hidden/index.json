@@ -1,3 +1,4 @@
 {
-  "timer": 60
+  "timer": 60,
+  "template": "hidden"
 }
