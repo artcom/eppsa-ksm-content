@@ -1,0 +1,12 @@
+{
+    "fields": [
+      {
+          "name": "timer",
+          "type": "number"
+      }
+    ],
+    "children": [
+      "pictures", "assets"
+    ]
+  }
+  
