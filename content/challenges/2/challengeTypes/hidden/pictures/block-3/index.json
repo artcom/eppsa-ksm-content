@@ -1,0 +1,10 @@
+{
+  "name": "block3",
+  "tag": "",
+  "direction": "",
+  "positionX": "60",
+  "positionY": "750",
+  "depth": "4",
+  "type": 2,
+  "template": "picture"
+}
