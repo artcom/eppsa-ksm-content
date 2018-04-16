@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "tag": "",
-  "direction": "",
+  "name": "piggy",
+  "tag": "cute,piggy",
+  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }
