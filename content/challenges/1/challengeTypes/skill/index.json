@@ -1,0 +1,21 @@
+{
+  "maxTilt": 30,
+  "npcHorizontalExit": 0.3,
+  "vehicleWinAngle": 3,
+  "timer": 20,
+  "vehicleAngle": 20,
+  "streamWindAngle": 20,
+  "streamForce": 4,
+  "minTilt": -30,
+  "countdown": 5,
+  "sensitivty": 2,
+  "npcTiltStay": 0.3,
+  "streamWinAngle": 20,
+  "template": "skill",
+  "inertia": 0.4,
+  "npcTiltExit": 0.7,
+  "streamRange": 20,
+  "destabiliser": 0.01,
+  "npcHorizontalStay": 0.7,
+  "sensitivity": 2
+}

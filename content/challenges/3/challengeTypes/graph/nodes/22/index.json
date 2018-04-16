@@ -1,0 +1,17 @@
+{
+  "xPosition": 160,
+  "nodePauseTime": 4,
+  "yPosition": 55,
+  "edgeDirection": "none",
+  "connectedTo": "[ 21 ]",
+  "collisionEventEdge": "true",
+  "isExit": "false",
+  "edgeTreshold": 1.4,
+  "collisionEventNode": "false",
+  "nodeState": "exit",
+  "isStart": "false",
+  "template": "node",
+  "expectedVisitors": 5,
+  "skin": "shoemaker",
+  "nodeID": 22
+}

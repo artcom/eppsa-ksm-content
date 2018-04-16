@@ -1,12 +1,20 @@
 {
     "fields": [
       {
+          "name": "spawnInterval",
+          "type": "number"
+      },
+      {
           "name": "maxAgents",
           "type": "string"
+      },
+      {
+          "name": "timer",
+          "type": "number"
       }
     ],
     "children": [
-      "agents", "nodes"
+      "agents", "nodes", "assets"
     ]
   }
   
