@@ -5,18 +5,13 @@
       "type": "string"
     },
     {
-      "name": "name",
-      "type": "string"
-    },
-    {
-      "name": "description",
+      "name": "maxAgents",
       "type": "string"
     }
   ],
   "children": [
-    "players",
-    "quests",
-    "items",
+    "agents",
+    "nodes",
     "score"
   ]
 }

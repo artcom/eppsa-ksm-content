@@ -1,0 +1,13 @@
+{
+  "assignedDestination": 0,
+  "pauseTime": 2.5,
+  "collisionRadius": 0.5,
+  "classes": 5,
+  "speed": 1,
+  "localRotation": 90,
+  "name": "bakerh",
+  "isHostile": "false",
+  "template": "agent",
+  "spawnProbability": 0.2,
+  "classCap": 40
+}
