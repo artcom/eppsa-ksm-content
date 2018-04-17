@@ -1,10 +1,11 @@
 {
+  "depth": "4",
+  "img": "piggy",
   "name": "block2",
-  "tag": "",
-  "direction": "",
   "positionX": "20",
   "positionY": "500",
-  "depth": "4",
+  "template": "picture",
   "type": 2,
-  "template": "picture"
+  "tag": "",
+  "direction": ""
 }
