@@ -6,5 +6,6 @@
   "questionTitle": "Frage:",
   "selectName": "Wähle deinen Namen!",
   "selectNamePlaceholder": "Spielername eingeben",
-  "confirm": "Bestätigen"
+  "confirm": "Bestätigen",
+  "confirmSelection": "Auswahl bestätigen"
 }
