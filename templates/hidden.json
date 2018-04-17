@@ -10,27 +10,27 @@
     },
     {
       "name": "Row1Max",
-      "type": "string"
+      "type": "number"
     },
     {
       "name": "Row1Min",
-      "type": "string"
+      "type": "number"
     },
     {
       "name": "Row2Max",
-      "type": "string"
+      "type": "number"
     },
     {
       "name": "Row2Min",
-      "type": "string"
+      "type": "number"
     },
     {
       "name": "Row3Max",
-      "type": "string"
+      "type": "number"
     },
     {
       "name": "Row3Min",
-      "type": "string"
+      "type": "number"
     },
     {
       "name": "YPosRow1",
