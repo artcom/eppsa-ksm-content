@@ -5,7 +5,7 @@
         "type": "string"
         },
         {
-            "name": "tags",
+            "name": "tag",
             "type": "string"
             },
             ]
