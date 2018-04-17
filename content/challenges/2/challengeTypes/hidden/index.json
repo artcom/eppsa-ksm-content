@@ -1,13 +1,13 @@
 {
 	"timer": 60,
-	"Row1Max" : 5,
-	"Row1Min" : 2,
-	"Row2Max" : 5,
-	"Row2Min" : 1,
-	"Row3Max" : 5,
-	"Row4Min" : 3,
-	"YPosRow1" : 50,
-	"YPosRow2" : 150,
-	"YPosRow3" : 350,
+	"Spawn Intervall Row1 max" : 5,
+	"Spawn Intervall Row1 min" : 2,
+	"Spawn Intervall Row2 max" : 5,
+	"Spawn Intervall Row2 min" : 1,
+	"Spawn Intervall Row3 max" : 5,
+	"Spawn Intervall Row4 min" : 3,
+	"YPos Row1" : 50,
+	"YPos Row2" : 150,
+	"YPos Row3" : 350,
 	"template": "hidden"
 }
