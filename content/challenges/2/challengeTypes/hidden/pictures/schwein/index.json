@@ -1,10 +1,11 @@
 {
+  "depth": "2",
+  "img": "piggy",
   "name": "Schwein",
-  "tag": "cute,piggy",
-  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "2",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "cute,piggy",
+  "direction": "Left"
 }
