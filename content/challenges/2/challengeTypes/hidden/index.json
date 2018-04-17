@@ -1,14 +1,14 @@
 {
-  "timer": 60,
-  "Row3Max": 5,
-  "Row2Max": 5,
-  "Row1Max": 5,
-  "YPosRow1": 50,
-  "YPosRow2": 150,
-  "YPosRow3": "250",
-  "Row4Min": 3,
-  "Row3Min": "3",
-  "template": "hidden",
-  "Row2Min": 1,
-  "Row1Min": 2
+	"timer": 60,
+	"Row3Max": 5,
+	"Row2Max": 5,
+	"Row1Max": 5,
+	"YPosRow1": 50,
+	"YPosRow2": 150,
+	"YPosRow3": 250,
+	"Row3Min": 3,
+	"Row2Min": 1,
+	"Row1Min": 2,
+
+	"template": "hidden",
 }
