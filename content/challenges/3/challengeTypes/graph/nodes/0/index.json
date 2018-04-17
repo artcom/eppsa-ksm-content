@@ -11,7 +11,7 @@
   "collisionEventNode": "false",
   "nodeState": "start",
   "isStart": "false",
-  "template": "node",
+  "template": "graphNode",
   "skin": "",
   "nodeID": 0
 }

@@ -18,7 +18,7 @@
       }
     ],
     "children": [
-      "agents", "nodes", "assets"
+      "graphAgents", "graphNodes", "assets"
     ]
   }
   

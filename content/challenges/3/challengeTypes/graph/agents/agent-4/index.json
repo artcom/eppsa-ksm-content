@@ -7,7 +7,7 @@
   "localRotation": 90,
   "name": "shoemakerh",
   "isHostile": "false",
-  "template": "agent",
+  "template": "graphAgent",
   "spawnProbability": 0.2,
   "classCap": 40
 }

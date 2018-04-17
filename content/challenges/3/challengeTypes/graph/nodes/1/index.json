@@ -10,7 +10,7 @@
   "collisionEventNode": "true",
   "nodeState": "regular",
   "isStart": "false",
-  "template": "node",
+  "template": "graphNode",
   "expectedVisitors": 5,
   "skin": "",
   "nodeID": 1
