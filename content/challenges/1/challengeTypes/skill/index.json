@@ -10,7 +10,7 @@
   "countdown": 3,
   "sensitivty": 2,
   "npcTiltStay": 0.3,
-  "streamWinAngle": 20,
+  "streamWinAngle": 3,
   "template": "skill",
   "inertia": 0.4,
   "npcTiltExit": 0.7,
