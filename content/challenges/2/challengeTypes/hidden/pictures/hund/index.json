@@ -1,10 +1,11 @@
 {
+  "depth": "3",
+  "img": "puppy",
   "name": "Hund",
-  "tag": "cute,doggie,is,fluff",
-  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "3",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "cute,doggie,is,fluff",
+  "direction": "Right"
 }
