@@ -1,24 +1,17 @@
 {
-    "fields": [
-      {
-          "name": "spawnInterval",
-          "type": "number"
-      },
-      {
-          "name": "maxAgents",
-          "type": "string"
-      },
-      {
-          "name": "timer",
-          "type": "number"
-      },
-      {
-          "name": "backgroundColor",
-          "type": "string"
-      }
-    ],
-    "children": [
-      "graphAgents", "graphNodes", "assets"
-    ]
-  }
-  
+  "fields": [
+    {
+      "name": "manualText",
+      "type": "string"
+    },
+    {
+      "name": "maxAgents",
+      "type": "string"
+    }
+  ],
+  "children": [
+    "graphAgents",
+    "graphNodes",
+    "score"
+  ]
+}
