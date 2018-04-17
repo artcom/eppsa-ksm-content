@@ -1,12 +1,48 @@
 {
-    "fields": [
+  "fields": 
+  [
+  {
+    "name": "timer",
+    "type": "number"
+    },
+    {
+      "name": "Spawn Intervall Row1 max",
+      "type": "string"
+      },
       {
-          "name": "timer",
-          "type": "number"
-      }
-    ],
-    "children": [
-      "pictures", "assets"
-    ]
-  }
-  
+        "name": "Spawn Intervall Row1 min",
+        "type": "string"
+        },  
+        {
+          "name": "Spawn Intervall Row2 max",
+          "type": "string"
+          },  
+          {
+            "name": "Spawn Intervall Row2 min",
+            "type": "string"
+            },  
+            {
+              "name": "Spawn Intervall Row3 max",
+              "type": "string"
+              },  
+              {
+                "name": "Spawn Intervall Row3 min",
+                "type": "string"
+                },
+                {
+                  "name": "YPos Row1",
+                  "type": "string"
+                  },
+                  {
+                    "name": "YPos Row1",
+                    "type": "string"
+                    },   
+                    {
+                      "name": "YPos Row1",
+                      "type": "string"
+                    }
+                    ],
+                    "children": [
+                    "pictures", "assets"
+                    ]
+                  }
