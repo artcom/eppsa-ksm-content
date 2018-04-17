@@ -9,39 +9,39 @@
       "type": "number"
     },
     {
-      "name": "Spawn Intervall Row1 max",
+      "name": "Row1Max",
       "type": "string"
     },
     {
-      "name": "Spawn Intervall Row1 min",
+      "name": "Row1Min",
       "type": "string"
     },
     {
-      "name": "Spawn Intervall Row2 max",
+      "name": "Row2Max",
       "type": "string"
     },
     {
-      "name": "Spawn Intervall Row2 min",
+      "name": "Row2Min",
       "type": "string"
     },
     {
-      "name": "Spawn Intervall Row3 max",
+      "name": "Row3Max",
       "type": "string"
     },
     {
-      "name": "Spawn Intervall Row3 min",
+      "name": "Row3Min",
       "type": "string"
     },
     {
-      "name": "YPos Row1",
+      "name": "YPosRow1",
       "type": "string"
     },
     {
-      "name": "YPos Row1",
+      "name": "YPosRow2",
       "type": "string"
     },
     {
-      "name": "YPos Row1",
+      "name": "YPosRow3",
       "type": "string"
     }
   ],
