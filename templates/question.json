@@ -1,0 +1,13 @@
+{
+    "fields": [
+    {
+        "name": "question",
+        "type": "string"
+        },
+        {
+            "name": "tags",
+            "type": "string"
+            },
+            ]
+            
+        }
