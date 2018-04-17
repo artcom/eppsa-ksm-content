@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "name": "image",
+      "type": "image"
+    },
+    {
+      "name": "text",
+      "type": "string"
+    },
+    {
+      "name": "initialPosition",
+      "type": "number"
+    },
+    {
+      "name": "correctPosition",
+      "type": "number"
+    }
+  ]
+}

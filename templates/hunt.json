@@ -14,8 +14,9 @@
     }
   ],
   "children": [
-    "players",
-    "quests",
-    "items"
+    "huntPlayers",
+    "huntQuests",
+    "huntItems",
+    "score"
   ]
 }
