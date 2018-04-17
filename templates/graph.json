@@ -25,6 +25,7 @@
   "children": [
     "graphAgents",
     "graphNodes",
+	"assets",
     "score"
   ]
 }
