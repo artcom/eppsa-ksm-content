@@ -1,6 +1,14 @@
 {
   "fields": [
     {
+      "name": "toPlayerName",
+      "type": "string"
+    },
+    {
+      "name": "back",
+      "type": "string"
+    },
+    {
       "name": "next",
       "type": "string"
     },

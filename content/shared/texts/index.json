@@ -1,5 +1,7 @@
 {
   "next": "Weiter",
+  "toPlayerName": "Zum Spielernamen",
+  "back": "Zurück",
   "template": "texts",
   "questionTitle": "Frage:"
 }
