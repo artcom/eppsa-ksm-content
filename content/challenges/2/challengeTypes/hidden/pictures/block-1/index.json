@@ -1,0 +1,11 @@
+{
+  "depth": "4",
+  "img": "kitty",
+  "name": "block1",
+  "positionX": "50",
+  "positionY": "150",
+  "template": "picture",
+  "type": 2,
+  "tag": "",
+  "direction": ""
+}

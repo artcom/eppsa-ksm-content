@@ -2,7 +2,7 @@
   "maxTilt": 30,
   "npcHorizontalExit": 0.3,
   "vehicleWinAngle": 3,
-  "timer": 20,
+  "timer": 5,
   "vehicleAngle": 20,
   "streamWindAngle": 20,
   "streamForce": 4,
