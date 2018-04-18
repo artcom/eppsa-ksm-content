@@ -1,11 +1,22 @@
 {
   "fields": [
+  {
+    "name": "timer",
+    "type": "number" 
+    },
     {
       "name": "manualText",
       "type": "string"
+      },
+      {
+        "name": "MovementX",
+        "type": "number"
+      }
+      {
+        "name": "reward",
+        "type": "number"
+      }
+      ],
+      "children": [
+      "assets", "score"]
     }
-  ],
-  "children": [
-    "score"
-  ]
-}
