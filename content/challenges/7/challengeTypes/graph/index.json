@@ -1,5 +1,6 @@
 {
   "spawnInterval": 2,
+  "designModeOn": "true",
   "rewardValue": 100,
   "timer": 300,
   "rotateAgents": "true",
@@ -12,5 +13,6 @@
   "drawLinesAndNodes": "false",
   "backgroundColor": "",
   "template": "graph",
-  "gameTypeFactor": 4
+  "gameTypeFactor": 4,
+  "showScrollButton": "false"
 }
