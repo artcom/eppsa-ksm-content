@@ -49,11 +49,19 @@
       "type": "string"
     },
     {
+      "name": "showScrollButton",
+      "type": "string"
+    },
+    {
       "name": "lineColor",
       "type": "string"
     },
     {
       "name": "pathColor",
+      "type": "string"
+    },
+    {
+      "name": "designModeOn",
       "type": "string"
     }
   ],
