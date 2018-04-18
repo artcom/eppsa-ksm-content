@@ -5,10 +5,10 @@
   "agentOrigin": "0.5,0.78",
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
-  "lineColor": "#CCD6DF",
+  "lineColor": "0xCCD6DF",
   "maxAgents": 5,
   "drawLinesAndNodes": "true",
   "backgroundColor": "#18516A",
   "template": "graph",
-  "pathColor": "#CCD6DF"
+  "pathColor": "0xCCD6DF"
 }
