@@ -1,7 +1,7 @@
 {
-  "timer": null,
+  "timer": 10,
   "manualText": "",
-  "MovementX": null,
-  "reward": null,
+  "MovementX": 20,
+  "reward": 50,
   "template": "clicker"
 }
