@@ -53,6 +53,6 @@
     "graphAgents",
     "graphNodes",
     "assets",
-    "score"
+    "graphControlPoints"
   ]
 }
