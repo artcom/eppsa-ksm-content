@@ -1,6 +1,6 @@
 {
   "spawnInterval": 1,
-  "rewardValue": 500,
+  "rewardValue": 100,
   "timer": 330,
   "rotateAgents": "false",
   "agentOrigin": "0.5,0.78",
