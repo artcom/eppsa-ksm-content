@@ -1,0 +1,17 @@
+{
+  "xPosition": 10,
+  "nodePauseTime": 2,
+  "yPosition": 20,
+  "edgeDirection": "right",
+  "connectedTo": "[1]",
+  "collisionEventEdge": "true",
+  "isExit": "false",
+  "edgeTreshold": 2.4,
+  "collisionEventNode": "true",
+  "nodeState": "start",
+  "isStart": "false",
+  "template": "graphNode",
+  "expectedVisitors": null,
+  "skin": "",
+  "nodeID": 0
+}
