@@ -7,11 +7,28 @@
     {
       "name": "maxAgents",
       "type": "string"
+    },
+    {
+      "name": "spawnInterval",
+      "type": "number"
+    },
+    {
+      "name": "timer",
+      "type": "number"
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string"
+    },
+    {
+      "name": "backgroundImage",
+      "type": "string"
     }
   ],
   "children": [
     "graphAgents",
     "graphNodes",
+    "assets",
     "score"
   ]
 }
