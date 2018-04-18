@@ -17,6 +17,10 @@
       "type": "string"
     },
     {
+      "name": "agentOrigin",
+      "type": "string"
+    },
+    {
       "name": "timer",
       "type": "number"
     },
