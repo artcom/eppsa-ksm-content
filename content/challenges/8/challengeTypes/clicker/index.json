@@ -1,5 +1,7 @@
 {
+  "timer": null,
   "manualText": "",
+  "MovementX": null,
   "reward": null,
-  "template": "button"
+  "template": "clicker"
 }
