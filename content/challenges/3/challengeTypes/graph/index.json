@@ -3,5 +3,6 @@
   "template": "graph",
   "spawnInterval": 1,
   "timer": 330,
-  "backgroundColor": "#18516A"
+  "backgroundColor": "#18516A",
+  "rotateAgents": "false"
 }
