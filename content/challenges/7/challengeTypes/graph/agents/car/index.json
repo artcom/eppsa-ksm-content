@@ -5,7 +5,7 @@
   "classes": 3,
   "speed": 2,
   "localRotation": 90,
-  "name": "",
+  "name": "car",
   "isHostile": "false",
   "template": "graphAgent",
   "spawnProbability": 1,
