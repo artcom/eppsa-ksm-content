@@ -5,7 +5,15 @@
       "type": "string",
       "default": "Bringe alle Leute nach Hause."
     },
- 	{
+    {
+      "name": "timer",
+      "type": "number"
+    },
+    {
+      "name": "maxAgents",
+      "type": "string"
+    },
+    {
       "name": "spawnInterval",
       "type": "number"
     },
@@ -14,8 +22,12 @@
       "type": "string"
     },
     {
-      "name": "maxAgents",
-      "type": "string"
+      "name": "rewardValue",
+      "type": "number"
+    },
+    {
+      "name": "gameTypeFactor",
+      "type": "number"
     },
     {
       "name": "agentOriginX",
@@ -23,10 +35,6 @@
     },
     {
       "name": "agentOriginY",
-      "type": "number"
-    },
-    {
-      "name": "timer",
       "type": "number"
     },
     {
