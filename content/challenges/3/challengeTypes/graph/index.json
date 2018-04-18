@@ -1,9 +1,11 @@
 {
-  "maxAgents": 5,
-  "template": "graph",
   "spawnInterval": 1,
   "timer": 330,
-  "backgroundColor": "#18516A",
   "rotateAgents": "false",
-  "agentOrigin": "0.5,0.78"
+  "agentOrigin": "0.5,0.78",
+  "agentOriginX": 0.5,
+  "agentOriginY": 0.78,
+  "maxAgents": 5,
+  "backgroundColor": "#18516A",
+  "template": "graph"
 }
