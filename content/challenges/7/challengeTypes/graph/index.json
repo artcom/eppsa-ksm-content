@@ -8,6 +8,7 @@
   "agentOriginY": 0,
   "maxAgents": "1",
   "manualText": "",
+  "drawLinesAndNodes": "false",
   "backgroundColor": "",
   "template": "graph"
 }
