@@ -18,8 +18,12 @@
       "type": "string"
     },
     {
-      "name": "agentOrigin",
-      "type": "string"
+      "name": "agentOriginX",
+      "type": "number"
+    },
+    {
+      "name": "agentOriginY",
+      "type": "number"
     },
     {
       "name": "timer",
