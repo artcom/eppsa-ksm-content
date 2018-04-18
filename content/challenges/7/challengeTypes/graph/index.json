@@ -5,5 +5,6 @@
   "timer": 30,
   "backgroundColor": "",
   "backgroundImage": "background",
-  "template": "graph"
+  "template": "graph",
+  "rotateAgents": "true"
 }
