@@ -1,5 +1,6 @@
 {
   "spawnInterval": 1,
+  "rewardValue": 500,
   "timer": 330,
   "rotateAgents": "false",
   "agentOrigin": "0.5,0.78",
@@ -10,5 +11,6 @@
   "drawLinesAndNodes": "true",
   "backgroundColor": "#18516A",
   "template": "graph",
+  "gameTypeFactor": 3,
   "pathColor": "0xCCD6DF"
 }
