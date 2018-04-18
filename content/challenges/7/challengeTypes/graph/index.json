@@ -1,9 +1,9 @@
 {
   "manualText": "",
-  "maxAgents": "",
-  "spawnInterval": null,
-  "timer": null,
+  "maxAgents": "5",
+  "spawnInterval": 2,
+  "timer": 30,
   "backgroundColor": "",
-  "backgroundImage": "",
+  "backgroundImage": "background",
   "template": "graph"
 }
