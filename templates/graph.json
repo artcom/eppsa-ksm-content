@@ -20,6 +20,10 @@
     {
       "name": "backgroundColor",
       "type": "string"
+    },
+    {
+      "name": "backgroundImage",
+      "type": "string"
     }
   ],
   "children": [
