@@ -5,6 +5,10 @@
       "type": "string"
     },
     {
+      "name": "timer",
+      "type": "number"
+    },
+    {
       "name": "maxAgents",
       "type": "string"
     },
@@ -17,15 +21,19 @@
       "type": "string"
     },
     {
+      "name": "rewardValue",
+      "type": "number"
+    },
+    {
+      "name": "gameTypeFactor",
+      "type": "number"
+    },
+    {
       "name": "agentOriginX",
       "type": "number"
     },
     {
       "name": "agentOriginY",
-      "type": "number"
-    },
-    {
-      "name": "timer",
       "type": "number"
     },
     {
