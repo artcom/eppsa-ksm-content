@@ -45,7 +45,7 @@
             "type": "string"
         },
         {
-            "name": "edgeTreshold",
+            "name": "edgeThreshold",
             "type": "number"
         },
         {
