@@ -1,10 +1,11 @@
 {
-  "manualText": "",
-  "maxAgents": "1",
   "spawnInterval": 2,
   "timer": 30,
-  "backgroundColor": "",
+  "rotateAgents": "true",
+  "agentOrigin": "0.5, 0",
   "backgroundImage": "background",
-  "template": "graph",
-  "rotateAgents": "true"
+  "maxAgents": "1",
+  "manualText": "",
+  "backgroundColor": "",
+  "template": "graph"
 }
