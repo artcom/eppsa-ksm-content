@@ -11,12 +11,12 @@
       {
         "name": "MovementX",
         "type": "number"
+        },
+        {
+          "name": "reward",
+          "type": "number"
+        }
+        ],
+        "children": [
+        "assets", "score"]
       }
-      {
-        "name": "reward",
-        "type": "number"
-      }
-      ],
-      "children": [
-      "assets", "score"]
-    }
