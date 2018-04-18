@@ -35,6 +35,18 @@
     {
       "name": "backgroundImage",
       "type": "string"
+    },
+    {
+      "name": "drawLinesAndNodes",
+      "type": "string"
+    },
+    {
+      "name": "lineColor",
+      "type": "string"
+    },
+    {
+      "name": "pathColor",
+      "type": "string"
     }
   ],
   "children": [
