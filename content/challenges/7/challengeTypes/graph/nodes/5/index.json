@@ -1,9 +1,9 @@
 {
-  "xPosition": 75,
+  "xPosition": 99,
   "nodePauseTime": null,
-  "yPosition": 70,
+  "yPosition": 10,
   "edgeDirection": "left",
-  "connectedTo": "[0]",
+  "connectedTo": "[4]",
   "collisionEventEdge": "true",
   "isExit": "false",
   "edgeTreshold": 0,
@@ -13,6 +13,5 @@
   "template": "graphNode",
   "expectedVisitors": 2,
   "skin": "",
-  "nodeID": 1
+  "nodeID": 5
 }
-
