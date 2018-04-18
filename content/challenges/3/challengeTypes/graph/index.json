@@ -1,5 +1,6 @@
 {
   "spawnInterval": 1,
+  "designModeOn": "true",
   "rewardValue": 100,
   "timer": 330,
   "rotateAgents": "false",
@@ -12,5 +13,6 @@
   "backgroundColor": "#18516A",
   "template": "graph",
   "gameTypeFactor": 3,
+  "showScrollButton": "true",
   "pathColor": "0xCCD6DF"
 }
