@@ -6,7 +6,7 @@
   "connectedTo": "[12]",
   "collisionEventEdge": "true",
   "isExit": "false",
-  "edgeTreshold": 0.2,
+  "edgeTreshold": 12,
   "collisionEventNode": "false",
   "nodeState": "regular",
   "isStart": "false",
