@@ -1,5 +1,6 @@
 {
   "spawnInterval": 2,
+  "rewardValue": 100,
   "timer": 300,
   "rotateAgents": "true",
   "agentOrigin": "0.5, 0",
@@ -10,5 +11,6 @@
   "manualText": "",
   "drawLinesAndNodes": "false",
   "backgroundColor": "",
-  "template": "graph"
+  "template": "graph",
+  "gameTypeFactor": 4
 }
