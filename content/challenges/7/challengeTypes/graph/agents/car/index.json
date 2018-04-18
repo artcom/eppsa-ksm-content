@@ -3,7 +3,7 @@
   "pauseTime": 0,
   "collisionRadius": 20,
   "classes": 3,
-  "speed": 2,
+  "speed": 5,
   "localRotation": 90,
   "name": "car",
   "isHostile": "false",
