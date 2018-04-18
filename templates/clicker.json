@@ -1,12 +1,25 @@
 {
   "fields": [
+  	{
+      "name": "timer",
+      "type": "number" 
+    },
     {
       "name": "manualText",
       "type": "string",
       "default": "Ganz schnell drücken."
+    },
+    {
+      "name": "MovementX",
+      "type": "number"
+    },
+    {
+      "name": "reward",
+      "type": "number"
     }
   ],
   "children": [
-    "score"
+    "assets", "score"
   ]
 }
+
