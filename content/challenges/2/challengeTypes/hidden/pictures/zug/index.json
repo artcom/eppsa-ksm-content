@@ -1,7 +1,7 @@
 {
   "img": "Zug",
   "tag": "",
-  "direction": "",
+  "direction": "Right",
   "positionX": "21",
   "positionY": "30",
   "depth": "4",
