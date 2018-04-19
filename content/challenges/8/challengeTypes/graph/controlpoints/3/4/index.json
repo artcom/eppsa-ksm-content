@@ -1,6 +1,6 @@
 {
   "skin": "schupo",
-  "rotationWaiting": 90,
+  "rotationWaiting": 0,
   "waitTime": 3,
   "crashIf": "[4]",
   "pointsIf": "[2,8]",
