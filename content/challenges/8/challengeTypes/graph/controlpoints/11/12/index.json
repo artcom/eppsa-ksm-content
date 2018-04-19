@@ -2,7 +2,7 @@
   "crashIf": "[12]",
   "pointsIf": "[1,9]",
   "template": "graphControlPointLastNode",
-  "rotationWaiting": 90,
+  "rotationWaiting": 0,
   "waitTime": 3,
   "skin": "schupo"
 }
