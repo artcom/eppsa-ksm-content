@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "boat3",
+  "image": {
+    "src": "48/Ship_3-488af9e042c5d063a8ee77d4c9e6c04aab5ccc13.png"
+  },
   "template": "asset"
 }
