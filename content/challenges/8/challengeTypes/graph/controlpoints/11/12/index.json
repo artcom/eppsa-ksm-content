@@ -1,5 +1,7 @@
 {
   "crashIf": "[12]",
   "pointsIf": "[1,9]",
-  "template": "graphControlPointLastNode"
+  "template": "graphControlPointLastNode",
+  "rotationWaiting": 90,
+  "waitTime": 3
 }
