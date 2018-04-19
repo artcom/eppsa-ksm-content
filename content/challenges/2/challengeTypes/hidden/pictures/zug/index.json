@@ -2,8 +2,8 @@
   "img": "Zug",
   "tag": "",
   "direction": "Right",
-  "positionX": "30",
-  "positionY": "30",
+  "positionX": "",
+  "positionY": "",
   "depth": "4",
   "type": 2,
   "template": "picture"
