@@ -3,7 +3,7 @@
   "Row3Max": 5000,
   "Row2Max": 5000,
   "Row1Max": 5000,
-  "YPosRow1": "window.innerHeight",
+  "YPosRow1": "100",
   "YPosRow2": "150",
   "YPosRow3": "250",
   "Row3Min": 3000,
