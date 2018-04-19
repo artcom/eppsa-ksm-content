@@ -1,6 +1,6 @@
 {
   "xPosition": 75,
-  "nodePauseTime": null,
+  "nodePauseTime": 3,
   "yPosition": 25,
   "edgeDirection": "left",
   "connectedTo": "[2,4,8]",
