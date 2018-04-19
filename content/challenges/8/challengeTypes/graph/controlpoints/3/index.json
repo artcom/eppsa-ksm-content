@@ -1,7 +1,4 @@
 {
-  "connectedNode": 3,
-  "crashIf": "[4]",
-  "pointsIf": "[8,2]",
   "skin": "schupo",
   "template": "graphControlPoint"
 }
