@@ -4,5 +4,6 @@
   "finishText": "Herzlichen Glückwunsch. Sie haben es geschafft.",
   "buttonGameFactor": 10,
   "quizGameFactor": 100,
-  "navigationToStartText": "Um das Spiel Bretterretter zu spielen gehen Sie bitte zum Anfang der Ausstellung und wählen Sie dort einen Avatar aus."
+  "navigationToStartText": "Um das Spiel Bretterretter zu spielen gehen Sie bitte zum Anfang der Ausstellung und wählen Sie dort einen Avatar aus.",
+  "name": "Bretterretter"
 }
