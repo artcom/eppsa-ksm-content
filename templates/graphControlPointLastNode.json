@@ -6,7 +6,7 @@
         },
         {
             "name": "rotationWaiting",
-            "type": "nuber"
+            "type": "number"
         },
         {
             "name": "waitTime",
