@@ -1,21 +1,12 @@
 {
     "fields": [
         {
-            "name": "connectedNode",
-            "type": "number"
-        },
-        {
-            "name": "crashIf",
-            "type": "string"
-        },
-        {
-            "name": "pointsIf",
-            "type": "string"
-        },
-        {
             "name": "skin",
             "type": "string"
         }
+    ],
+    "children": [
+      "graphLastNode"
     ]
     
 }
