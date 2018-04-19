@@ -3,6 +3,6 @@
   "pointsIf": "[2]",
   "template": "graphControlPointLastNode",
   "skin": "schupo",
-  "rotationWaiting": 90,
+  "rotationWaiting": 0,
   "waitTime": 3
 }
