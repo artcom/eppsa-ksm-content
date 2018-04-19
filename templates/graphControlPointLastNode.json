@@ -1,0 +1,25 @@
+{
+    "fields": [
+        {
+            "name": "skin",
+            "type": "string"
+        },
+        {
+            "name": "rotationWaiting",
+            "type": "nuber"
+        },
+        {
+            "name": "waitTime",
+            "type": "number"
+        },
+        {
+            "name": "crashIf",
+            "type": "string"
+        },
+        {
+            "name": "pointsIf",
+            "type": "string"
+        }
+    ]
+  
+}
