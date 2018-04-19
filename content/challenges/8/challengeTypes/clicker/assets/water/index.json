@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "water",
+  "image": {
+    "src": "e1/Rhein-e175c01f1d5154a1a4b19d3ab275594c6c6a9eed.png"
+  },
   "template": "asset"
 }
