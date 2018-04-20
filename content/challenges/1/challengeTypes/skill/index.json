@@ -5,7 +5,7 @@
   "timer": 23,
   "vehicleAngle": 30,
   "streamForce": null,
-  "minTilt": 20,
+  "minTilt": -20,
   "countdown": 2,
   "npcTiltStay": 0.3,
   "streamWinAngle": 3,
