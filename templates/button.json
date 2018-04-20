@@ -2,7 +2,8 @@
   "fields": [
     {
       "name": "manualText",
-      "type": "string"
+      "type": "string",
+      "default": "Drücken Sie den Knopf ganz fest."
     }
   ],
   "children": [
