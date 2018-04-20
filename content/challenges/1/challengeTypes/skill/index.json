@@ -13,7 +13,7 @@
   "inertia": 1,
   "npcTiltExit": 0.7,
   "streamRange": 30,
-  "destabiliser": 0.001,
+  "destabiliser": 0.01,
   "npcHorizontalStay": 0.7,
   "sensitivity": 1
 }
