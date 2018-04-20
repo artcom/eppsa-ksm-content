@@ -15,6 +15,18 @@
     {
       "name": "questionTitle",
       "type": "string"
+    },
+    {
+      "name": "selectName",
+      "type": "string"
+    },
+    {
+      "name": "selectNamePlaceholder",
+      "type": "string"
+    },
+    {
+      "name": "confirm",
+      "type": "string"
     }
   ]
 }
