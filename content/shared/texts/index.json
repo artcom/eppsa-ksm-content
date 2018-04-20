@@ -2,7 +2,7 @@
   "next": "Weiter",
   "toPlayerName": "Zum Spielernamen",
   "back": "Zurück",
-  "template": "texts",
+  "template": "sharedTexts",
   "questionTitle": "Frage:",
   "selectName": "Wähle deinen Namen!",
   "selectNamePlaceholder": "Spielername eingeben",
