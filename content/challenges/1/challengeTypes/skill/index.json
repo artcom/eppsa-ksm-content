@@ -15,5 +15,5 @@
   "streamRange": 30,
   "destabiliser": 0.01,
   "npcHorizontalStay": 0.7,
-  "sensitivity": 3
+  "sensitivity": 1
 }
