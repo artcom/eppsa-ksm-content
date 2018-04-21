@@ -1,6 +1,6 @@
 {
   "navigationText": "Go to first station",
-  "color": "blue",
+  "color": "#d4310f",
   "token": "1",
   "template": "challenge"
 }
