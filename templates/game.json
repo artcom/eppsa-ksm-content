@@ -6,7 +6,7 @@
     },
     {
       "name": "manualText",
-      "type": "string"
+      "type": "markdown"
     },
     {
       "name": "finishText",
@@ -14,7 +14,7 @@
     },
     {
       "name": "navigationToStartText",
-      "type": "string"
+      "type": "markdown"
     }
   ],
   "children": [
