@@ -5,7 +5,11 @@
       "type": "string"
     },
     {
-      "name": "manualText",
+      "name": "gameManualTitle",
+      "type": "string"
+    },
+    {
+      "name": "gameManualText",
       "type": "markdown"
     },
     {
