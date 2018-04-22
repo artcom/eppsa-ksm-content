@@ -17,6 +17,10 @@
       "type": "string"
     },
     {
+      "name": "navigationToStartTitle",
+      "type": "markdown"
+    },
+    {
       "name": "navigationToStartText",
       "type": "markdown"
     }
