@@ -1,10 +1,10 @@
 {
-  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
-  "question": "Welcher gesellschaftlicher Wandel ist an den neuen Zielgruppen für Gesellschaftsspiele zu erkennen?",
-  "answer1": "Der Stellenwert von „Kindheit“",
-  "answer2": "Das Wachstum der Oberschicht",
-  "answer3": "Die Verminderung der Kindersterblichkeit",
-  "answer4": "Eine frühere kindliche Reife",
+  "manualText": "Schau dir die Felder 80 bis 90 des Spielplans von „Die Reise in Himmelreich“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "In „Die Reise ins Himmelreich“ wird der Spieler auf Feld 82 einer Probe unterzogen. Was wird dabei gewogen?",
+  "answer1": "Die Tugenden gegen die Sünden",
+  "answer2": "Das Ausmaß der Todsünde Völlerei",
+  "answer3": "Das Gewicht des Herzens gegen eine Feder",
+  "answer4": "Das Gewicht zu Lebzeiten",
   "correctAnswer": 1,
   "template": "quiz"
 }
