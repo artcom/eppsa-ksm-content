@@ -1,6 +1,6 @@
 {
   "image": null,
-  "text": "Was soll ich herausgeben?",
+  "text": "",
   "initialPosition": null,
   "correctPosition": 2,
   "template": "sortingItem"
