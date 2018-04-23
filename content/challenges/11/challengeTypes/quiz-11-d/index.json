@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Ließ dir die Beschreibungstexte zu diesem Bereich genau durch. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
+  "question": "Seit wann findet die gamescom in Köln statt?",
+  "answer1": "2009",
+  "answer2": "2012",
+  "answer3": "2007",
+  "answer4": "2015",
   "correctAnswer": 1,
   "template": "quiz"
 }
