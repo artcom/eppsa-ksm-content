@@ -2,8 +2,8 @@
   "image": {
     "src": "cb/picsum.photos1-cbe8575b1238771ea1173b3e72f7768f18c9b86c.jpeg"
   },
-  "text": "info text - correct position 4",
-  "initialPosition": 2,
-  "correctPosition": 4,
+  "text": "Köln",
+  "initialPosition": 0,
+  "correctPosition": 2,
   "template": "sortingItem"
 }
