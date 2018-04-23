@@ -1,9 +1,14 @@
 {
     "fields": [
       {
+        "name": "manualText",
+        "type": "string",
+        "default": "Teste deinen Skill."
+      },
+      {
         "name": "timer",
         "type": "number"
-    },
+      },
       {
         "name": "countdown",
         "type": "number"
