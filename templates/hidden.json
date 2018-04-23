@@ -30,6 +30,14 @@
                 "type": "number"
                 },
                 {
+                  "name": "Row4Max",
+                  "type": "number"
+                  },  
+                  {
+                    "name": "Row4Min",
+                    "type": "number"
+                    },
+                {
                   "name": "YPosRow1",
                   "type": "string"
                   },
@@ -39,6 +47,10 @@
                     },   
                     {
                       "name": "YPosRow3",
+                      "type": "string"
+                    },
+                    {
+                      "name": "YPosRow4",
                       "type": "string"
                     }
                     ],
