@@ -1,0 +1,8 @@
+{
+  "name": "Schachfigur",
+  "description": "Springt hin und her",
+  "icon": {
+    "src": "93/chess_la-9360a7fbc37a51a535bdefe9ae5ba11a46c447af.png"
+  },
+  "template": "avatar"
+}

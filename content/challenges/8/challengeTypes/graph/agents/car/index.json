@@ -1,0 +1,13 @@
+{
+  "assignedDestination": "[6]",
+  "pauseTime": 0,
+  "collisionRadius": 20,
+  "classes": 3,
+  "speed": 5,
+  "localRotation": 90,
+  "name": "car",
+  "isHostile": "false",
+  "template": "graphAgent",
+  "spawnProbability": 1,
+  "classCap": 30
+}

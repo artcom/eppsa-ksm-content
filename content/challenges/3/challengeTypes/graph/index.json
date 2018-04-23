@@ -1,7 +1,0 @@
-{
-  "maxAgents": 5,
-  "template": "graph",
-  "spawnInterval": 1,
-  "timer": 330,
-  "backgroundColor": "#18516A"
-}

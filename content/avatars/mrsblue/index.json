@@ -1,0 +1,8 @@
+{
+  "name": "Frau Blau",
+  "description": "Blau",
+  "icon": {
+    "src": "65/mrsblue_la-655187c5676ab99b7dc04bc8b54631fcd8118bde.png"
+  },
+  "template": "avatar"
+}

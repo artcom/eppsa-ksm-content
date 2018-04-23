@@ -1,0 +1,8 @@
+{
+  "reward": 1000,
+  "sessionLength": 20,
+  "tier1TimeBonus": 1000,
+  "tier2TimeBonus": 500,
+  "tier3TimeBonus": 200,
+  "template": "score"
+}

@@ -2,16 +2,74 @@
   "fields": [
     {
       "name": "manualText",
-      "type": "string"
+      "type": "string",
+      "default": "Bringe alle Leute nach Hause."
+    },
+    {
+      "name": "timer",
+      "type": "number"
     },
     {
       "name": "maxAgents",
+      "type": "string"
+    },
+    {
+      "name": "spawnInterval",
+      "type": "number"
+    },
+    {
+      "name": "rotateAgents",
+      "type": "string"
+    },
+    {
+      "name": "rewardValue",
+      "type": "number"
+    },
+    {
+      "name": "gameTypeFactor",
+      "type": "number"
+    },
+    {
+      "name": "agentOriginX",
+      "type": "number"
+    },
+    {
+      "name": "agentOriginY",
+      "type": "number"
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string"
+    },
+    {
+      "name": "backgroundImage",
+      "type": "string"
+    },
+    {
+      "name": "drawLinesAndNodes",
+      "type": "string"
+    },
+    {
+      "name": "showScrollButton",
+      "type": "string"
+    },
+    {
+      "name": "lineColor",
+      "type": "string"
+    },
+    {
+      "name": "pathColor",
+      "type": "string"
+    },
+    {
+      "name": "designModeOn",
       "type": "string"
     }
   ],
   "children": [
     "graphAgents",
     "graphNodes",
-    "score"
+    "assets",
+    "graphControlPoints"
   ]
 }

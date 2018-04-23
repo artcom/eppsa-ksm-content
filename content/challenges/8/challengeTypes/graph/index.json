@@ -1,0 +1,18 @@
+{
+  "spawnInterval": 2,
+  "designModeOn": "true",
+  "rewardValue": 100,
+  "timer": 300,
+  "rotateAgents": "true",
+  "agentOrigin": "0.5, 0",
+  "backgroundImage": "background",
+  "agentOriginX": 0.5,
+  "agentOriginY": 0,
+  "maxAgents": "1",
+  "manualText": "",
+  "drawLinesAndNodes": "false",
+  "backgroundColor": "",
+  "template": "graph",
+  "gameTypeFactor": 4,
+  "showScrollButton": "false"
+}
