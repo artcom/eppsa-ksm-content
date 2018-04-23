@@ -6,6 +6,10 @@
     "type": "number"
     },
     {
+      "name": "rewardValue",
+      "type": "number"
+    },
+    {
       "name": "Row1Max",
       "type": "number"
       },
