@@ -23,7 +23,7 @@
     {
       "name": "selectAvatarInstructions",
       "type": "string"
-    }
+    },
     {
       "name": "selectName",
       "type": "string"
