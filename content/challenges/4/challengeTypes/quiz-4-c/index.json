@@ -1,10 +1,10 @@
 {
-  "manualText": "Schau dir die Felder 80 bis 90 des Spielplans von „Die Reise in Himmelreich“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
-  "question": "In „Die Reise ins Himmelreich“ wird der Spieler auf Feld 82 einer Probe unterzogen. Was wird dabei gewogen?",
-  "answer1": "Die Tugenden gegen die Sünden",
-  "answer2": "Das Ausmaß der Todsünde Völlerei",
-  "answer3": "Das Gewicht des Herzens gegen eine Feder",
-  "answer4": "Das Gewicht zu Lebzeiten",
+  "manualText": "Schau dir die Spielkarten von „Was kochen wir?“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "Welche Zielgruppe sollte bei „Was kochen wir?“ spielend etwas über ihre gesellschaftliche Rolle erfahren?",
+  "answer1": "Junge Mädchen",
+  "answer2": "Junge Mütter",
+  "answer3": "Dienstmädchen",
+  "answer4": "Eltern",
   "correctAnswer": 1,
   "template": "quiz"
 }
