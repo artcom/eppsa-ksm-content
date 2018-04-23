@@ -16,6 +16,18 @@
         {
           "name": "reward",
           "type": "number"
+        },
+        {
+          "name": "StartPointY",
+          "type": "string" 
+        },
+        {
+          "name": "StartPointX",
+          "type": "string"
+        },
+        {
+          "name": "EndPointX",
+          "type": "string"
         }
         ],
         "children": [
