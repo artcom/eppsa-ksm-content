@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Papageien-Ober",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 3,
   "template": "sortingItem"
 }
