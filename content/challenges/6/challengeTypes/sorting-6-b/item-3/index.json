@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Köln",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 3,
   "template": "sortingItem"
 }
