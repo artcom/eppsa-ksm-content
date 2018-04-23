@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Lindau",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 1,
   "template": "sortingItem"
 }
