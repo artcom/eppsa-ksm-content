@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Passepartout",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 2,
   "template": "sortingItem"
 }
