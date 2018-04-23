@@ -1,0 +1,10 @@
+{
+  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
+  "question": "",
+  "answer1": "",
+  "answer2": "",
+  "answer3": "",
+  "answer4": "",
+  "correctAnswer": 1,
+  "template": "quiz"
+}
