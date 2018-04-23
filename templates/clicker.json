@@ -6,7 +6,8 @@
     },
     {
       "name": "manualText",
-      "type": "string"
+      "type": "string",
+      "default": "Ganz schnell drücken"
       },
       {
         "name": "MovementX",
