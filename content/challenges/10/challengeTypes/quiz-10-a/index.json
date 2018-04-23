@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Schau dir die Spielkarten von „Was bin ich“ aufmerksam an. Tippe dann auf „Starten“, um den Beruf der Person zu erraten.",
+  "question": "Kannst du den Beruf erraten? „Ich trage Blau und halte Ordnung in der Verwaltung.“",
+  "answer1": "Kontoristin",
+  "answer2": "Soufleuse",
+  "answer3": "Briefträger",
+  "answer4": "Pilot",
   "correctAnswer": 1,
   "template": "quiz"
 }
