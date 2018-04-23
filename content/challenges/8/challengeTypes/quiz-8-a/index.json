@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Schau dir das Verkehrsspiel „Der gute Schupo“ genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
+  "question": "Welcher Satz kann dem Verhalten der beiden Kinder auf dem Bild zugewiesen werden?",
+  "answer1": "Auf den Schienen spiele nimmermehr; Du schadest dir und dem Verkehr!",
+  "answer2": "Gewöhnt es euch beizeiten an: Rechts geht – links überholet man!",
+  "answer3": "Die Richtungszeichen unbedingt beachte, weil Gefahr dir winkt!",
+  "answer4": "Der gute Schupo sperrt den Weg, drum wartet auf dem Bürgersteg!",
   "correctAnswer": 1,
   "template": "quiz"
 }
