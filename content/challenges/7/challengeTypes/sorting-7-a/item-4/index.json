@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Wright",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 4,
   "template": "sortingItem"
 }
