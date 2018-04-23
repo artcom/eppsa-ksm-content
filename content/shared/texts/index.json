@@ -4,6 +4,8 @@
   "back": "Zurück",
   "template": "texts",
   "questionTitle": "Frage:",
+  "selectAvatar": "Scanne eine Spielfigur um das Spiel zu beginnen!",
+  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur.",
   "selectName": "Wähle deinen Namen!",
   "selectNamePlaceholder": "Spielername eingeben",
   "confirm": "Bestätigen"

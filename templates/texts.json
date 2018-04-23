@@ -17,6 +17,14 @@
       "type": "string"
     },
     {
+      "name": "selectAvatar",
+      "type": "string"
+    },
+    {
+      "name": "selectAvatarInstructions",
+      "type": "string"
+    }
+    {
       "name": "selectName",
       "type": "string"
     },
