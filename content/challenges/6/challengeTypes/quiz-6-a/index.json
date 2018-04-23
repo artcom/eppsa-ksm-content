@@ -1,10 +1,10 @@
 {
-  "question": "When?",
-  "answer1": "Last year",
-  "answer2": "Yesterday",
-  "answer3": "Tomorrow",
-  "answer4": "Last week",
-  "correctAnswer": 3,
+  "question": "Welches Selbstverständnis könnte man dem Hauptcharakter in „Vernes Reise um die Welt“ den Darstellungen nach am ehesten zuschreiben? Schau dir das Spiel genau an.",
+  "answer1": "Gentleman",
+  "answer2": "Kapitän",
+  "answer3": "Wanderarbeiter",
+  "answer4": "Schriftsteller",
+  "correctAnswer": 1,
   "template": "quiz",
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich."
+  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglichSieh dir das Spielbrett von „Vernes Reise um die Welt“ genauer an. Tippe auf „Starten“, um das Quiz zu beginnen."
 }
