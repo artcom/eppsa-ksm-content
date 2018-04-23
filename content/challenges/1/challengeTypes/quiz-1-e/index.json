@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "Welche Seite eines Astragals hatte die höchste Punktzahl?",
+  "answer1": "Kyon-Seite",
+  "answer2": "Hyption-Seite",
+  "answer3": "Pranes-Seite",
+  "answer4": "Chion-Seite",
   "correctAnswer": 1,
   "template": "quiz"
 }
