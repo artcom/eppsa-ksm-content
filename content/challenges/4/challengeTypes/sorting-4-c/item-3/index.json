@@ -2,6 +2,6 @@
   "image": null,
   "text": "",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 3,
   "template": "sortingItem"
 }
