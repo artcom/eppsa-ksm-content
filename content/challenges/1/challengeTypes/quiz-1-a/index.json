@@ -1,10 +1,10 @@
 {
   "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf weiter.",
-  "question": "What is your favorite color",
-  "answer1": "Green",
-  "answer2": "Blue, no red",
-  "answer3": "Dunno",
-  "answer4": "25",
+  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum würfeln benutzt?",
+  "answer1": "Sprungbein",
+  "answer2": "Fersenbein",
+  "answer3": "Hufbein",
+  "answer4": "Erbsenbein",
   "correctAnswer": 1,
   "template": "quiz"
 }
