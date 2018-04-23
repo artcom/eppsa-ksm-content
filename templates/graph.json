@@ -26,10 +26,6 @@
       "type": "number"
     },
     {
-      "name": "gameTypeFactor",
-      "type": "number"
-    },
-    {
       "name": "agentOriginX",
       "type": "number"
     },
