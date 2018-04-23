@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir die „Scopa“-Karten genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
+  "question": "Aus welchem Land stammten die Arbeitsmigranten, welche das Spiel „Scopa“ nach Deutschland einführten?",
+  "answer1": "Italien",
+  "answer2": "Spanien",
+  "answer3": "Türkei",
+  "answer4": "Portugal",
   "correctAnswer": 1,
   "template": "quiz"
 }
