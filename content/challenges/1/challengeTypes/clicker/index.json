@@ -1,7 +1,7 @@
 {
   "timer": 10,
   "manualText": "",
-  "MovementX": 20,
+  "MovementX": 5,
   "reward": 50,
   "template": "clicker",
   "StartPointY": "20",
