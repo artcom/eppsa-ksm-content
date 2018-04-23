@@ -1,6 +1,6 @@
 {
   "image": null,
-  "text": "Sieben Spielsteine",
+  "text": "",
   "initialPosition": null,
   "correctPosition": 3,
   "template": "sortingItem"
