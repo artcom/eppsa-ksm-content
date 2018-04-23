@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Schau dir die Spielkarten von „Was bin ich“ aufmerksam an. Tippe dann auf „Starten“, um den Beruf der Person zu erraten.",
+  "question": "Kannst du den Beruf erraten? „Ich trage eine braune Jacke und schaue durch Linsen, aber nur nachts.“",
+  "answer1": "Astronom",
+  "answer2": "Schneider",
+  "answer3": "Reporter",
+  "answer4": "Verkäuferin",
   "correctAnswer": 1,
   "template": "quiz"
 }
