@@ -1,6 +1,6 @@
 {
   "image": null,
-  "text": "Was soll ich einkaufen?",
+  "text": "",
   "initialPosition": null,
   "correctPosition": 1,
   "template": "sortingItem"
