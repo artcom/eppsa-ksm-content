@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Lilienthal",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 2,
   "template": "sortingItem"
 }
