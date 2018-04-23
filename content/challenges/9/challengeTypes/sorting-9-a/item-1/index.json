@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Schachspiel des Kölner Erzbischofs Maximilian Friedrich",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 1,
   "template": "sortingItem"
 }
