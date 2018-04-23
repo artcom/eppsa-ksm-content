@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
+  "question": "An welches Verhalten wurde im Nationalsozialismus durch das Spiel „Jagd auf Kohlenklau“ appelliert?",
+  "answer1": "Energiesparen",
+  "answer2": "Notfallversorgung",
+  "answer3": "Wachsamkeit",
+  "answer4": "Sauberkeit",
   "correctAnswer": 1,
   "template": "quiz"
 }
