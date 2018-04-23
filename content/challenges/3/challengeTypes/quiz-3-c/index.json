@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir das Spiel „Das 19. Jahrhundert“ und seine Beschreibungstexte genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "Was geschah im Jahr 1848?",
+  "answer1": "Revolution in Europa",
+  "answer2": "Gründung des Deutschen Reiches",
+  "answer3": "Errichtung des Dreibundes",
+  "answer4": "Vollendung des Kölner Doms",
   "correctAnswer": 1,
   "template": "quiz"
 }
