@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Schau dir die gläsernen Spielsteine und ihre Beschreibungstexte genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "In welchem Zusammenhang wurden diese Spielsteine verwendet?",
+  "answer1": "Als Grabbeigabe",
+  "answer2": "Als Verlobungsgeschenk",
+  "answer3": "Als Festtags-Spiel der Saturnalien",
+  "answer4": "Als Haarschmuck",
   "correctAnswer": 1,
   "template": "quiz"
 }
