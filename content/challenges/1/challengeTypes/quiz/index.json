@@ -1,0 +1,10 @@
+{
+  "manualText": "Answer the questions as fast as you can.",
+  "question": "What is your favorite color",
+  "answer1": "Green",
+  "answer2": "Blue, no red",
+  "answer3": "Dunno",
+  "answer4": "25",
+  "correctAnswer": 1,
+  "template": "quiz"
+}

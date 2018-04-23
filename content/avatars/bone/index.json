@@ -1,0 +1,8 @@
+{
+  "name": "Knochen",
+  "description": "Würfelt",
+  "icon": {
+    "src": "c2/bone_la-c2f23891f19475c7fb6bbcb18beace578486c5a8.png"
+  },
+  "template": "avatar"
+}

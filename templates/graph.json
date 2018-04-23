@@ -2,7 +2,8 @@
   "fields": [
     {
       "name": "manualText",
-      "type": "string"
+      "type": "string",
+      "default": "Bringe alle Leute nach Hause."
     },
     {
       "name": "timer",

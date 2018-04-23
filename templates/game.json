@@ -1,16 +1,28 @@
 {
   "fields": [
     {
-      "name": "manualText",
+      "name": "name",
       "type": "string"
+    },
+    {
+      "name": "gameManualTitle",
+      "type": "string"
+    },
+    {
+      "name": "gameManualText",
+      "type": "markdown"
     },
     {
       "name": "finishText",
       "type": "string"
     },
     {
-      "name": "navigationToStartText",
+      "name": "navigationToStartTitle",
       "type": "string"
+    },
+    {
+      "name": "navigationToStartText",
+      "type": "markdown"
     }
   ],
   "children": [

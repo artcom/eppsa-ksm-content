@@ -1,8 +1,11 @@
 {
   "template": "game",
-  "manualText": "Willkomen in der Spieleaustellung. Das ist ein tolles Spiel.",
+  "gameManualTitle": "Spielanleitung",
+  "gameManualText": "# 1. Spiele auf Zeit\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. \n\n# 2. Punkte\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ",
   "finishText": "Herzlichen Glückwunsch. Sie haben es geschafft.",
   "buttonGameFactor": 10,
   "quizGameFactor": 100,
-  "navigationToStartText": "Um das Spiel Bretterretter zu spielen gehen Sie bitte zum Anfang der Ausstellung und wählen Sie dort einen Avatar aus."
+  "navigationToStartTitle": "BRetter",
+  "navigationToStartText": "Um das Spiel Bretterretter zu spielen gehen Sie bitte zum Anfang der Ausstellung und wählen Sie dort einen Avatar aus.",
+  "name": "Bretterretter"
 }

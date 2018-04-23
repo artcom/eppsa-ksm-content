@@ -1,5 +1,10 @@
 {
   "next": "Weiter",
+  "toPlayerName": "Zum Spielernamen",
+  "back": "Zurück",
   "template": "texts",
-  "questionTitle": "Frage:"
+  "questionTitle": "Frage:",
+  "selectName": "Wähle deinen Namen!",
+  "selectNamePlaceholder": "Spielername eingeben",
+  "confirm": "Bestätigen"
 }
