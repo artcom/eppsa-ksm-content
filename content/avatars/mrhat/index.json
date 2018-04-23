@@ -1,0 +1,8 @@
+{
+  "name": "Herr Hut",
+  "description": "Zylindrisch",
+  "icon": {
+    "src": "ce/mrhat_la-cebf0b70bcd19456077dca2a65613ed234c13f8d.png"
+  },
+  "template": "avatar"
+}

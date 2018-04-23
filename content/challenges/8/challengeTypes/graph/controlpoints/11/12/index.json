@@ -1,5 +1,8 @@
 {
   "crashIf": "[12]",
   "pointsIf": "[1,9]",
-  "template": "graphLastNode"
+  "template": "graphControlPointLastNode",
+  "rotationWaiting": 0,
+  "waitTime": 3,
+  "skin": "schupo"
 }

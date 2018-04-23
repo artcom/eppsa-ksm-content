@@ -1,0 +1,8 @@
+{
+  "name": "Flugzeug",
+  "description": "Fliegt",
+  "icon": {
+    "src": "16/airplane_la-166b3a75893e3557baf5a0090a1bfacfb6fcf48b.png"
+  },
+  "template": "avatar"
+}

@@ -1,11 +1,31 @@
 {
   "fields": [
+  {
+    "name": "timer",
+    "type": "number" 
+    },
     {
       "name": "manualText",
-      "type": "string"
-    }
-  ],
-  "children": [
-    "score"
-  ]
-}
+      "type": "string",
+      "default": "Ganz schnell drücken"
+      },
+      {
+        "name": "MovementX",
+        "type": "number"
+        },
+        {
+          "name": "StartPointY",
+          "type": "string" 
+        },
+        {
+          "name": "StartPointX",
+          "type": "string"
+        },
+        {
+          "name": "EndPointX",
+          "type": "string"
+        }
+        ],
+        "children": [
+        "assets", "score"]
+      }

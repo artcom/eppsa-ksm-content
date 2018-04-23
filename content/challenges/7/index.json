@@ -1,6 +1,6 @@
 {
   "navigationText": "Got to seventh station",
-  "color": "magenta",
+  "color": "#1c416b",
   "token": "7",
   "template": "challenge"
 }

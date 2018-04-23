@@ -1,4 +1,8 @@
 {
   "quizFactor": 1.2,
-  "template": "config"
+  "template": "config",
+  "hiddenFactor": 1.5,
+  "clickerFactor": 1.8,
+  "skillFactor": 1.7,
+  "graphFactor": 1.3
 }

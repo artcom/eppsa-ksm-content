@@ -1,9 +1,18 @@
 {
     "fields": [
       {
+        "name": "manualText",
+        "type": "string",
+        "default": "Teste deinen Skill."
+      },
+      {
         "name": "timer",
         "type": "number"
-    },
+      },
+      {
+        "name": "rewardValue",
+        "type": "number"
+      },
       {
         "name": "countdown",
         "type": "number"
@@ -67,7 +76,7 @@
     
     ],
     "children": [
-      "scoreCalculation"
+      "assets"
     ]
   }
   
