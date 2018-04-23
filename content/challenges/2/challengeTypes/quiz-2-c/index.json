@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir die Tric-Trac-Spielsteine und ihre Beschreibungstexte genau an! Tippe dann auf „Starten“, um die Quizfrage zu starten.",
+  "question": "Welchem Zweck dienten die oftmals politischen oder religiösen Motive auf den Spielsteinen?",
+  "answer1": "Als Gesprächsstoff während des Spiels",
+  "answer2": "Als eine Erkennungshilfe für blinde Spieler",
+  "answer3": "Als Verhinderung von Spielbetrug",
+  "answer4": "Zur Erinnerung für zukünftige Generationen",
   "correctAnswer": 1,
   "template": "quiz"
 }
