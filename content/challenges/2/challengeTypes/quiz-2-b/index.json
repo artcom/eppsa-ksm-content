@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Schau dir die Tric-Trac-Spielsteine genau an oder untersuche das Bild in der nächsten Quizfrage.",
+  "question": "In welcher Lebensphase bestieg Kaiser Joseph I. den ungarischen Thron?",
+  "answer1": "Als Kind",
+  "answer2": "Als Jugendlicher",
+  "answer3": "Als junger Erwachsener",
+  "answer4": "An seinem 30. Geburtstag",
   "correctAnswer": 1,
   "template": "quiz"
 }
