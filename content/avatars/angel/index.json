@@ -1,0 +1,8 @@
+{
+  "name": "Engel",
+  "description": "Fliegt auch",
+  "icon": {
+    "src": "41/angel_la-4114da1f61c91a79d403e139631d1b78f9b27b1e.png"
+  },
+  "template": "avatar"
+}

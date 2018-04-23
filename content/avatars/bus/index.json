@@ -1,8 +1,0 @@
-{
-  "name": "Ein Bus",
-  "description": "Er fährt.",
-  "icon": {
-    "src": "f4/bus-f48ad46021e1723e0b073ea6d148fe1cd3fbdc70.jpg"
-  },
-  "template": "avatar"
-}
