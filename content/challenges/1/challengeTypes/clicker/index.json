@@ -3,5 +3,8 @@
   "manualText": "",
   "MovementX": 20,
   "reward": 50,
-  "template": "clicker"
+  "template": "clicker",
+  "StartPointY": "20",
+  "StartPointX": "20",
+  "EndPointX": "50"
 }
