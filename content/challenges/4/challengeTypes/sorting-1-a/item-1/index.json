@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Ordne den Tagesablauf einer „vorbildlichen“ Hausfrau von morgens bis abends.",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 1,
   "template": "sortingItem"
 }
