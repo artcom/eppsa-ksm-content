@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir die Spiele von der Front des Ersten Weltkriegs genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
+  "question": "Welches Spiel war kompakt und stabil genug, um per Feldpost an die Front des Ersten Weltkriegs gesendet zu werden?",
+  "answer1": "Schützengraben-Geduldspiel",
+  "answer2": "Flottenmanöver",
+  "answer3": "Rheinreise-Geduldspiel",
+  "answer4": "Die Eroberung der Luft",
   "correctAnswer": 1,
   "template": "quiz"
 }
