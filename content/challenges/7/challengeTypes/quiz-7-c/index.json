@@ -1,10 +1,10 @@
 {
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "question": "",
-  "answer1": "",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "manualText": "Sieh dir die Spiele von der Front des Ersten Weltkriegs genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
+  "question": "Welche Figur kommt im „Schützengraben-Geduldspiel“ nicht vor?",
+  "answer1": "Katapult",
+  "answer2": "Drahtschere",
+  "answer3": "Granate",
+  "answer4": "Schanzzeug",
   "correctAnswer": 1,
   "template": "quiz"
 }
