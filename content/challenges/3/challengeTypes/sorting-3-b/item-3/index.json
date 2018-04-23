@@ -1,7 +1,7 @@
 {
   "image": null,
-  "text": "",
+  "text": "Schlacht von Waterloo",
   "initialPosition": null,
-  "correctPosition": null,
+  "correctPosition": 3,
   "template": "sortingItem"
 }
