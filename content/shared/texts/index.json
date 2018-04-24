@@ -1,6 +1,8 @@
 {
   "confirm": "Bestätigen",
   "back": "Zurück",
+  "template": "sharedTexts",
+  "questionTitle": "Frage:",
   "selectName": "Wähle deinen Namen!",
   "toPlayerName": "Zum Spielernamen",
   "selectNamePlaceholder": "Spielername eingeben",

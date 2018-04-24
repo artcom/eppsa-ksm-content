@@ -1,4 +1,5 @@
 {
-  "quizFactor": 1.2,
-  "template": "config"
+  "quizScoreFactor": 1.2,
+  "sortingScoreFactor": 1.2,
+  "template": "sharedConfig"
 }

@@ -1,0 +1,12 @@
+{
+  "fields": [
+    {
+      "name": "quizScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "sortingScoreFactor",
+      "type": "number"
+    }
+  ]
+}
