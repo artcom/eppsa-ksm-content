@@ -2,5 +2,6 @@
   "navigationText": "Got to eleventh station",
   "color": "#903486",
   "token": "11",
-  "template": "challenge"
+  "template": "challenge",
+  "description": "Description for Challenge 11"
 }
