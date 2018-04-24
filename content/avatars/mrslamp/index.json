@@ -1,0 +1,14 @@
+{
+  "name": "Frau Lampe",
+  "description": "Licht",
+  "large": {
+    "src": "2d/mrslamp_la-2d9970910f396bc1c8b21c9e01748afae3cf0a13.png"
+  },
+  "template": "avatar",
+  "small": {
+    "src": "e6/mrslamp_sm-e6935e0377f803481da4f776c5697f86a3e36c50.png"
+  },
+  "medium": {
+    "src": "bd/mrslamp_me-bd89e6cd468e5a25840a537224af74198b32ec71.png"
+  }
+}
