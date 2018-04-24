@@ -1,0 +1,10 @@
+{
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "In welchem Körperteil von Huftieren findet man den Knochen, mit dem man würfeln kann?",
+  "answer1": "Fuß",
+  "answer2": "Horn",
+  "answer3": "Hufe",
+  "answer4": "Wirbelsäule",
+  "correctAnswer": 1,
+  "template": "quiz"
+}

@@ -1,8 +1,9 @@
 {
   "maxTilt": 20,
+  "rewardValue": 50,
   "npcHorizontalExit": 0.3,
   "vehicleWinAngle": 3,
-  "timer": 23,
+  "timer": 230,
   "vehicleAngle": 30,
   "streamForce": null,
   "minTilt": -20,

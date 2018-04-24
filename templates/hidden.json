@@ -1,15 +1,12 @@
 {
-  "fields": [
-    {
+  "fields": 
+  [
+	{
       "name": "manualText",
       "type": "string"
     },
     {
       "name": "timer",
-      "type": "number"
-    },
-    {
-      "name": "rewardValue",
       "type": "number"
     },
     {

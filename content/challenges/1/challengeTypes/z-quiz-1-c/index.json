@@ -1,0 +1,10 @@
+{
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
+  "question": "Welche weitere Bedeutung hatte das Würfeln mit Astragalen außerhalb des Spiels?",
+  "answer1": "Orakelbefragung",
+  "answer2": "Vertreibung von bösen Geistern",
+  "answer3": "Hochzeitsritual",
+  "answer4": "Keine weitere Bedeutung",
+  "correctAnswer": 1,
+  "template": "quiz"
+}

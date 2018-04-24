@@ -1,8 +1,8 @@
 {
   "fields": [
-  	{
-      "name": "timer",
-      "type": "number" 
+  {
+    "name": "timer",
+    "type": "number" 
     },
     {
       "name": "manualText",

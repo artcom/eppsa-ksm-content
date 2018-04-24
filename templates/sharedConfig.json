@@ -23,6 +23,22 @@
     {
       "name": "graphScoreFactor",
       "type": "number"
+    },
+    {
+      "name": "hiddenScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "clickerScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "skillScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "graphScoreFactor",
+      "type": "number"
     }
   ]
 }

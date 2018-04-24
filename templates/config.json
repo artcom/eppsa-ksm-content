@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "name": "quizFactor",
+      "type": "number"
+    },
+    {
+      "name": "hiddenFactor",
+      "type": "number"
+    },
+    {
+      "name": "clickerFactor",
+      "type": "number"
+    },
+    {
+      "name": "skillFactor",
+      "type": "number"
+    },
+    {
+      "name": "graphFactor",
+      "type": "number"
+    }
+  ]
+}
