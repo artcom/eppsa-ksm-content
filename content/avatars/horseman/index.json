@@ -4,5 +4,11 @@
   "large": {
     "src": "9d/horseman_la-9d2fa50b74b50af2efaa02fde467cbb6ad669d85.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "54/horseman_sm-546e7b4bed3876d40d0237da55e9a2ce8beda270.png"
+  },
+  "medium": {
+    "src": "ff/horseman_me-fff97d2e5cb26f8631249fba72ac2074ef8be953.png"
+  }
 }

@@ -4,5 +4,11 @@
   "large": {
     "src": "93/chess_la-9360a7fbc37a51a535bdefe9ae5ba11a46c447af.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "a0/chess_sm-a0385d8842f0fc78aa7dcd950aa635bfdc437cdb.png"
+  },
+  "medium": {
+    "src": "5b/chess_me-5be9b52c17ee47ec3ccc690c56a1bbbc7ea3c0e4.png"
+  }
 }

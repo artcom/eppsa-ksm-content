@@ -4,5 +4,11 @@
   "large": {
     "src": "c2/bone_la-c2f23891f19475c7fb6bbcb18beace578486c5a8.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "00/bone_sm-000a617e374fed19216e59f7d86f5cda6ddedde6.png"
+  },
+  "medium": {
+    "src": "81/bone_me-81c22abaa8e4d316b1b9aee71f436a88991e7320.png"
+  }
 }

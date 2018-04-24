@@ -4,5 +4,11 @@
   "large": {
     "src": "ce/mrhat_la-cebf0b70bcd19456077dca2a65613ed234c13f8d.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "8b/mrhat_sm-8b23c14b183d6d26aab9387d72a73c50b61297b0.png"
+  },
+  "medium": {
+    "src": "8c/mrhat_me-8cf9a7fe4b3340c495ae673c02762a8e10e3da7c.png"
+  }
 }
