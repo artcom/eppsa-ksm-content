@@ -1,5 +1,9 @@
 {
   "quizScoreFactor": 1.2,
   "sortingScoreFactor": 1.2,
-  "template": "sharedConfig"
+  "template": "sharedConfig",
+  "hiddenScoreFactor": 1.4,
+  "clickerScoreFactor": 1.8,
+  "skillScoreFactor": 1.7,
+  "graphScoreFactor": 1.2
 }
