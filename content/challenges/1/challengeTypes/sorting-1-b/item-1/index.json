@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Kyon-Seite",
-  "initialPosition": null,
+  "initialPosition": 3,
   "correctPosition": 1,
   "template": "sortingItem"
 }
