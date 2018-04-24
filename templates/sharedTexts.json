@@ -35,6 +35,10 @@
     {
       "name": "confirm",
       "type": "string"
+    },
+    {
+      "name": "scanQrInstructions",
+      "type": "string"
     }
   ]
 }

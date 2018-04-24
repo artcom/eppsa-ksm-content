@@ -5,6 +5,10 @@
       "type": "string"
     },
     {
+      "name": "areaName",
+      "type": "string"
+    },
+    {
       "name": "color",
       "type": "string"
     },
