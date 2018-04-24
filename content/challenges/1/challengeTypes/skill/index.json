@@ -11,7 +11,7 @@
   "npcTiltStay": 0.3,
   "streamWinAngle": 3,
   "template": "skill",
-  "multiplayer": false,
+  "multiplayer": true,
   "inertia": 1,
   "npcTiltExit": 0.7,
   "streamRange": 30,
