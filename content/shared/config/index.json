@@ -4,6 +4,6 @@
   "hiddenScoreFactor": 1.5,
   "clickerScoreFactor": 1.8,
   "skillScoreFactor": 1.7,
-  "graphScoreFactor": 1.3
+  "graphScoreFactor": 1.3,
   "template": "sharedConfig"
 }
