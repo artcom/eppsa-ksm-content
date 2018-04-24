@@ -4,5 +4,11 @@
   "large": {
     "src": "41/token_la-41b96e77230cb7875b37f1bf31a4df5bb8a07302.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "96/token_sm-96220fdf2c93bd86cc64d6c6d185b2bf6dff4764.png"
+  },
+  "medium": {
+    "src": "be/token_me-befe9351ce9183cba9c25741059e95d2c71debb5.png"
+  }
 }

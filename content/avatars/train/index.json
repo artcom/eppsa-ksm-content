@@ -4,5 +4,11 @@
   "large": {
     "src": "68/train_la-6885320a2a7d2e1c3a032fbe0aec9a4b3edbd9f6.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "27/train_sm-27a2d400e9ad92ab698a3e1791cf1af11ee025e7.png"
+  },
+  "medium": {
+    "src": "25/train_me-2557c4f3bc1c2fb07ed9a08e8a5cd5d3a6118816.png"
+  }
 }

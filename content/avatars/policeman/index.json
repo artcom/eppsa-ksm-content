@@ -4,5 +4,11 @@
   "large": {
     "src": "d6/policeman_la-d6e01ca1ef9b4c592061c9cee0367f39984d7a94.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "b4/policeman_sm-b45566292a8c1cd812f22ef722ce700d08a3cfe5.png"
+  },
+  "medium": {
+    "src": "ea/policeman_me-eabe402289cb61f2892a550c247d8d7eebfbc895.png"
+  }
 }
