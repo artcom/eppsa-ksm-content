@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Napoleons Rückzug aus Russland",
-  "initialPosition": null,
+  "initialPosition": 3,
   "correctPosition": 2,
   "template": "sortingItem"
 }
