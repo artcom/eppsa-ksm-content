@@ -1,7 +1,7 @@
 {
   "name": "Herr Blume",
   "description": "Classy",
-  "icon": {
+  "large": {
     "src": "17/mrblum_la-177377c62d32ea791531c731b76f082b2e426d5a.png"
   },
   "template": "avatar"

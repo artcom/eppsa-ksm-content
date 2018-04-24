@@ -9,7 +9,15 @@
       "type": "string"
     },
     {
-      "name": "icon",
+      "name": "small",
+      "type": "image"
+    },
+    {
+      "name": "medium",
+      "type": "image"
+    },
+    {
+      "name": "large",
       "type": "image"
     }
   ]

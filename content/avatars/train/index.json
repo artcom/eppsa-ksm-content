@@ -1,7 +1,7 @@
 {
   "name": "Zug",
   "description": "Choo choo",
-  "icon": {
+  "large": {
     "src": "68/train_la-6885320a2a7d2e1c3a032fbe0aec9a4b3edbd9f6.png"
   },
   "template": "avatar"

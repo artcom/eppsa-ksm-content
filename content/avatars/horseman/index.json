@@ -1,7 +1,7 @@
 {
   "name": "Reiter",
   "description": "Hoppe hoppe",
-  "icon": {
+  "large": {
     "src": "9d/horseman_la-9d2fa50b74b50af2efaa02fde467cbb6ad669d85.png"
   },
   "template": "avatar"

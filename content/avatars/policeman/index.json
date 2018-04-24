@@ -1,7 +1,7 @@
 {
   "name": "Polizist",
   "description": "22",
-  "icon": {
+  "large": {
     "src": "d6/policeman_la-d6e01ca1ef9b4c592061c9cee0367f39984d7a94.png"
   },
   "template": "avatar"

@@ -1,7 +1,7 @@
 {
   "name": "Schwein",
   "description": "Oink",
-  "icon": {
+  "large": {
     "src": "75/pig_la-756218a61e1ac5a4666e6859944ad47506459116.png"
   },
   "template": "avatar"
