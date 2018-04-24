@@ -1,10 +1,11 @@
 {
-  "next": "Weiter",
-  "toPlayerName": "Zum Spielernamen",
+  "confirm": "Bestätigen",
   "back": "Zurück",
-  "template": "texts",
-  "questionTitle": "Frage:",
   "selectName": "Wähle deinen Namen!",
+  "toPlayerName": "Zum Spielernamen",
   "selectNamePlaceholder": "Spielername eingeben",
-  "confirm": "Bestätigen"
+  "confirmSelection": "Auswahl bestätigen",
+  "questionTitle": "Frage:",
+  "next": "Weiter",
+  "template": "sharedTexts"
 }

@@ -1,8 +1,14 @@
 {
   "name": "Herr Blume",
   "description": "Classy",
-  "icon": {
+  "large": {
     "src": "17/mrblum_la-177377c62d32ea791531c731b76f082b2e426d5a.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "50/mrblum_sm-5093b7b7fcc44c4589552f7a9277fae60164a3a2.png"
+  },
+  "medium": {
+    "src": "46/mrblum_me-46e4f29876764fea3f9116d83746908241759d52.png"
+  }
 }

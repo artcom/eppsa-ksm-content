@@ -1,8 +1,14 @@
 {
   "name": "Engel",
   "description": "Fliegt auch",
-  "icon": {
+  "large": {
     "src": "41/angel_la-4114da1f61c91a79d403e139631d1b78f9b27b1e.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "02/angel_sm-023c510748ad28e9627b20d0d217f352f28e1f00.png"
+  },
+  "medium": {
+    "src": "8f/angel_me-8f885df9c33c88c04aaf53cea10b753a34ebfc2b.png"
+  }
 }
