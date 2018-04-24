@@ -8,6 +8,7 @@
   "streamForce": null,
   "minTilt": -20,
   "countdown": 2,
+  "manualText": "Fliege zusammen mit einem anderen Spieler.",
   "npcTiltStay": 0.3,
   "streamWinAngle": 3,
   "template": "skill",
