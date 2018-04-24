@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Revolution in Europa (Deutschland)",
-  "initialPosition": null,
+  "initialPosition": 2,
   "correctPosition": 3,
   "template": "sortingItem"
 }
