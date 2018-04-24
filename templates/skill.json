@@ -6,6 +6,11 @@
         "default": "Teste deinen Skill."
       },
       {
+        "name": "multiplayer",
+        "type": "boolean",
+        "default": true
+      },
+      {
         "name": "timer",
         "type": "number"
       },

@@ -1,4 +1,5 @@
 {
+  "multiplayer": true,
   "maxTilt": 20,
   "rewardValue": 50,
   "npcHorizontalExit": 0.3,
