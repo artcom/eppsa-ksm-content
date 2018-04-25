@@ -1,11 +1,11 @@
 {
-  "depth": "3",
-  "img": "Squirrel2",
+  "depth": "2",
+  "img": "Rad",
   "name": "kitty",
   "positionX": "",
   "positionY": "",
   "template": "picture",
   "type": 1,
-  "tag": "black,butt,abstract",
+  "tag": "rad,verkehrsteilnehmer",
   "direction": "Right"
 }
