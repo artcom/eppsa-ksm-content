@@ -2,7 +2,6 @@
   "navigationText": "Go to first station",
   "color": "#d4310f",
   "token": "1",
-  "multiplayer": "true",
   "template": "challenge",
   "description": "Description for Challenge 1"
 }
