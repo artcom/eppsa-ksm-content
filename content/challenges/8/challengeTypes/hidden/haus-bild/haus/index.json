@@ -1,10 +1,10 @@
 {
-  "img": "",
-  "tag": "",
-  "direction": "",
+  "img": "Haus",
+  "tag": "haus",
+  "direction": "right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "4",
   "type": 1,
   "template": "picture"
 }
