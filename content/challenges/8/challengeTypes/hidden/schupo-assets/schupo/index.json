@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "Schupo",
+  "image": {
+    "src": "df/Schupo-dfd3870ea45524bb8e9dc48bcedefcffd532db7f.png"
+  },
   "template": "asset"
 }
