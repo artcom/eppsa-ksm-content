@@ -8,6 +8,6 @@
   "questionTitle": "Frage:",
   "next": "Weiter",
   "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
-  "template": "texts",
+  "template": "sharedTexts",
   "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur."
 }
