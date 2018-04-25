@@ -1,17 +1,17 @@
 {
   "rewardValue": 100,
   "timer": 60,
-  "Row4Max": 6000,
-  "Row3Max": 5000,
-  "Row2Max": 5000,
-  "Row1Max": 1000,
+  "Row4Max": 3000,
+  "Row3Max": 3000,
+  "Row2Max": 3000,
+  "Row1Max": 3000,
   "YPosRow1": "window.innerHeight",
-  "YPosRow2": "150",
-  "YPosRow3": "450",
-  "YPosRow4": "750",
+  "YPosRow2": "100",
+  "YPosRow3": "200",
+  "YPosRow4": "400",
   "Row4Min": 2000,
-  "Row3Min": 3000,
+  "Row3Min": 2000,
   "template": "hidden",
-  "Row2Min": 1000,
-  "Row1Min": 1000
+  "Row2Min": 2000,
+  "Row1Min": 2000
 }
