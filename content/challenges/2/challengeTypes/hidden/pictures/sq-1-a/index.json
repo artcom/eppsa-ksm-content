@@ -1,11 +1,11 @@
 {
   "depth": "3",
-  "img": "Squirrel1",
+  "img": "Haus",
   "name": "Hund",
   "positionX": "",
   "positionY": "",
   "template": "picture",
   "type": 1,
-  "tag": "black,side",
+  "tag": "haus",
   "direction": "Right"
 }
