@@ -65,7 +65,8 @@
   "children": [
     "graphAgents",
     "graphNodes",
-    "assets",
+	"assets",
+    "score",
     "graphControlPoints"
   ]
 }

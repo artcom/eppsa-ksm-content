@@ -1,11 +1,15 @@
 {
   "confirm": "Bestätigen",
   "back": "Zurück",
+  "template": "sharedTexts",
+  "questionTitle": "Frage:",
   "selectName": "Wähle deinen Namen!",
   "toPlayerName": "Zum Spielernamen",
   "selectNamePlaceholder": "Spielername eingeben",
-  "confirmSelection": "Auswahl bestätigen",
   "questionTitle": "Frage:",
   "next": "Weiter",
-  "template": "sharedTexts"
+  "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
+  "template": "texts",
+  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur.",
+  "scanQrInstructions": "Scanne den QR-Code in diesem Bereich."
 }

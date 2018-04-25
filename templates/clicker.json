@@ -7,25 +7,27 @@
     {
       "name": "manualText",
       "type": "string",
-      "default": "Ganz schnell drücken"
-      },
-      {
-        "name": "MovementX",
-        "type": "number"
-        },
-        {
-          "name": "StartPointY",
-          "type": "string" 
-        },
-        {
-          "name": "StartPointX",
-          "type": "string"
-        },
-        {
-          "name": "EndPointX",
-          "type": "string"
-        }
-        ],
-        "children": [
-        "assets", "score"]
-      }
+      "default": "Ganz schnell drücken."
+    },
+    {
+      "name": "MovementX",
+      "type": "number"
+    },
+    {
+      "name": "StartPointY",
+      "type": "string" 
+    },
+    {
+      "name": "StartPointX",
+      "type": "string"
+    },
+    {
+      "name": "EndPointX",
+      "type": "string"
+    }
+  ],
+  "children": [
+    "assets", "score"
+  ]
+}
+

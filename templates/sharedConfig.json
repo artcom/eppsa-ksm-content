@@ -1,11 +1,27 @@
 {
   "fields": [
     {
+      "name": "sortingScoreFactor",
+      "type": "number"
+    },
+    {
       "name": "quizScoreFactor",
       "type": "number"
     },
     {
-      "name": "sortingScoreFactor",
+      "name": "hiddenScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "clickerScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "skillScoreFactor",
+      "type": "number"
+    },
+    {
+      "name": "graphScoreFactor",
       "type": "number"
     },
     {
