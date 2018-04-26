@@ -6,7 +6,7 @@
   "Row4Max": 3000,
   "Row3Max": 3000,
   "Row2Max": 3000,
-  "Row1Max": 1,
+  "Row1Max": 10,
   "ScalingImages1": "0.3",
   "YPosRow1": "350",
   "ScalingImages2": "0.4",
@@ -21,7 +21,7 @@
   "Row3Min": 2000,
   "template": "hidden",
   "Row2Min": 2000,
-  "Row1Min": 2,
+  "Row1Min": 10,
   "SpeedRow1": 2,
   "SpeedRow2": 2
 }
