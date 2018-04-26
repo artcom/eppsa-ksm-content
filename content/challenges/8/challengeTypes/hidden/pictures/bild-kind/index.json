@@ -1,10 +1,10 @@
 {
   "img": "Kind",
   "tag": "kind,person",
-  "direction": "right",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "3",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }
