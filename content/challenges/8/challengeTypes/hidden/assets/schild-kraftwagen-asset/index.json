@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "SchildKraftwagen",
+  "image": {
+    "src": "46/EPPSA_Hidden_Carride_Sign6-464cd96ef7edac6de864e3775837c961fe01189c.png"
+  },
   "template": "asset"
 }
