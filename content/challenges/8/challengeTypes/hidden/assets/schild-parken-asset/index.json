@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "SchildParken",
+  "image": {
+    "src": "c3/EPPSA_Hidden_Carride_Sign4-c395ae74b1522ced0ce6767f1d0feb4f3ec5a973.png"
+  },
   "template": "asset"
 }

@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "SchupoTower",
+  "image": {
+    "src": "f0/EPPSA_Hidden_Carride_TrafficTower-f0996e065cd7772669e3ed26a76382d92287cdb6.png"
+  },
   "template": "asset"
 }
