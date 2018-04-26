@@ -1,5 +1,5 @@
 {
-  "crashIf": "[]",
-  "pointsIf": "[9,1,3]",
+  "crashIf": "[1]",
+  "pointsIf": "[15,3]",
   "template": "graphControlPointLastNode"
 }
