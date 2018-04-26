@@ -1,6 +1,6 @@
 {
   "SpeedRow3": 5,
-  "SpeedRow4": 5,
+  "SpeedRow4": 2,
   "rewardValue": 10,
   "timer": 60,
   "Row4Max": 3000,
@@ -14,7 +14,7 @@
   "ScalingImages3": "0.4",
   "YPosRow3": "500",
   "ScalingImages4": "0.4",
-  "YPosRow4": "600",
+  "YPosRow4": "320",
   "ClickScaleX": 10,
   "ClickScaleY": 10,
   "Row4Min": 2000,
