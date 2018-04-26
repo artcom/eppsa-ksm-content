@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "name": "avatarsSmall",
+      "type": "image"
+    },
+    {
+      "name": "avatarsMedium",
+      "type": "image"
+    },
+    {
+      "name": "avatarsLarge",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon1",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon2",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon3",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon4",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon5",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon6",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon7",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon8",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon9",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon10",
+      "type": "image"
+    },
+    {
+      "name": "areaIcon11",
+      "type": "image"
+    }
+  ]
+}
