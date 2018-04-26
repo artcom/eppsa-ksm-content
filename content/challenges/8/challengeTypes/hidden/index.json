@@ -15,13 +15,13 @@
   "YPosRow3": "500",
   "ScalingImages4": "4",
   "YPosRow4": "700",
-  "ClickScaleX": 5,
-  "ClickScaleY": 5,
+  "ClickScaleX": 1.2,
+  "ClickScaleY": 1.2,
   "Row4Min": 2000,
   "Row3Min": 2000,
   "template": "hidden",
   "Row2Min": 2000,
   "Row1Min": 2000,
-  "SpeedRow1": 3,
+  "SpeedRow1": null,
   "SpeedRow2": 2
 }
