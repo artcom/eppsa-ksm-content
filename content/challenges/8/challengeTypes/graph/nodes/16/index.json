@@ -7,7 +7,7 @@
   "collisionEventEdge": "",
   "isExit": "",
   "collisionEventNode": "",
-  "edgeThreshold": 20,
+  "edgeThreshold": 25,
   "nodeState": "regular",
   "isStart": "",
   "template": "graphNode",
