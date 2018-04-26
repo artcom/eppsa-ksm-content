@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "AutoRot",
+  "image": {
+    "src": "45/EPPSA_Hidden_Carride_Car4-45828aa81d439ca32c657f32eb1e2def4e9007c5.png"
+  },
   "template": "asset"
 }
