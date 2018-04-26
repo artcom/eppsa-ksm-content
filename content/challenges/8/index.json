@@ -3,5 +3,8 @@
   "color": "#868a8c",
   "token": "8",
   "template": "challenge",
-  "description": "Description for Challenge 8"
+  "description": "Description for Challenge 8",
+  "icon": {
+    "src": "00/Icon_08-00a608b83f40a651297782d44cd87f04620a880e.svg"
+  }
 }
