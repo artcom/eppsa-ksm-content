@@ -17,5 +17,5 @@
   "Row2Min": 2000,
   "Row1Min": 2000,
   "SpeedRow1": 10,
-  "SpeedRow2": 40
+  "SpeedRow2": 1000
 }
