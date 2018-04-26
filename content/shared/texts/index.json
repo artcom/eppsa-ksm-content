@@ -1,6 +1,7 @@
 {
   "confirm": "Bestätigen",
   "scanQrInstructions": "Scanne den QR-Code in diesem Bereich.",
+  "scanQrErrorInstructions": "Falscher QR-Code. Scanne den QR-Code in diesem Bereich.",
   "back": "Zurück",
   "selectName": "Wähle deinen Namen!",
   "toPlayerName": "Zum Spielernamen",
