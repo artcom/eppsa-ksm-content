@@ -2,9 +2,18 @@
   "finishText": "Herzlichen Glückwunsch. Sie haben es geschafft.",
   "navigationToStartText": "Um das Spiel Bretterretter zu spielen gehen Sie bitte zum Anfang der Ausstellung und wählen Sie dort einen Avatar aus.",
   "gameManualTitle": "Spielanleitung",
+  "avatarsLarge": {
+    "src": "c2/avatars_la-c2cfa62e346f6469f74cf3b5af17e823d02095aa.png"
+  },
   "navigationToStartTitle": "BRetter",
   "gameManualText": "# 1. Spiele auf Zeit\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. \n\n# 2. Punkte\n\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. ",
   "name": "Bretterretter",
+  "avatarsSmall": {
+    "src": "36/avatars_sm-36a0f14744c850e523a2f566ab4480fffbeaed76.png"
+  },
+  "avatarsMedium": {
+    "src": "64/avatars_me-64ae8bb018a8f5d957e88e7ec19d32b59e5e72fa.png"
+  },
   "buttonGameFactor": 10,
   "quizGameFactor": 100,
   "challengeSelectionText": "Das nächste Spiel wird zufällig ausgewürfelt.",
