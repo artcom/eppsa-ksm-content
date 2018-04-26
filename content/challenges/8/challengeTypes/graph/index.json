@@ -10,7 +10,7 @@
   "agentOriginY": 0,
   "maxAgents": "1",
   "manualText": "",
-  "drawLinesAndNodes": "false",
+  "drawLinesAndNodes": "true",
   "backgroundColor": "",
   "template": "graph",
   "gameTypeFactor": 4,
