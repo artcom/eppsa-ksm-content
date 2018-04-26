@@ -1,0 +1,10 @@
+{
+  "img": "schildkraftfahrzeug",
+  "tag": "verkehr,schild,verbot,fahrzeug",
+  "direction": "Right",
+  "positionX": "",
+  "positionY": "",
+  "depth": "2",
+  "type": 1,
+  "template": "picture"
+}

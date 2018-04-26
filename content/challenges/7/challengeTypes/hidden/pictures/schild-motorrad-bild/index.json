@@ -1,0 +1,10 @@
+{
+  "img": "schildmotorrad",
+  "tag": "verkehr,schild,verbot,motorrad",
+  "direction": "Right",
+  "positionX": "",
+  "positionY": "",
+  "depth": "2",
+  "type": 1,
+  "template": "picture"
+}
