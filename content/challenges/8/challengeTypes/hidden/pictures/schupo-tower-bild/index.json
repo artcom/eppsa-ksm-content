@@ -1,10 +1,10 @@
 {
   "img": "SchupoTower",
-  "tag": "",
-  "direction": "",
+  "tag": "person,verkehr,erwachsener,mann",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }
