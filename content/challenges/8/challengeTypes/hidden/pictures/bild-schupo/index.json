@@ -1,10 +1,10 @@
 {
-  "img": "",
-  "tag": "",
-  "direction": "",
+  "img": "SchupoAsset",
+  "tag": "schupo,verkehrsteilnehmer,person",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }
