@@ -1,5 +1,5 @@
 {
-  "assignedDestination": "[6]",
+  "assignedDestination": "[4,9,14,11]",
   "pauseTime": 0,
   "collisionRadius": 20,
   "classes": 3,
@@ -8,6 +8,6 @@
   "name": "car",
   "isHostile": "false",
   "template": "graphAgent",
-  "spawnProbability": 1,
+  "spawnProbability": 0.5,
   "classCap": 30
 }
