@@ -9,5 +9,6 @@
   "next": "Weiter",
   "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
   "template": "sharedTexts",
-  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur."
+  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur.",
+  "selectAvatarErrorInstructions": "Falscher QR-Code. Wähle eine gewünschte Spielfigur."
 }
