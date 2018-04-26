@@ -13,6 +13,10 @@
       "type": "string"
     },
     {
+      "name": "icon",
+      "type": "image"
+    },
+    {
       "name": "token",
       "type": "string"
     }
