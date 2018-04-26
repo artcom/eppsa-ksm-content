@@ -1,0 +1,16 @@
+{
+  "fields": [
+    {
+      "name": "avatarsSmall",
+      "type": "image"
+    },
+    {
+      "name": "avatarsMedium",
+      "type": "image"
+    },
+    {
+      "name": "avatarsLarge",
+      "type": "image"
+    }
+  ]
+}
