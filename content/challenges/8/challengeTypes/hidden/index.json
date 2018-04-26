@@ -1,6 +1,6 @@
 {
-  "SpeedRow3": 10,
-  "SpeedRow4": 20,
+  "SpeedRow3": 60,
+  "SpeedRow4": 80,
   "rewardValue": 10,
   "timer": 60,
   "Row4Max": 3000,
@@ -16,6 +16,6 @@
   "template": "hidden",
   "Row2Min": 2000,
   "Row1Min": 2000,
-  "SpeedRow1": 20,
+  "SpeedRow1": 10,
   "SpeedRow2": 40
 }
