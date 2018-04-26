@@ -1,10 +1,10 @@
 {
   "img": "Tram",
-  "tag": "",
-  "direction": "",
+  "tag": "verkehr,fahrzeug,tram",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "4",
   "type": 1,
   "template": "picture"
 }
