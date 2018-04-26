@@ -1,10 +1,10 @@
 {
   "img": "AutoBlau",
-  "tag": "auto,verkehr",
-  "direction": "",
+  "tag": "auto,fahrzeug,verkehr",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "3",
   "type": 1,
   "template": "picture"
 }

@@ -1,10 +1,10 @@
 {
   "img": "Mann",
-  "tag": "",
-  "direction": "",
+  "tag": "person,passant,mann",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }

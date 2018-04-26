@@ -1,10 +1,10 @@
 {
   "img": "AutoRot",
-  "tag": "",
-  "direction": "",
+  "tag": "auto,fahrzeug,verkehr",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "3",
   "type": 1,
   "template": "picture"
 }

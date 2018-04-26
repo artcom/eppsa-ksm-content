@@ -1,10 +1,10 @@
 {
   "img": "SchildMotorrad",
-  "tag": "",
-  "direction": "",
+  "tag": "zeichen,schild,motorrad,verkehr",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }
