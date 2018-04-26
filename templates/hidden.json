@@ -75,6 +75,6 @@
     }
   ],
   "children": [
-    "score", "pictures", "assets"
+    "score", "pictures", "assets", "questions"
   ]
 }
