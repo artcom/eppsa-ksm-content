@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Bauhaus-Schach",
-  "initialPosition": null,
+  "initialPosition": 1,
   "correctPosition": 3,
   "template": "sortingItem"
 }

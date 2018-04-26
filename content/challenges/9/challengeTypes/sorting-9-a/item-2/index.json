@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Schachspiel im bemalten Kasten",
-  "initialPosition": null,
+  "initialPosition": 2,
   "correctPosition": 2,
   "template": "sortingItem"
 }

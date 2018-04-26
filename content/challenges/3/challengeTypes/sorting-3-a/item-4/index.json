@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Aufstand in Indien",
-  "initialPosition": null,
+  "initialPosition": 3,
   "correctPosition": 4,
   "template": "sortingItem"
 }

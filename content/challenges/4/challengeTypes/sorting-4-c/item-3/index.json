@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "",
-  "initialPosition": null,
+  "initialPosition": 3,
   "correctPosition": 3,
   "template": "sortingItem"
 }

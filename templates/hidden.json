@@ -56,6 +56,22 @@
     {
       "name": "YPosRow4",
       "type": "string"
+    },
+    {
+      "name": "SpeedRow1",
+      "type": "number"
+    },
+        {
+      "name": "SpeedRow2",
+      "type": "number"
+    },
+        {
+      "name": "SpeedRow3",
+      "type": "number"
+    },
+    {
+      "name": "SpeedRow4",
+      "type": "number"
     }
   ],
   "children": [

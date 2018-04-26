@@ -1,6 +1,6 @@
 {
-  "question": "Finde alle süßen Hunde!",
+  "question": "Finde alle Personen",
   "tags": "cute,doggie",
   "template": "question",
-  "tag": "cute,doggie"
+  "tag": "person"
 }

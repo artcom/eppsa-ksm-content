@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Juli-Revolution in Paris",
-  "initialPosition": null,
+  "initialPosition": 1,
   "correctPosition": 1,
   "template": "sortingItem"
 }

@@ -3,7 +3,7 @@
     "src": "97/picsum.photos4-97fddeae51220b49be57918847d657cb21c800ab.jpeg"
   },
   "text": "Paris",
-  "initialPosition": null,
+  "initialPosition": 3,
   "correctPosition": 4,
   "template": "sortingItem"
 }

@@ -1,7 +1,7 @@
 {
   "image": null,
   "text": "Chion-Seite",
-  "initialPosition": null,
+  "initialPosition": 4,
   "correctPosition": 4,
   "template": "sortingItem"
 }
