@@ -1,10 +1,10 @@
 {
   "img": "AutoGruen",
-  "tag": "",
-  "direction": "",
+  "tag": "auto,fahrzeug,gruen",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "3",
   "type": 1,
   "template": "picture"
 }

@@ -1,10 +1,10 @@
 {
-  "img": "SchildKurve",
-  "tag": "zeichen,schild,verkehr",
+  "img": "Hans",
+  "tag": "person,passant,kind,junge",
   "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "2",
+  "depth": "",
   "type": 1,
   "template": "picture"
 }

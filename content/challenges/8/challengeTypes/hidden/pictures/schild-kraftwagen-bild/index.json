@@ -1,10 +1,10 @@
 {
   "img": "SchildKraftwagen",
-  "tag": "",
-  "direction": "",
+  "tag": "zeichen,schild,fahrzeugschild",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }

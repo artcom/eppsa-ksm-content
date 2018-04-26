@@ -1,10 +1,10 @@
 {
   "img": "Oma",
-  "tag": "",
-  "direction": "",
+  "tag": "person,passant,oma,frau",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "2",
   "type": 1,
   "template": "picture"
 }
