@@ -1,64 +1,80 @@
 {
   "fields": 
   [
-  {
-    "name": "timer",
-    "type": "number"
+	{
+      "name": "manualText",
+      "type": "string"
     },
     {
-      "name": "rewardValue",
+      "name": "timer",
       "type": "number"
     },
     {
       "name": "Row1Max",
       "type": "number"
-      },
-      {
-        "name": "Row1Min",
-        "type": "number"
-        },  
+    },
+    {
+      "name": "Row1Min",
+      "type": "number"
+    },
+    {
+      "name": "Row2Max",
+      "type": "number"
+    },
+    {
+      "name": "Row2Min",
+      "type": "number"
+    },
+    {
+      "name": "Row3Max",
+      "type": "number"
+    },
+    {
+      "name": "Row3Min",
+      "type": "number"
+    },
+    {
+      "name": "Row4Max",
+      "type": "number"
+    },  
+    {
+      "name": "Row4Min",
+      "type": "number"
+    },
+    {
+      "name": "YPosRow1",
+      "type": "string"
+    },
+    {
+      "name": "YPosRow2",
+      "type": "string"
+    },
+    {
+      "name": "YPosRow3",
+      "type": "string"
+    },
+    {
+      "name": "YPosRow4",
+      "type": "string"
+    },
+    {
+      "name": "SpeedRow1",
+      "type": "number"
+    },
         {
-          "name": "Row2Max",
-          "type": "number"
-          },  
-          {
-            "name": "Row2Min",
-            "type": "number"
-            },  
-            {
-              "name": "Row3Max",
-              "type": "number"
-              },  
-              {
-                "name": "Row3Min",
-                "type": "number"
-                },
-                {
-                  "name": "Row4Max",
-                  "type": "number"
-                  },  
-                  {
-                    "name": "Row4Min",
-                    "type": "number"
-                    },
-                {
-                  "name": "YPosRow1",
-                  "type": "string"
-                  },
-                  {
-                    "name": "YPosRow2",
-                    "type": "string"
-                    },   
-                    {
-                      "name": "YPosRow3",
-                      "type": "string"
-                    },
-                    {
-                      "name": "YPosRow4",
-                      "type": "string"
-                    }
-                    ],
-                    "children": [
-                    "pictures", "assets"
-                    ]
-                  }
+      "name": "SpeedRow2",
+      "type": "number"
+    },
+        {
+      "name": "SpeedRow3",
+      "type": "number"
+    },
+    {
+      "name": "SpeedRow4",
+      "type": "number"
+    }
+  ],
+  "children": [
+    "score", "pictures", "assets"
+  ]
+}
