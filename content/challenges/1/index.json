@@ -4,5 +4,8 @@
   "token": "1",
   "multiplayer": "true",
   "template": "challenge",
-  "description": "Description for Challenge 1"
+  "description": "Description for Challenge 1",
+  "icon": {
+    "src": "cb/Icon_01-cbe1dc9e85db6b73a028126c7cf78fc8442f75e5.svg"
+  }
 }
