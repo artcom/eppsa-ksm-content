@@ -2,11 +2,44 @@
   "avatarsLarge": {
     "src": "c2/avatars_la-c2cfa62e346f6469f74cf3b5af17e823d02095aa.png"
   },
+  "areaIcon10": {
+    "src": "29/Icon_10-29831da29f3eb5e66df74aee2e18e05cef591348.svg"
+  },
+  "areaIcon11": {
+    "src": "8f/Icon_11-8fc90a4cec517598c8fc2b47be3a2e992392fdff.svg"
+  },
+  "areaIcon1": {
+    "src": "cb/Icon_01-cbe1dc9e85db6b73a028126c7cf78fc8442f75e5.svg"
+  },
+  "areaIcon2": {
+    "src": "53/Icon_02-53d445a03e7c9d3c52249e6ff42130cd7e2bd824.svg"
+  },
+  "areaIcon3": {
+    "src": "8d/Icon_03-8d5a8f2a5e82e7a4dd257d6aa6b11cf736257e76.svg"
+  },
   "avatarsSmall": {
     "src": "36/avatars_sm-36a0f14744c850e523a2f566ab4480fffbeaed76.png"
   },
+  "areaIcon4": {
+    "src": "6e/Icon_04-6e536c98c61c24e964fe190e060d4d0d6b3579e5.svg"
+  },
   "avatarsMedium": {
     "src": "64/avatars_me-64ae8bb018a8f5d957e88e7ec19d32b59e5e72fa.png"
+  },
+  "areaIcon5": {
+    "src": "ca/Icon_05-cac2eeebaf0102806a54adb86217ea1c351c7721.svg"
+  },
+  "areaIcon6": {
+    "src": "41/Icon_06-4189a282ca3897ac7231c3973a8479fcf1d616c8.svg"
+  },
+  "areaIcon7": {
+    "src": "65/Icon_07-655d2969f9c8836b47a09587ae1bfedaebfc63bb.svg"
+  },
+  "areaIcon8": {
+    "src": "00/Icon_08-00a608b83f40a651297782d44cd87f04620a880e.svg"
+  },
+  "areaIcon9": {
+    "src": "2c/Icon_09-2c04e197cac7a9ebed098eaa830d58c9fefffcf6.svg"
   },
   "template": "sharedAssets"
 }
