@@ -1,8 +1,8 @@
 {
-  "crashIf": "[12]",
-  "pointsIf": "[1,9]",
+  "crashIf": "[10]",
+  "pointsIf": "[12,11,15]",
   "template": "graphControlPointLastNode",
-  "rotationWaiting": 0,
-  "waitTime": 3,
-  "skin": "schupo"
+  "rotationWaiting": null,
+  "waitTime": null,
+  "skin": ""
 }
