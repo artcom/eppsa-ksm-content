@@ -69,8 +69,20 @@
       "name": "SpeedRow3",
       "type": "number"
     },
-    {
+        {
       "name": "SpeedRow4",
+      "type": "number"
+    },
+    {
+      "name": "ScalingImages",
+      "type": "string"
+    },
+    {
+      "name": "ClickScaleX",
+      "type": "number"
+    },
+      {
+      "name": "ClickScaleY",
       "type": "number"
     }
   ],
