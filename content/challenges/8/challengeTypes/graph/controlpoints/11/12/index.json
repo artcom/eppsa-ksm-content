@@ -1,6 +1,6 @@
 {
   "crashIf": "[10]",
-  "pointsIf": "[12,11,15]",
+  "pointsIf": "[12,15,11]",
   "template": "graphControlPointLastNode",
   "rotationWaiting": null,
   "waitTime": null,
