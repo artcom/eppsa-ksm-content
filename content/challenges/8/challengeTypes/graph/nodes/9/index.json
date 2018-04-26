@@ -8,7 +8,7 @@
   "isExit": "false",
   "collisionEventNode": "true",
   "edgeThreshold": 12,
-  "nodeState": "regular",
+  "nodeState": "exit",
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 2,
