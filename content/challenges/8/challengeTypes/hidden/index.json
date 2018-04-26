@@ -21,7 +21,7 @@
   "Row3Min": 2000,
   "template": "hidden",
   "Row2Min": 2000,
-  "Row1Min": 1,
+  "Row1Min": 2,
   "SpeedRow1": 2,
   "SpeedRow2": 2
 }
