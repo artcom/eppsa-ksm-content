@@ -10,6 +10,7 @@
   "agentOriginY": 0,
   "maxAgents": "3",
   "manualText": "",
+  "collisionOnNode": "false",
   "drawLinesAndNodes": "true",
   "backgroundColor": "",
   "template": "graph",
