@@ -1,6 +1,11 @@
 {
   "fields": [
     {
+      "name": "name",
+      "type": "string",
+      "default": "Quiz"
+    },
+    {
       "name": "manualText",
       "type": "string",
       "default": "Beantworten Sie die folgenden Fragen so schnell wie möglich."

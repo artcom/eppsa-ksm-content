@@ -1,6 +1,11 @@
 {
   "fields": [
-  {
+    {
+      "name": "name",
+      "type": "string",
+      "default": "Klicker"
+    },
+    {
     "name": "timer",
     "type": "number" 
     },

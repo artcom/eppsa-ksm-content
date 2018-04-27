@@ -1,6 +1,11 @@
 {
   "fields": [
     {
+      "name": "name",
+      "type": "string",
+      "default": "Graph"
+    },
+    {
       "name": "manualText",
       "type": "string",
       "default": "Bringe alle Leute nach Hause."
