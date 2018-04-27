@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Spiele von der Front des Ersten Weltkriegs genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
   "question": "Welches Spiel erfreute sich in den Lazaretten des Ersten Weltkriegs großer Beliebtheit?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Mensch ärgere Dich nicht",
+  "manualText": "Sieh dir die Spiele von der Front des Ersten Weltkriegs genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
   "answer2": "Wehrschach",
   "answer3": "Flottenmanöver",
   "answer4": "Die Eroberung der Luft",
-  "correctAnswer": 1,
   "template": "quiz"
 }

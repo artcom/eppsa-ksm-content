@@ -1,10 +1,11 @@
 {
-  "manualText": "Schau dir die Spielkarten von „Was bin ich“ aufmerksam an. Tippe dann auf „Starten“, um den Beruf der Person zu erraten.",
   "question": "Kannst du den Beruf erraten? „Ich trage eine braune Jacke und schaue durch Linsen, aber nur nachts.“",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Astronom",
+  "manualText": "Schau dir die Spielkarten von „Was bin ich“ aufmerksam an. Tippe dann auf „Starten“, um den Beruf der Person zu erraten.",
   "answer2": "Schneider",
   "answer3": "Reporter",
   "answer4": "Verkäuferin",
-  "correctAnswer": 1,
   "template": "quiz"
 }

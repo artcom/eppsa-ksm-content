@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "question": "An welches japanische Arcade-Spiel erinnert das Retro-Spiel „Monster Man“ für die VC 4000?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Pac-Man",
+  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "answer2": "Mario Bros.",
   "answer3": "Space Invaders",
   "answer4": "Asteroids",
-  "correctAnswer": 1,
   "template": "quiz"
 }

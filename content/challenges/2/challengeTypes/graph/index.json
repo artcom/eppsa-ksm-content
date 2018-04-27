@@ -5,6 +5,7 @@
   "timer": 100,
   "rotateAgents": "false",
   "agentOrigin": "0.5,0.78",
+  "name": "Graph",
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
   "lineColor": "0xCCD6DF",

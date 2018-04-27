@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
   "question": "An welches Verhalten wurde im Nationalsozialismus durch das Spiel „Jagd auf Kohlenklau“ appelliert?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Energiesparen",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
   "answer2": "Notfallversorgung",
   "answer3": "Wachsamkeit",
   "answer4": "Sauberkeit",
-  "correctAnswer": 1,
   "template": "quiz"
 }

@@ -1,10 +1,11 @@
 {
-  "manualText": "Tippe auf „Starten“, um die Quizfrage zu sehen.",
   "question": "Welche Farben hatten die Uniformen deutscher Burschenschaften, die zum Symbol deutscher Einheit wurden?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Schwarz-Rot-Gold",
+  "manualText": "Tippe auf „Starten“, um die Quizfrage zu sehen.",
   "answer2": "Blau-Weiß-Rot",
   "answer3": "Blau-Gelb-Rot",
   "answer4": "Schwarz-Weiß-Rot",
-  "correctAnswer": 1,
   "template": "quiz"
 }

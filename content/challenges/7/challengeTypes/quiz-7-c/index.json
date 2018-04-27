@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Spiele von der Front des Ersten Weltkriegs genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
   "question": "Welche Figur kommt im „Schützengraben-Geduldspiel“ nicht vor?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Katapult",
+  "manualText": "Sieh dir die Spiele von der Front des Ersten Weltkriegs genau an. Tippe auf „Starten“, um das Quiz zu beginnen.",
   "answer2": "Drahtschere",
   "answer3": "Granate",
   "answer4": "Schanzzeug",
-  "correctAnswer": 1,
   "template": "quiz"
 }

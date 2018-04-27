@@ -1,4 +1,5 @@
 {
   "manualText": "Ordne die Spielkarten mit deutschem Blatt nach ihrer Wertigkeit.",
-  "template": "sorting"
+  "template": "sorting",
+  "name": "Sortieren"
 }

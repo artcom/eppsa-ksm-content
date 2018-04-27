@@ -1,10 +1,11 @@
 {
-  "manualText": "Schau dir die Felder 80 bis 90 des Spielplans von „Die Reise in Himmelreich“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "question": "In „Die Reise ins Himmelreich“ wird der Spieler auf Feld 82 einer Probe unterzogen. Was wird dabei gewogen?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Die Tugenden gegen die Sünden",
+  "manualText": "Schau dir die Felder 80 bis 90 des Spielplans von „Die Reise in Himmelreich“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "answer2": "Das Ausmaß der Todsünde Völlerei",
   "answer3": "Das Gewicht des Herzens gegen eine Feder",
   "answer4": "Das Gewicht zu Lebzeiten",
-  "correctAnswer": 1,
   "template": "quiz"
 }

@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum würfeln benutzt?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Sprungbein",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "answer2": "Fersenbein",
   "answer3": "Hufbein",
   "answer4": "Erbsenbein",
-  "correctAnswer": 1,
   "template": "quiz"
 }

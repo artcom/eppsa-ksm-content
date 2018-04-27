@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "question": "Was förderte die Verbreitung von Spielen in allen Bevölkerungsschichten?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Farblithografie",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "answer2": "Die Einführung einer Steuer für Spielkarten",
   "answer3": "Politische Motive auf Spielsteinen",
   "answer4": "Der pädagogische Wert der Motive",
-  "correctAnswer": 1,
   "template": "quiz"
 }

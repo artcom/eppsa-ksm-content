@@ -3,5 +3,6 @@
   "manualText": "",
   "MovementX": 20,
   "reward": 50,
-  "template": "clicker"
+  "template": "clicker",
+  "name": "Klicker"
 }
