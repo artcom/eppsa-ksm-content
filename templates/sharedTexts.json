@@ -39,6 +39,10 @@
     {
       "name": "scanQrInstructions",
       "type": "string"
+    },
+    {
+      "name": "navigationToNextArea",
+      "type": "string"
     }
   ]
 }
