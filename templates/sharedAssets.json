@@ -11,6 +11,38 @@
     {
       "name": "avatarsLarge",
       "type": "image"
+    },
+    {
+      "name": "challengeTypeIconGraph",
+      "type": "image"
+    },
+    {
+      "name": "challengeTypeIconHiddenPicture",
+      "type": "image"
+    },
+    {
+      "name": "challengeTypeIconOneButton",
+      "type": "image"
+    },
+    {
+      "name": "challengeTypeIconQuiz",
+      "type": "image"
+    },
+    {
+      "name": "challengeTypeIconSkillMultiplayer",
+      "type": "image"
+    },
+    {
+      "name": "challengeTypeIconSorting",
+      "type": "image"
+    },
+    {
+      "name": "lobbyIconWaiting",
+      "type": "image"
+    },
+    {
+      "name": "lobbyIconError",
+      "type": "image"
     }
   ]
 }
