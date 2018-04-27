@@ -13,47 +13,35 @@
       "type": "image"
     },
     {
-      "name": "areaIcon1",
+      "name": "challengeTypeIconGraph",
       "type": "image"
     },
     {
-      "name": "areaIcon2",
+      "name": "challengeTypeIconHiddenPicture",
       "type": "image"
     },
     {
-      "name": "areaIcon3",
+      "name": "challengeTypeIconOneButton",
       "type": "image"
     },
     {
-      "name": "areaIcon4",
+      "name": "challengeTypeIconQuiz",
       "type": "image"
     },
     {
-      "name": "areaIcon5",
+      "name": "challengeTypeIconSkillMultiplayer",
       "type": "image"
     },
     {
-      "name": "areaIcon6",
+      "name": "challengeTypeIconSorting",
       "type": "image"
     },
     {
-      "name": "areaIcon7",
+      "name": "lobbyIconWaiting",
       "type": "image"
     },
     {
-      "name": "areaIcon8",
-      "type": "image"
-    },
-    {
-      "name": "areaIcon9",
-      "type": "image"
-    },
-    {
-      "name": "areaIcon10",
-      "type": "image"
-    },
-    {
-      "name": "areaIcon11",
+      "name": "lobbyIconError",
       "type": "image"
     }
   ]
