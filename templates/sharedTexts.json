@@ -43,6 +43,10 @@
     {
       "name": "navigationToNextArea",
       "type": "string"
+    },
+    {
+      "name": "navigationToNextAreaButton",
+      "type": "string"
     }
   ]
 }
