@@ -13,27 +13,27 @@
       "type": "image"
     },
     {
-      "name": "challengeTypeIconGraph",
+      "name": "graphIcon",
       "type": "image"
     },
     {
-      "name": "challengeTypeIconHiddenPicture",
+      "name": "hiddenIcon",
       "type": "image"
     },
     {
-      "name": "challengeTypeIconOneButton",
+      "name": "clickerIcon",
       "type": "image"
     },
     {
-      "name": "challengeTypeIconQuiz",
+      "name": "quizIcon",
       "type": "image"
     },
     {
-      "name": "challengeTypeIconSkillMultiplayer",
+      "name": "skillIcon",
       "type": "image"
     },
     {
-      "name": "challengeTypeIconSorting",
+      "name": "sortingIcon",
       "type": "image"
     },
     {
