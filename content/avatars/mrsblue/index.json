@@ -1,8 +1,14 @@
 {
   "name": "Frau Blau",
   "description": "Blau",
-  "icon": {
+  "large": {
     "src": "65/mrsblue_la-655187c5676ab99b7dc04bc8b54631fcd8118bde.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "b4/mrsblue_sm-b418107a3cfcd9b7cec532468752ede47b0b5a7c.png"
+  },
+  "medium": {
+    "src": "cf/mrsblue_me-cfc444048388cb587ab01aadfbc128a4b18d86f2.png"
+  }
 }

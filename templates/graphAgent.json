@@ -5,10 +5,6 @@
             "type": "string"
         },
         {
-            "name": "classes",
-            "type": "number"
-        },
-        {
             "name": "classCap",
             "type": "number"
         },

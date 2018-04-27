@@ -1,0 +1,36 @@
+{
+  "avatarsLarge": {
+    "src": "c2/avatars_la-c2cfa62e346f6469f74cf3b5af17e823d02095aa.png"
+  },
+  "challengeTypeIconOneButton": {
+    "src": "6f/Icon_OneButton-6fd047743c4e09e829c377e2472ee0d75f39c13f.svg"
+  },
+  "challengeTypeIconQuiz": {
+    "src": "67/Icon_Quiz-67fb1b735f7427bbd931e6e019c5cc2ddc6a846a.svg"
+  },
+  "avatarsSmall": {
+    "src": "36/avatars_sm-36a0f14744c850e523a2f566ab4480fffbeaed76.png"
+  },
+  "challengeTypeIconSorting": {
+    "src": "d4/Icon_Sorting-d4656b97f98d5335a27cb2cd8ef2276c7a266a83.svg"
+  },
+  "avatarsMedium": {
+    "src": "64/avatars_me-64ae8bb018a8f5d957e88e7ec19d32b59e5e72fa.png"
+  },
+  "challengeTypeIconGraph": {
+    "src": "a5/Icon_Graph-a52fad21d640ee939bb382b1a6ab239405ba02d2.svg"
+  },
+  "lobbyIconError": {
+    "src": "0e/Icon_Error-0e1a669507dc4c0a5ec578ffb33c2ad14bf015b9.svg"
+  },
+  "template": "sharedAssets",
+  "lobbyIconWaiting": {
+    "src": "aa/Icon_SearchingForPlayers-aac9cdc3e8e38fb3a8321ef7915f76a69949bccf.svg"
+  },
+  "challengeTypeIconHiddenPicture": {
+    "src": "28/Icon_HiddenPicture-28eb2e1fc9d28d3be328f50836497793d9809a02.svg"
+  },
+  "challengeTypeIconSkillMultiplayer": {
+    "src": "55/Icon_Skill_Multiplayer-5586afaca03f08a65e2ac6624bbe2fee1b86ab68.svg"
+  }
+}

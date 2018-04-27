@@ -1,8 +1,14 @@
 {
   "name": "Flugzeug",
   "description": "Fliegt",
-  "icon": {
+  "large": {
     "src": "16/airplane_la-166b3a75893e3557baf5a0090a1bfacfb6fcf48b.png"
   },
-  "template": "avatar"
+  "template": "avatar",
+  "small": {
+    "src": "e5/airplane_sm-e5df977fee4d5a3adc1020b7c6d9a84e2ed3224e.png"
+  },
+  "medium": {
+    "src": "c8/airplane_me-c87ea3e1166f3ebe46b378e55bc8783273c28e18.png"
+  }
 }

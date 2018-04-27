@@ -5,8 +5,16 @@
       "type": "string"
     },
     {
+      "name": "description",
+      "type": "string"
+    },
+    {
       "name": "color",
       "type": "string"
+    },
+    {
+      "name": "icon",
+      "type": "image"
     },
     {
       "name": "token",

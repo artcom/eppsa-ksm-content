@@ -1,10 +1,15 @@
 {
-  "next": "Weiter",
-  "toPlayerName": "Zum Spielernamen",
+  "confirm": "Bestätigen",
+  "scanQrInstructions": "Scanne den QR-Code in diesem Bereich.",
   "back": "Zurück",
-  "template": "texts",
-  "questionTitle": "Frage:",
   "selectName": "Wähle deinen Namen!",
+  "toPlayerName": "Zum Spielernamen",
   "selectNamePlaceholder": "Spielername eingeben",
-  "confirm": "Bestätigen"
+  "scanQrErrorInstructions": "Falscher QR-Code. Scanne den QR-Code in diesem Bereich.",
+  "questionTitle": "Frage:",
+  "next": "Weiter",
+  "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
+  "selectAvatarErrorInstructions": "Falscher QR-Code. Wähle eine gewünschte Spielfigur.",
+  "template": "sharedTexts",
+  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur."
 }

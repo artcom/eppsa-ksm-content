@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "name": "toPlayerName",
+      "type": "string"
+    },
+    {
+      "name": "back",
+      "type": "string"
+    },
+    {
+      "name": "next",
+      "type": "string"
+    },
+    {
+      "name": "questionTitle",
+      "type": "string"
+    },
+    {
+      "name": "selectAvatar",
+      "type": "string"
+    },
+    {
+      "name": "selectAvatarInstructions",
+      "type": "string"
+    },
+    {
+      "name": "selectName",
+      "type": "string"
+    },
+    {
+      "name": "selectNamePlaceholder",
+      "type": "string"
+    },
+    {
+      "name": "confirm",
+      "type": "string"
+    },
+    {
+      "name": "scanQrInstructions",
+      "type": "string"
+    }
+  ]
+}
