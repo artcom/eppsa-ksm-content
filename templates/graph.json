@@ -22,7 +22,11 @@
       "type": "string"
     },
     {
-      "name": "rewardValue",
+      "name": "collisionOnNode",
+      "type": "string"
+    },
+    {
+      "name": "edgeThreshold",
       "type": "number"
     },
     {
