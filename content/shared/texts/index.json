@@ -6,6 +6,7 @@
   "toPlayerName": "Zum Spielernamen",
   "selectNamePlaceholder": "Spielername eingeben",
   "scanQrErrorInstructions": "Falscher QR-Code. Scanne den QR-Code in diesem Bereich.",
+  "navigationToNextArea": "Gehe zum nächsten Bereich und scanne den QR-Code.",
   "questionTitle": "Frage:",
   "next": "Weiter",
   "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
