@@ -1,5 +1,6 @@
 {
   "confirm": "Bestätigen",
+  "navigationToNextAreaButton": "QR-Code scannen",
   "scanQrInstructions": "Scanne den QR-Code in diesem Bereich.",
   "back": "Zurück",
   "selectName": "Wähle deinen Namen!",
