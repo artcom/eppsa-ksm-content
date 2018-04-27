@@ -47,6 +47,10 @@
     {
       "name": "navigationToNextAreaButton",
       "type": "string"
+    },
+    {
+      "name": "areaConfirmationText",
+      "type": "string"
     }
   ]
 }
