@@ -32,6 +32,10 @@
         {
           "name": "showWater",
           "type": "string"
+        },
+        {
+          "name": "showFinishLine",
+          "type": "string"
         }
         ],
         "children": [
