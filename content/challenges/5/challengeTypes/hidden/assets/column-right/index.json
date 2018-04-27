@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "ColumnRight",
+  "image": {
+    "src": "5b/Platform_Right-5bd83e198523832d300aa4b3c53e1c6d2aa0f518.png"
+  },
   "template": "asset"
 }
