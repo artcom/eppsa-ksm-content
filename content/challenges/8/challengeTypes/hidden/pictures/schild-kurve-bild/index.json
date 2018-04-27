@@ -1,0 +1,10 @@
+{
+  "img": "schildkurve",
+  "tag": "verkehr,schild,warnung,kurve",
+  "direction": "Right",
+  "positionX": "",
+  "positionY": "",
+  "depth": "2",
+  "type": 1,
+  "template": "picture"
+}

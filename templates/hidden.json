@@ -74,19 +74,31 @@
       "type": "number"
     },
     {
-      "name": "ScalingImages",
-      "type": "string"
-    },
-    {
       "name": "ClickScaleX",
       "type": "number"
     },
       {
       "name": "ClickScaleY",
       "type": "number"
+    },    {
+      "name": "ScalingImages1",
+      "type": "string"
+    },
+        {
+      "name": "ScalingImages2",
+      "type": "string"
+    },
+        {
+      "name": "ScalingImages3",
+      "type": "string"
+    },
+        {
+      "name": "ScalingImages4",
+      "type": "string"
     }
   ],
   "children": [
     "score", "pictures", "assets", "questions"
   ]
 }
+

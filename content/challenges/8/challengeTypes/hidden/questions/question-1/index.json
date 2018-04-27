@@ -1,5 +1,5 @@
 {
-  "question": "Finde alle Personen!",
-  "tag": "person",
+  "question": "Finde alle Verkehrsteilnehmer.",
+  "tag": "verkehr",
   "template": "question"
 }
