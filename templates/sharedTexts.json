@@ -79,6 +79,30 @@
     {
       "name": "mateRequestPendingDeclineButton",
       "type": "string"
+    },
+    {
+      "name": "requestedMatePendingTitle",
+      "type": "string"
+    },
+    {
+      "name": "requestedMatePendingCancelButton",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateDeclinedTitle",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateDeclinedCancelButton",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateUnavailableTitle",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateUnavailableCancelButton",
+      "type": "string"
     }
   ]
 }
