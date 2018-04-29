@@ -4,8 +4,10 @@
   "scanQrInstructions": "Scanne den QR-Code in diesem Bereich.",
   "newGameButton": "Neues Spiel beginnen",
   "back": "Zurück",
+  "mateRequestPendingAcceptButton": "Annehmen",
   "selectName": "Wähle deinen Namen!",
   "toPlayerName": "Zum Spielernamen",
+  "mateRequestPendingTitle": "lädt dich zum Spielen ein",
   "selectNamePlaceholder": "Spielername eingeben",
   "resumeGameText": "Möchtest du deinen Spielstand mit deiner letzten Figur fortführen?",
   "areaConfirmationText": "Sieh dir alle Ausstellungsstücke in diesem Bereich gut an!",
@@ -18,5 +20,6 @@
   "selectAvatarErrorInstructions": "Falscher QR-Code. Wähle eine gewünschte Spielfigur.",
   "resumeGameTitle": "Spiel fortsetzen?",
   "template": "sharedTexts",
-  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur."
+  "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur.",
+  "mateRequestPendingDeclineButton": "Ablehnen"
 }
