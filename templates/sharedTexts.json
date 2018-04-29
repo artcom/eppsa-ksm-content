@@ -67,6 +67,18 @@
     {
       "name": "areaConfirmationText",
       "type": "string"
+    },
+    {
+      "name": "mateRequestPendingTitle",
+      "type": "string"
+    },
+    {
+      "name": "mateRequestPendingAcceptButton",
+      "type": "string"
+    },
+    {
+      "name": "mateRequestPendingDeclineButton",
+      "type": "string"
     }
   ]
 }
