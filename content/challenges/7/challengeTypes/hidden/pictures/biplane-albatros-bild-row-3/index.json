@@ -1,10 +1,10 @@
 {
-  "img": "ShipGermanBig",
-  "tag": "wasser,schiff,deutsch",
+  "img": "BiplaneAlbatros",
+  "tag": "luft,flugzeug,doppeldecker,deutsch",
   "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "2",
+  "depth": "3",
   "type": 1,
   "template": "picture"
 }

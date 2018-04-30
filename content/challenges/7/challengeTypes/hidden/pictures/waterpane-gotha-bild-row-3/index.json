@@ -1,10 +1,10 @@
 {
-  "img": "ShipGermanSmall",
-  "tag": "wasser,schiff,deutsch",
+  "img": "WaterpaneGotha",
+  "tag": "luft,flugzeug,wasser,deutsch",
   "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "2",
+  "depth": "3",
   "type": 1,
   "template": "picture"
 }

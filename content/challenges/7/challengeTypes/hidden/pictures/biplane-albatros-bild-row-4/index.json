@@ -1,10 +1,10 @@
 {
-  "img": "AirshipSchuetteLanz",
-  "tag": "luft,luftschiff,deutsch",
+  "img": "BiplaneAlbatros",
+  "tag": "luft,flugzeug,doppeldecker,deutsch",
   "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "1",
+  "depth": "4",
   "type": 1,
   "template": "picture"
 }
