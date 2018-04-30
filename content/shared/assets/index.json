@@ -11,6 +11,9 @@
   "skillIcon": {
     "src": "55/Icon_Skill_Multiplayer-5586afaca03f08a65e2ac6624bbe2fee1b86ab68.svg"
   },
+  "challengeSelectionRandom": {
+    "src": "8d/challengeSelection-8d19b89b5e793d2b58a16c48698c0fba9d62fcb1.gif"
+  },
   "avatarsSmall": {
     "src": "36/avatars_sm-36a0f14744c850e523a2f566ab4480fffbeaed76.png"
   },
