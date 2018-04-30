@@ -69,6 +69,18 @@
       "type": "string"
     },
     {
+      "name": "challengeModeSelectionTitle",
+      "type": "string"
+    },
+    {
+      "name": "challengeModeSelectionMultiplayerButton",
+      "type": "string"
+    },
+    {
+      "name": "challengeModeSelectionSingleplayerButton",
+      "type": "string"
+    },
+    {
       "name": "mateRequestPendingTitle",
       "type": "string"
     },
