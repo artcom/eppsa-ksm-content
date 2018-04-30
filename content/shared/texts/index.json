@@ -1,8 +1,10 @@
 {
   "confirm": "Bestätigen",
   "navigationToNextAreaButton": "QR-Code scannen",
+  "challengeModeSelectionSingleplayerButton": "Alleine",
   "scanQrInstructions": "Scanne den QR-Code in diesem Bereich.",
   "newGameButton": "Neues Spiel beginnen",
+  "challengeModeSelectionMultiplayerButton": "Zu Zweit",
   "back": "Zurück",
   "mateRequestPendingAcceptButton": "Annehmen",
   "selectName": "Wähle deinen Namen!",
@@ -18,6 +20,7 @@
   "requestedMatePendingCancelButton": "Abbrechen",
   "resumeGameButton": "Spiel fortführen",
   "questionTitle": "Frage:",
+  "challengeModeSelectionTitle": "Wie möchtest du spielen?",
   "next": "Weiter",
   "requestedMatePendingTitle": "Warte auf ${mate}...",
   "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
