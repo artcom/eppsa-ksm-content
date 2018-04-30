@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "ea/Sorting_Earth_08-ea884c6f0a2055c482b8a452318ddf10fec1d29b.jpg"
+  },
   "text": "",
   "initialPosition": 2,
   "correctPosition": 1,

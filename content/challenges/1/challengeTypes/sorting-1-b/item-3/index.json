@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "ee/Sorting_Earth_02-ee6c52e4c6bdec5167d847b310520bdb3d331ff9.jpg"
+  },
   "text": "Pranes-Seite",
   "initialPosition": 1,
   "correctPosition": 3,

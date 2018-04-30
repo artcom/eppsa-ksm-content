@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "f2/Sorting_Earth_05-f28aada1cb7d5fc21a4a47e22420d858134b291b.jpg"
+  },
   "text": "Kyon-Seite",
   "initialPosition": 3,
   "correctPosition": 1,

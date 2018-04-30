@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "22/Sorting_Earth_03-22fb6495bef44756ae87b4b3b80a1a3e7f1df1f5.jpg"
+  },
   "text": "Hyption-Seite",
   "initialPosition": 2,
   "correctPosition": 2,

@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "51/Sorting_Travel_06-512e66a03465eb384dea5049a9de9de46637259f.jpg"
+  },
   "text": "Rotterdam",
   "initialPosition": 2,
   "correctPosition": 4,

@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "65/Sorting_Travel_01-651d40b35fac679a1726f64d77bd37c317c27e5a.jpg"
+  },
   "text": "",
   "initialPosition": 2,
   "correctPosition": 4,
