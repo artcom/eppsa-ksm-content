@@ -19,6 +19,7 @@
   "areaConfirmationText": "Sieh dir alle Ausstellungsstücke in diesem Bereich gut an!",
   "scanQrErrorInstructions": "Falscher QR-Code. Scanne den QR-Code in diesem Bereich.",
   "navigationToNextArea": "Gehe zum nächsten Bereich und scanne den QR-Code.",
+  "challengeSelectionTitle": "Wähle Spiel...",
   "requestedMatePendingCancelButton": "Abbrechen",
   "resumeGameButton": "Spiel fortführen",
   "questionTitle": "Frage:",
