@@ -3,5 +3,8 @@
   "manualText": "",
   "MovementX": 20,
   "reward": 50,
-  "template": "clicker"
+  "template": "clicker",
+  "showWater": "true",
+  "showFinishLine": "true",
+  "ScaleOfBackground": 3
 }
