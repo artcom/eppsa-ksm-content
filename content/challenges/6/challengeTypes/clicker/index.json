@@ -4,7 +4,7 @@
   "MovementX": 20,
   "reward": 50,
   "template": "clicker",
-  "showWater": "true",
-  "showFinishLine": "true",
-  "ScaleOfBackground": 3
+  "showWater": "True",
+  "showFinishLine": "True",
+  "ScaleOfBackground": 1
 }
