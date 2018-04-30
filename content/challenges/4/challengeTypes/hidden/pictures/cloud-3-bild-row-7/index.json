@@ -1,10 +1,10 @@
 {
-  "img": "Sun",
-  "tag": "sun",
-  "direction": "Right",
+  "img": "Cloud3",
+  "tag": "cloud",
+  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "6",
+  "depth": "7",
   "type": 1,
   "template": "picture"
 }
