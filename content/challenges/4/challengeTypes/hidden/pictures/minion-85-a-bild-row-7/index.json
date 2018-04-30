@@ -1,10 +1,10 @@
 {
-  "img": "",
-  "tag": "",
-  "direction": "",
+  "img": "Minion85A",
+  "tag": "minion",
+  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "7",
   "type": 1,
   "template": "picture"
 }

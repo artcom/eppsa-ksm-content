@@ -1,10 +1,10 @@
 {
-  "img": "",
-  "tag": "",
-  "direction": "",
+  "img": "Lantern",
+  "tag": "laterne",
+  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "3",
   "type": 1,
   "template": "picture"
 }

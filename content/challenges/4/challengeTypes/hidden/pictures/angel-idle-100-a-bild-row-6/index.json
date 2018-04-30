@@ -1,10 +1,10 @@
 {
-  "img": "",
-  "tag": "",
-  "direction": "",
+  "img": "AngelIdle100A",
+  "tag": "engel,faul",
+  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "6",
   "type": 1,
   "template": "picture"
 }

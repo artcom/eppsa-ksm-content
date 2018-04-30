@@ -1,10 +1,10 @@
 {
   "img": "Cloud3",
-  "tag": "",
+  "tag": "cloud",
   "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "",
+  "depth": "5",
   "type": 1,
   "template": "picture"
 }
