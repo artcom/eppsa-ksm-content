@@ -43,6 +43,10 @@
     {
       "name": "lobbyIconError",
       "type": "image"
+    },
+    {
+      "name": "challengeSelectionRandom",
+      "type": "image"
     }
   ]
 }
