@@ -73,6 +73,10 @@
       "type": "string"
     },
     {
+      "name": "challengeSelectionText",
+      "type": "string"
+    },
+    {
       "name": "challengeModeSelectionTitle",
       "type": "string"
     },
