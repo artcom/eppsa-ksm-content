@@ -14,6 +14,7 @@
   "mateRequestPendingTitle": "${mate} lädt dich zum Spielen ein",
   "selectNamePlaceholder": "Spielername eingeben",
   "resumeGameText": "Möchtest du deinen Spielstand mit deiner letzten Figur fortführen?",
+  "lobbyIsEmpty": "Warte auf weitere Spieler...",
   "requestedMateDeclinedCancelButton": "Zurück zur Lobby",
   "areaConfirmationText": "Sieh dir alle Ausstellungsstücke in diesem Bereich gut an!",
   "scanQrErrorInstructions": "Falscher QR-Code. Scanne den QR-Code in diesem Bereich.",
