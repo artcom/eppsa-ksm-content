@@ -85,6 +85,10 @@
       "type": "string"
     },
     {
+      "name": "lobbyIsEmpty",
+      "type": "string"
+    },
+    {
       "name": "mateRequestPendingTitle",
       "type": "string"
     },
