@@ -2,9 +2,9 @@
   "img": "Cloud1",
   "tag": "cloud",
   "direction": "Right",
-  "positionX": "20",
-  "positionY": "20",
+  "positionX": "",
+  "positionY": "",
   "depth": "5",
-  "type": 2,
+  "type": 1,
   "template": "picture"
 }
