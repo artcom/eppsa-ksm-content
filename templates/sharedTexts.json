@@ -69,6 +69,10 @@
       "type": "string"
     },
     {
+      "name": "challengeSelectionTitle",
+      "type": "string"
+    },
+    {
       "name": "challengeModeSelectionTitle",
       "type": "string"
     },
