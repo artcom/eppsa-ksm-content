@@ -3,6 +3,7 @@
   "img": "Wasser1",
   "positionX": "50",
   "positionY": "100",
+  "baseWidth": 970,
   "rows": "",
   "template": "picture",
   "type": 2,
