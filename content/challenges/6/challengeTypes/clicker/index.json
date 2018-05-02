@@ -1,8 +1,14 @@
 {
+  "EndPointX": "200",
+  "showFinishLine": "true",
   "timer": 10,
-  "manualText": "",
   "MovementX": 20,
+  "StartPointX": "20",
+  "StartPointY": "320",
+  "ScaleOfBackground": 1,
   "reward": 50,
   "template": "clicker",
   "name": "Klicker"
+  "manualText": "",
+  "showWater": "true"
 }

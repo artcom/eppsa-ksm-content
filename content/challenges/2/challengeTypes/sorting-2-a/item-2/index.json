@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "ec/Sorting_Luxery_04-ec24f2adb6060f17027e54192b294a56d8048eb9.jpg"
+  },
   "text": "",
   "initialPosition": 2,
   "correctPosition": 2,

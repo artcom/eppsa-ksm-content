@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "dd/Sorting_Travel_07-dd3111a30e19ebb5cd47dbb69939dab0e6a7bc66.jpg"
+  },
   "text": "Lindau",
   "initialPosition": 4,
   "correctPosition": 1,

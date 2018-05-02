@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "d1/Sorting_Youth_11-d12e0b6283bb1922583789321580725b3175f20b.jpg"
+  },
   "text": "",
   "initialPosition": 4,
   "correctPosition": 1,
