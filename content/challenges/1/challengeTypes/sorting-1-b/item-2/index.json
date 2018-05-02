@@ -5,5 +5,6 @@
   "text": "Hyption-Seite",
   "initialPosition": 2,
   "correctPosition": 2,
-  "template": "sortingItem"
+  "template": "sortingItem",
+  "color": "#d4310f"
 }
