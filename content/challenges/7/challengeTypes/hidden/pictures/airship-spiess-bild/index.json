@@ -1,10 +1,11 @@
 {
+  "depth": "1",
   "img": "AirshipSpiess",
-  "tag": "luft,luftschiff,franzoesisch",
-  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "1",
+  "rows": "[1,6]",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "luft,luftschiff,franzoesisch",
+  "direction": "Left"
 }

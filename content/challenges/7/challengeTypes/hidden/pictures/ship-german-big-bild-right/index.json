@@ -1,11 +1,11 @@
 {
-  "depth": "6",
-  "img": "Lilientahl",
+  "depth": "8",
+  "img": "ShipGermanBig",
   "positionX": "",
   "positionY": "",
-  "rows": "6",
+  "rows": "",
   "template": "picture",
   "type": 1,
-  "tag": "luft,gleitflieger,deutsch",
+  "tag": "wasser,schiff,deutsch",
   "direction": "Right"
 }
