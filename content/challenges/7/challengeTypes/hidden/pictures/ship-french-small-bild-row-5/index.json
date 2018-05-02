@@ -1,10 +1,11 @@
 {
+  "depth": "5",
   "img": "ShipFrenchSmall",
-  "tag": "wasser,schiff,franzoesisch",
-  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "5",
+  "rows": "[5,6]",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "wasser,schiff,franzoesisch",
+  "direction": "Right"
 }
