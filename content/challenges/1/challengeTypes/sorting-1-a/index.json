@@ -2,6 +2,6 @@
   "manualText": "Ordne die Relikte ihrem Alter nach von oben nach unten an. Fange mit dem ältesten Relikt an.",
   "template": "sorting",
   "name": "Sortieren",
-  "topLabel": "Alt",
-  "bottomLabel": "Neu"
+  "topLabel": "Am ältesten",
+  "bottomLabel": "Am jüngsten"
 }
