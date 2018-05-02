@@ -31,6 +31,14 @@
       "type": "number"
     },
     {
+      "name": "collisionOnNode",
+      "type": "string"
+    },
+    {
+      "name": "edgeThreshold",
+      "type": "number"
+    },
+    {
       "name": "agentOriginX",
       "type": "number"
     },
