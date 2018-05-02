@@ -1,10 +1,11 @@
 {
+  "depth": "1",
   "img": "AngelDiligent74",
-  "tag": "engel,fleissig",
-  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "1",
+  "rows": "[1,2,3]",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "engel,fleissig",
+  "direction": "Left"
 }

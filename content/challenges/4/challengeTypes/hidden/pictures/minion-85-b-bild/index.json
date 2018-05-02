@@ -1,10 +1,11 @@
 {
+  "depth": "1",
   "img": "Minion85B",
-  "tag": "minion",
-  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "3",
+  "rows": "[1,2,3]",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "minion",
+  "direction": "Right"
 }
