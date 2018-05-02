@@ -1,11 +1,11 @@
 {
-  "depth": "",
-  "img": "",
-  "positionX": "",
-  "positionY": "",
+  "depth": "4",
+  "img": "skyline2",
+  "positionX": "50",
+  "positionY": "50",
   "rows": "",
   "template": "picture",
-  "type": 1,
+  "type": 2,
   "tag": "",
   "direction": ""
 }

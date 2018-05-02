@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "skyline4",
+  "image": {
+    "src": "d6/Skyline_4-d6cacbf9bba604d87d64e98c400c69267492a208.png"
+  },
   "template": "asset"
 }
