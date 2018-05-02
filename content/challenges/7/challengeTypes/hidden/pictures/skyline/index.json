@@ -2,8 +2,8 @@
   "img": "Skyline",
   "tag": "",
   "direction": "",
-  "positionX": "100",
-  "positionY": "100",
+  "positionX": "window.innerWidth/2",
+  "positionY": "window.innerHeight/2",
   "depth": "2",
   "type": 2,
   "template": "picture"
