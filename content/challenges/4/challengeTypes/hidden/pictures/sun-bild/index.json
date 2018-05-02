@@ -1,10 +1,11 @@
 {
+  "depth": "4",
   "img": "Sun",
-  "tag": "sun",
-  "direction": "Right",
   "positionX": "",
   "positionY": "",
-  "depth": "6",
+  "rows": "",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "sun",
+  "direction": "Right"
 }
