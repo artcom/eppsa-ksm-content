@@ -1,6 +1,11 @@
 {
   "fields": [
     {
+      "name": "name",
+      "type": "string",
+      "default": "Graph"
+    },
+    {
       "name": "manualText",
       "type": "string",
       "default": "Bringe alle Leute nach Hause."
@@ -23,6 +28,14 @@
     },
     {
       "name": "rewardValue",
+      "type": "number"
+    },
+    {
+      "name": "collisionOnNode",
+      "type": "string"
+    },
+    {
+      "name": "edgeThreshold",
       "type": "number"
     },
     {

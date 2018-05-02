@@ -1,7 +1,11 @@
 {
-  "fields": 
-  [
+  "fields": [
     {
+      "name": "name",
+      "type": "string",
+      "default": "Suche"
+    },
+	  {
       "name": "manualText",
       "type": "string"
     },

@@ -4,6 +4,7 @@
   "timer": 10,
   "MovementX": 20,
   "StartPointX": "20",
+  "name": "Klicker",
   "StartPointY": "320",
   "ScaleOfBackground": 1,
   "reward": 50,

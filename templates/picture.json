@@ -21,6 +21,10 @@
             "type": "string"
         },
         {
+            "name": "rows",
+            "type": "string"
+        },
+        {
             "name": "depth",
             "type": "string"
         },

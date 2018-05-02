@@ -1,9 +1,22 @@
 {
   "fields": [
     {
+      "name": "name",
+      "type": "string",
+      "default": "Sortieren"
+    },
+    {
       "name": "manualText",
       "type": "string",
       "default": "Bringe die Bilder in die richtige Reihenfolge."
+    },
+    {
+      "name": "topLabel",
+      "type": "string"
+    },
+    {
+      "name": "bottomLabel",
+      "type": "string"
     }
   ],
   "children": [

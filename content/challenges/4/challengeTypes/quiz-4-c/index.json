@@ -1,10 +1,11 @@
 {
-  "manualText": "Schau dir die Spielkarten von „Was kochen wir?“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "question": "Welche Zielgruppe sollte bei „Was kochen wir?“ spielend etwas über ihre gesellschaftliche Rolle erfahren?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Junge Mädchen",
+  "manualText": "Schau dir die Spielkarten von „Was kochen wir?“ genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "answer2": "Junge Mütter",
   "answer3": "Dienstmädchen",
   "answer4": "Eltern",
-  "correctAnswer": 1,
   "template": "quiz"
 }

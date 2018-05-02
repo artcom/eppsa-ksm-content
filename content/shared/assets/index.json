@@ -1,36 +1,39 @@
 {
   "avatarsLarge": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+    "src": "c2/avatars_la-c2cfa62e346f6469f74cf3b5af17e823d02095aa.png"
   },
-  "challengeTypeIconOneButton": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+  "hiddenIcon": {
+    "src": "28/Icon_HiddenPicture-28eb2e1fc9d28d3be328f50836497793d9809a02.svg"
   },
-  "challengeTypeIconQuiz": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+  "graphIcon": {
+    "src": "a5/Icon_Graph-a52fad21d640ee939bb382b1a6ab239405ba02d2.svg"
+  },
+  "skillIcon": {
+    "src": "55/Icon_Skill_Multiplayer-5586afaca03f08a65e2ac6624bbe2fee1b86ab68.svg"
+  },
+  "challengeSelectionRandom": {
+    "src": "8d/challengeSelection-8d19b89b5e793d2b58a16c48698c0fba9d62fcb1.gif"
   },
   "avatarsSmall": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+    "src": "36/avatars_sm-36a0f14744c850e523a2f566ab4480fffbeaed76.png"
   },
-  "challengeTypeIconSorting": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+  "quizIcon": {
+    "src": "67/Icon_Quiz-67fb1b735f7427bbd931e6e019c5cc2ddc6a846a.svg"
+  },
+  "clickerIcon": {
+    "src": "6f/Icon_OneButton-6fd047743c4e09e829c377e2472ee0d75f39c13f.svg"
   },
   "avatarsMedium": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
-  },
-  "challengeTypeIconGraph": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+    "src": "64/avatars_me-64ae8bb018a8f5d957e88e7ec19d32b59e5e72fa.png"
   },
   "lobbyIconError": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
+    "src": "0e/Icon_Error-0e1a669507dc4c0a5ec578ffb33c2ad14bf015b9.svg"
   },
   "template": "sharedAssets",
+  "sortingIcon": {
+    "src": "d4/Icon_Sorting-d4656b97f98d5335a27cb2cd8ef2276c7a266a83.svg"
+  },
   "lobbyIconWaiting": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
-  },
-  "challengeTypeIconHiddenPicture": {
-    "src": "3e/Bildschirmfoto 2018-04-23 um 21.15.10-3e5a55987beb36d73eca28a5291e99938c5b2ee5.png"
-  },
-  "challengeTypeIconSkillMultiplayer": {
-    "src": "55/Icon_Skill_Multiplayer-5586afaca03f08a65e2ac6624bbe2fee1b86ab68.svg"
+    "src": "aa/Icon_SearchingForPlayers-aac9cdc3e8e38fb3a8321ef7915f76a69949bccf.svg"
   }
 }

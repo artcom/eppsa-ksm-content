@@ -1,6 +1,11 @@
 {
   "fields": [
     {
+      "name": "name",
+      "type": "string",
+      "default": "Knopf"
+    },
+    {
       "name": "manualText",
       "type": "string",
       "default": "Drücken Sie den Knopf ganz fest."

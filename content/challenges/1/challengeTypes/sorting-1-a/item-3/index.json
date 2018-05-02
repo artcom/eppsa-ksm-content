@@ -1,6 +1,8 @@
 {
-  "image": null,
-  "text": "",
+  "image": {
+    "src": "75/11-75fdb1192ff0cd29b9aa0ccecc0da267f3d127f1.jpg"
+  },
+  "text": "Correct Position 3",
   "initialPosition": 1,
   "correctPosition": 3,
   "template": "sortingItem"

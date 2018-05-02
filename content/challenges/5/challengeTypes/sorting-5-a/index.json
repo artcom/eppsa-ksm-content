@@ -2,5 +2,6 @@
   "manualText": "In welcher Reihenfolge passiert man auf kurzem Weg von Berlin nach Paris die folgenden Städte?",
   "topLabel": "Reichtum",
   "bottomLabel": "Armut",
-  "template": "sorting"
+  "template": "sorting",
+  "name": "Sortieren"
 }

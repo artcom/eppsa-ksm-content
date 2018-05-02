@@ -17,6 +17,22 @@
       "type": "string"
     },
     {
+      "name": "resumeGameTitle",
+      "type": "string"
+    },
+    {
+      "name": "resumeGameText",
+      "type": "string"
+    },
+    {
+      "name": "resumeGameButton",
+      "type": "string"
+    },
+    {
+      "name": "newGameButton",
+      "type": "string"
+    },
+    {
       "name": "selectAvatar",
       "type": "string"
     },
@@ -38,6 +54,82 @@
     },
     {
       "name": "scanQrInstructions",
+      "type": "string"
+    },
+    {
+      "name": "navigationToNextArea",
+      "type": "string"
+    },
+    {
+      "name": "navigationToNextAreaButton",
+      "type": "string"
+    },
+    {
+      "name": "areaConfirmationText",
+      "type": "string"
+    },
+    {
+      "name": "challengeSelectionTitle",
+      "type": "string"
+    },
+    {
+      "name": "challengeSelectionText",
+      "type": "string"
+    },
+    {
+      "name": "challengeModeSelectionTitle",
+      "type": "string"
+    },
+    {
+      "name": "challengeModeSelectionMultiplayerButton",
+      "type": "string"
+    },
+    {
+      "name": "challengeModeSelectionSingleplayerButton",
+      "type": "string"
+    },
+    {
+      "name": "lobbyTitle",
+      "type": "string"
+    },
+    {
+      "name": "lobbyIsEmpty",
+      "type": "string"
+    },
+    {
+      "name": "mateRequestPendingTitle",
+      "type": "string"
+    },
+    {
+      "name": "mateRequestPendingAcceptButton",
+      "type": "string"
+    },
+    {
+      "name": "mateRequestPendingDeclineButton",
+      "type": "string"
+    },
+    {
+      "name": "requestedMatePendingTitle",
+      "type": "string"
+    },
+    {
+      "name": "requestedMatePendingCancelButton",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateDeclinedTitle",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateDeclinedCancelButton",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateUnavailableTitle",
+      "type": "string"
+    },
+    {
+      "name": "requestedMateUnavailableCancelButton",
       "type": "string"
     }
   ]
