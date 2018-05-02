@@ -3,7 +3,7 @@
   "img": "Floor",
   "positionX": "50",
   "positionY": "100",
-  "baseWidth": null,
+  "baseWidth": 900,
   "rows": "",
   "template": "picture",
   "type": 2,
