@@ -70,6 +70,14 @@
       "type": "number"
     },
     {
+      "name": "Row8Max",
+      "type": "number"
+    },  
+    {
+      "name": "Row8Min",
+      "type": "number"
+    },
+    {
       "name": "YPosRow1",
       "type": "string"
     },
@@ -93,8 +101,12 @@
       "name": "YPosRow6",
       "type": "string"
     },
-        {
+    {
       "name": "YPosRow7",
+      "type": "string"
+    },
+    {
+      "name": "YPosRow8",
       "type": "string"
     },
     {
@@ -121,8 +133,12 @@
       "name": "SpeedRow6",
       "type": "number"
     },
-        {
+    {
       "name": "SpeedRow7",
+      "type": "number"
+    },
+    {
+      "name": "SpeedRow8",
       "type": "number"
     },
     {
@@ -156,8 +172,12 @@
       "name": "ScalingImages6",
       "type": "string"
     },
-        {
+    {
       "name": "ScalingImages7",
+      "type": "string"
+    },
+    {
+      "name": "ScalingImages8",
       "type": "string"
     }
 
