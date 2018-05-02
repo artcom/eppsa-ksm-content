@@ -3,6 +3,7 @@
   "img": "BalloonModern",
   "positionX": "",
   "positionY": "",
+  "baseWidth": 446,
   "rows": "[1,6]",
   "template": "picture",
   "type": 1,
