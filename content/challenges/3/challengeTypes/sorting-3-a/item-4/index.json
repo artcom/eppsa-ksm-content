@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "95/Sorting_Revolution_1857-95a49bfbc1fceab872acfe801fb4fe24705cb9a1.jpg"
+  },
   "text": "Aufstand in Indien",
   "initialPosition": 3,
   "correctPosition": 4,

@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne die Ereignisse in der „Eroberung der Luft“ chronologisch an.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Am frühesten",
+  "bottomLabel": "Am spätesten"
 }

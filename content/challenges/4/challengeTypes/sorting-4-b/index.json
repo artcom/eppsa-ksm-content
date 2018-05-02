@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne die Spielkarten mit deutschem Blatt nach ihrer Wertigkeit.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Höchster Wert",
+  "bottomLabel": "Niedrigster Wert"
 }

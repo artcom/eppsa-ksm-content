@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "f7/Sorting_Revolution_1815-f792f6e5b96d887bfd4f500bc80f210042fb4e48.jpg"
+  },
   "text": "Schlacht von Waterloo",
   "initialPosition": 1,
   "correctPosition": 3,

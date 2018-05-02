@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne die szenischen Landschaften der Rheinroute. Beginne mit dem Oberrhein von oben.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Oberrhein",
+  "bottomLabel": "Rheinmündung"
 }

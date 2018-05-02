@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "8a/Sorting_Scopa_02-8a7e357793dd35ce2f1f33e64fac3488d33fc16c.jpg"
+  },
   "text": "",
   "initialPosition": 3,
   "correctPosition": 4,

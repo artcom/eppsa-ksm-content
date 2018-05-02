@@ -1,4 +1,7 @@
 {
   "manualText": "Der Wert der Spielkarten ist durch die Figuren und ihre Position erkennbar.",
-  "template": "sorting"
+  "template": "sorting",
+  "name": "",
+  "topLabel": "Höchster Wert",
+  "bottomLabel": "Niedrigster Wert"
 }

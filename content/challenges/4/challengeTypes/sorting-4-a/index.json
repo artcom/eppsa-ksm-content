@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne den Tagesablauf einer „vorbildlichen“ Hausfrau von morgens bis abends.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Zuerst",
+  "bottomLabel": "Zuletzt"
 }

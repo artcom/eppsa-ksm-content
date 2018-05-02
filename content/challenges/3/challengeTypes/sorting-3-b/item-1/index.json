@@ -1,6 +1,8 @@
 {
-  "image": null,
-  "text": "Napoleons Krieg in Spanien",
+  "image": {
+    "src": "d9/Sorting_Revolution_1805-d9595205463e2d900d3ba85407cce656e6860c56.jpg"
+  },
+  "text": "Dreikaiserschlacht bei Austerlitz",
   "initialPosition": 4,
   "correctPosition": 1,
   "template": "sortingItem"

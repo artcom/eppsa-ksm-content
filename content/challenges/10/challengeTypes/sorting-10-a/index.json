@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne die Scopa-Karten nach ihrer Wertigkeit richtig an.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Höchster Wert",
+  "bottomLabel": "Niedrigster Wert"
 }

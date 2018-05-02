@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne die revolutionären Ereignisse aufsteigend nach ihrer Jahreszahl von oben nach unten an.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Frühestes Ereignis",
+  "bottomLabel": "Spätestes Ereignis"
 }

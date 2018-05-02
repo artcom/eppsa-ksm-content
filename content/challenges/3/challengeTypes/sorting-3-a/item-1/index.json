@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "31/Sorting_Revolution_1830-3187259dc11fa1656c263e7aecc1ab21d9c4727f.jpg"
+  },
   "text": "Juli-Revolution in Paris",
   "initialPosition": 1,
   "correctPosition": 1,

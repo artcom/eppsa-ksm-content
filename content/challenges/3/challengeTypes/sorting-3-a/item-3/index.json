@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "91/Sorting_Revolution_1848-91da38175172bc424c92be3a2276ad0130cb514a.jpg"
+  },
   "text": "Revolution in Europa (Deutschland)",
   "initialPosition": 2,
   "correctPosition": 3,

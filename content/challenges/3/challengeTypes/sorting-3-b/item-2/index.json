@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "65/Sorting_Revolution_1812-656966c315bef1a72abf0b08fe47b5c70d5151f8.jpg"
+  },
   "text": "Napoleons Rückzug aus Russland",
   "initialPosition": 3,
   "correctPosition": 2,

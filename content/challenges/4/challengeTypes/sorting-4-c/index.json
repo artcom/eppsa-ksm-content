@@ -1,5 +1,7 @@
 {
   "manualText": "Ordne die Aufgaben des Spielers auf seiner „Reise ins Himmelreich“.",
   "template": "sorting",
-  "name": "Sortieren"
+  "name": "Sortieren",
+  "topLabel": "Früher",
+  "bottomLabel": "Später"
 }

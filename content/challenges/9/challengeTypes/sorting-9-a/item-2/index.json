@@ -1,6 +1,8 @@
 {
-  "image": null,
-  "text": "Schachspiel im bemalten Kasten",
+  "image": {
+    "src": "6c/Sorting_NS_01-6cfb0d2f9aca8b62d9a23d35d9cea98431fa9d9e.jpg"
+  },
+  "text": "",
   "initialPosition": 2,
   "correctPosition": 2,
   "template": "sortingItem"
