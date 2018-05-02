@@ -1,10 +1,11 @@
 {
+  "depth": "1",
   "img": "AirshipSchuetteLanz",
-  "tag": "luft,luftschiff,deutsch",
-  "direction": "Left",
   "positionX": "",
   "positionY": "",
-  "depth": "1",
+  "rows": "[1,3,7]",
+  "template": "picture",
   "type": 1,
-  "template": "picture"
+  "tag": "luft,luftschiff,deutsch",
+  "direction": "Left"
 }
