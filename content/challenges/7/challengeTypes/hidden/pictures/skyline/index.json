@@ -1,7 +1,7 @@
 {
   "img": "skyline",
   "tag": "",
-  "direction": "",
+  "direction": "left",
   "positionX": "300",
   "positionY": "400",
   "depth": "2",
