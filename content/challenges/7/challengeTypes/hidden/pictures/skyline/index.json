@@ -2,9 +2,9 @@
   "img": "Skyline",
   "tag": "",
   "direction": "",
-  "positionX": "10",
-  "positionY": "10",
-  "depth": "",
+  "positionX": "100",
+  "positionY": "100",
+  "depth": "2",
   "type": 2,
   "template": "picture"
 }
