@@ -1,8 +1,8 @@
 {
   "depth": "4",
   "img": "Floor",
-  "positionX": "",
-  "positionY": "",
+  "positionX": "50",
+  "positionY": "100",
   "baseWidth": null,
   "rows": "",
   "template": "picture",
