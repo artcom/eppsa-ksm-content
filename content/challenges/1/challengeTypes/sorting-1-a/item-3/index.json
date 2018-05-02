@@ -1,5 +1,7 @@
 {
-  "image": null,
+  "image": {
+    "src": "75/11-75fdb1192ff0cd29b9aa0ccecc0da267f3d127f1.jpg"
+  },
   "text": "",
   "initialPosition": 1,
   "correctPosition": 3,
