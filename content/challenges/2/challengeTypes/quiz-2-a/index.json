@@ -1,11 +1,11 @@
 {
-  "name": "Quiz",
-  "manualText": "Schau dir die Tric-Trac-Spielsteine genau an oder untersuche das Bild in der nächsten Quizfrage.",
   "question": "Welchen Beinamen hatte Kaiser Leopold I., dessen Abbild einen Spielstein ziert?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Der Siegende",
+  "manualText": "Schau dir die Tric-Trac-Spielsteine genau an oder untersuche das Bild in der nächsten Quizfrage.",
   "answer2": "Der Grausame",
   "answer3": "Der Große",
   "answer4": "Der Barmherzige",
-  "correctAnswer": 1,
   "template": "quiz"
 }
