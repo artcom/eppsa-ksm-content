@@ -1,10 +1,10 @@
 {
   "img": "skyline",
-  "tag": "\"\"",
-  "direction": "Left",
-  "positionX": "0",
-  "positionY": "0",
+  "tag": "",
+  "direction": "",
+  "positionX": "300",
+  "positionY": "500",
   "depth": "2",
-  "type": 1,
+  "type": 2,
   "template": "picture"
 }
