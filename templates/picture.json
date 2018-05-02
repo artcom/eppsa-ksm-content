@@ -21,6 +21,10 @@
             "type": "string"
         },
         {
+            "name": "baseWidth",
+            "type": "number"
+        },
+        {
             "name": "rows",
             "type": "string"
         },
