@@ -1,10 +1,10 @@
 {
   "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "question": "Welche Aktivität versteht man unter dem Begriff „Cosplay“?",
-  "answer1": "Verkleidung und Imitation eines fiktiven Charakters",
-  "answer2": "Nachspielen einer beliebten Videospiel-Szene von Kindern",
-  "answer3": "Spielen eines Pen-and-Paper-Rollenspiels in der realen Welt",
-  "answer4": "Onlinestellen von nachgespielten Spiele-Soundtracks auf dem Keyboard",
+  "answer1": "Verkleidung eines fiktiven Charakters",
+  "answer2": "Nachstellung von beliebten Videospiel-Szenen",
+  "answer3": "Rollenspiel in der realen Welt",
+  "answer4": "Nachgespielen von Spiele-Soundtracks",
   "correctAnswer": 1,
   "template": "quiz"
 }
