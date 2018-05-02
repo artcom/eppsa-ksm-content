@@ -4,11 +4,11 @@
   "timer": 10,
   "MovementX": 20,
   "StartPointX": "20",
+  "name": "Klicker",
   "StartPointY": "320",
   "ScaleOfBackground": 1,
   "reward": 50,
-  "template": "clicker",
-  "name": "Klicker",
   "manualText": "",
-  "showWater": "true"
+  "showWater": "true",
+  "template": "clicker"
 }
