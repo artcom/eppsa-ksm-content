@@ -1,6 +1,11 @@
 {
     "fields": [
       {
+        "name": "name",
+        "type": "string",
+        "default": "Skill"
+      },
+      {
         "name": "manualText",
         "type": "string",
         "default": "Teste deinen Skill."

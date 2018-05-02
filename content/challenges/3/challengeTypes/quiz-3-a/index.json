@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir das Robert-Blum-Spiel und seine Beschreibungstexte genau an. Tippe dann auf „Starten“, um die Quizfrage zu starten.",
   "question": "Welcher demokratischer Wert sollte Kindern, im Robert-Blum-Spiel, näher gebracht werden?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Soziales Bewusstsein",
+  "manualText": "Sieh dir das Robert-Blum-Spiel und seine Beschreibungstexte genau an. Tippe dann auf „Starten“, um die Quizfrage zu starten.",
   "answer2": "Fleiß und Gehorsam",
   "answer3": "Politische Rhetorik",
   "answer4": "Respekt vor der Obrigkeit",
-  "correctAnswer": 1,
   "template": "quiz"
 }

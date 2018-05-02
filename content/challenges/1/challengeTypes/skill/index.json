@@ -5,6 +5,7 @@
   "vehicleWinAngle": 3,
   "timer": 30,
   "vehicleAngle": 30,
+  "name": "Skill",
   "streamForce": null,
   "minTilt": -20,
   "countdown": 2,

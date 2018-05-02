@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die „Scopa“-Karten genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "question": "Aus welchem Land stammten die Arbeitsmigranten, welche das Spiel „Scopa“ nach Deutschland einführten?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Italien",
+  "manualText": "Sieh dir die „Scopa“-Karten genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "answer2": "Spanien",
   "answer3": "Türkei",
   "answer4": "Portugal",
-  "correctAnswer": 1,
   "template": "quiz"
 }

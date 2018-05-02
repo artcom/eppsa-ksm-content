@@ -1,10 +1,11 @@
 {
-  "manualText": "Schau dir die Spielkarten von „Was bin ich“ aufmerksam an. Tippe dann auf „Starten“, um den Beruf der Person zu erraten.",
   "question": "Kannst du den Beruf erraten? „Ich trage Blau und halte Ordnung in der Verwaltung.“",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Kontoristin",
+  "manualText": "Schau dir die Spielkarten von „Was bin ich“ aufmerksam an. Tippe dann auf „Starten“, um den Beruf der Person zu erraten.",
   "answer2": "Soufleuse",
   "answer3": "Briefträger",
   "answer4": "Pilot",
-  "correctAnswer": 1,
   "template": "quiz"
 }

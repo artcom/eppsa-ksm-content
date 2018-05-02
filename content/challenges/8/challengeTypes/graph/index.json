@@ -5,6 +5,7 @@
   "timer": 300,
   "rotateAgents": "true",
   "agentOrigin": "0.5, 0",
+  "name": "Graph",
   "backgroundImage": "background",
   "agentOriginX": 0.5,
   "agentOriginY": 0,

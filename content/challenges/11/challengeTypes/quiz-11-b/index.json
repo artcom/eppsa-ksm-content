@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "question": "Wie lautet der Name der Konsole, die vom Kölner Hersteller „Interton Elektronic“ hergestellt wurde?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "VC 4000",
+  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu beginnen.",
   "answer2": "VC 2600",
   "answer3": "Super Famicom",
   "answer4": "Odyssey",
-  "correctAnswer": 1,
   "template": "quiz"
 }

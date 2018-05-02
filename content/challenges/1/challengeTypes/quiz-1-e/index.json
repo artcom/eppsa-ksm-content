@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "question": "Welche Seite eines Astragals hatte die höchste Punktzahl?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Kyon-Seite",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte der Astragale genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "answer2": "Hyption-Seite",
   "answer3": "Pranes-Seite",
   "answer4": "Chion-Seite",
-  "correctAnswer": 1,
   "template": "quiz"
 }

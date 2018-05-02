@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "question": "Welcher gesellschaftlicher Wandel ist an den neuen Zielgruppen für Gesellschaftsspiele zu erkennen?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Der Stellenwert von „Kindheit“",
+  "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte zu diesem Bereich genau an. Tippe dann auf „Starten“, um das Quiz zu starten.",
   "answer2": "Das Wachstum der Oberschicht",
   "answer3": "Die Verminderung der Kindersterblichkeit",
   "answer4": "Eine frühere kindliche Reife",
-  "correctAnswer": 1,
   "template": "quiz"
 }
