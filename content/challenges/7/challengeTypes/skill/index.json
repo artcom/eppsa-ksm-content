@@ -9,7 +9,7 @@
   "streamForce": null,
   "minTilt": -20,
   "countdown": 2,
-  "manualText": "Fliege zusammen mit einem anderen Spieler.",
+  "manualText": "Bringe zusammen mit einem anderen Spieler, Wind und Zeppelin in Stromlinienform.",
   "npcTiltStay": 0.3,
   "streamWinAngle": 3,
   "template": "skill",
