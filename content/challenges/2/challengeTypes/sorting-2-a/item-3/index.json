@@ -2,8 +2,9 @@
   "image": {
     "src": "06/Sorting_Luxery_02-06c1e3a16f05dcd5cfe3da2f3429bd87de005947.jpg"
   },
-  "text": "",
+  "text": "Papageien-Ober",
   "initialPosition": 3,
   "correctPosition": 3,
-  "template": "sortingItem"
+  "template": "sortingItem",
+  "color": "#ffffff"
 }
