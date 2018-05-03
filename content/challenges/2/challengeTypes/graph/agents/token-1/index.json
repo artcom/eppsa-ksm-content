@@ -1,5 +1,5 @@
 {
-  "assignedDestination": "",
+  "assignedDestination": "[17,8,22,27]",
   "pauseTime": 2.5,
   "collisionRadius": 0.5,
   "speed": 5,
@@ -7,6 +7,6 @@
   "name": "token1",
   "isHostile": "false",
   "template": "graphAgent",
-  "spawnProbability": 0.3,
+  "spawnProbability": 1,
   "classCap": 40
 }
