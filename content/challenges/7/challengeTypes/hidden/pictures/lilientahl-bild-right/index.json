@@ -3,6 +3,7 @@
   "img": "Lilientahl",
   "positionX": "",
   "positionY": "",
+  "baseWidth": 446,
   "rows": "6",
   "template": "picture",
   "type": 1,

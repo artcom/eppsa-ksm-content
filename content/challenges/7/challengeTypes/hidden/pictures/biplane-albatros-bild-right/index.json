@@ -3,6 +3,7 @@
   "img": "BiplaneAlbatros",
   "positionX": "",
   "positionY": "",
+  "baseWidth": 446,
   "rows": "[2,5]",
   "template": "picture",
   "type": 1,
