@@ -1,10 +1,11 @@
 {
-  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
   "question": "Welche Aktivität versteht man unter dem Begriff „Cosplay“?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Verkleidung eines fiktiven Charakters",
+  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
   "answer2": "Nachstellung von beliebten Videospiel-Szenen",
   "answer3": "Rollenspiel in der realen Welt",
   "answer4": "Nachgespielen von Spiele-Soundtracks",
-  "correctAnswer": 1,
   "template": "quiz"
 }
