@@ -13,7 +13,7 @@
   "maxAgents": 5,
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
-  "backgroundColor": "#18516A",
+  "backgroundColor": "#efd295",
   "template": "graph",
   "gameTypeFactor": 3,
   "showScrollButton": "true",
