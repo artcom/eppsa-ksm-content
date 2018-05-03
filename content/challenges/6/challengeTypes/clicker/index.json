@@ -6,7 +6,7 @@
   "StartPointX": "5",
   "name": "Klicker",
   "StartPointY": "80",
-  "finishLineHeight": 50,
+  "finishLineHeight": 2,
   "ScaleOfBackground": 2,
   "reward": 50,
   "finishLineX": 50,
@@ -14,5 +14,5 @@
   "manualText": "",
   "showWater": "true",
   "template": "clicker",
-  "finishLineWidth": 50
+  "finishLineWidth": 2
 }
