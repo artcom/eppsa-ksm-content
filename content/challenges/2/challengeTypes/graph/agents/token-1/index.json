@@ -1,0 +1,12 @@
+{
+  "assignedDestination": "",
+  "pauseTime": null,
+  "collisionRadius": null,
+  "speed": null,
+  "localRotation": null,
+  "name": "",
+  "isHostile": "",
+  "template": "graphAgent",
+  "spawnProbability": null,
+  "classCap": null
+}
