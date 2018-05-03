@@ -1,10 +1,13 @@
 {
+  "EndPointX": "80",
+  "showFinishLine": "false",
   "timer": 10,
-  "manualText": "",
-  "MovementX": 20,
-  "reward": 50,
-  "template": "clicker",
+  "MovementX": 1,
+  "StartPointX": "5",
+  "StartPointY": "45",
   "ScaleOfBackground": 1,
+  "reward": 50,
+  "manualText": "",
   "showWater": "false",
-  "showFinishLine": "false"
+  "template": "clicker"
 }

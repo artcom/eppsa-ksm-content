@@ -1,11 +1,11 @@
 {
-  "EndPointX": "200",
+  "EndPointX": "80",
   "showFinishLine": "true",
   "timer": 10,
   "MovementX": 20,
   "StartPointX": "20",
   "name": "Klicker",
-  "StartPointY": "320",
+  "StartPointY": "70",
   "finishLineHeight": 50,
   "ScaleOfBackground": 2,
   "reward": 50,
