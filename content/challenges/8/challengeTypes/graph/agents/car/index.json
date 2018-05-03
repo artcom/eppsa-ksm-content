@@ -8,6 +8,6 @@
   "name": "car",
   "isHostile": "false",
   "template": "graphAgent",
-  "spawnProbability": 0.5,
+  "spawnProbability": 1,
   "classCap": 30
 }
