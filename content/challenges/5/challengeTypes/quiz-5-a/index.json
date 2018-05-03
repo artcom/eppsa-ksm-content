@@ -1,10 +1,11 @@
 {
-  "manualText": "Schau dir das Spiel „Tramway“ genauer an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
   "question": "Wie bewegten sich Straßenbahnen, bevor sie elektrisch betrieben wurden?",
+  "correctAnswer": 1,
+  "name": "Quiz",
   "answer1": "Auf Schienen, von Pferden gezogen",
+  "manualText": "Schau dir das Spiel „Tramway“ genauer an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
   "answer2": "Auf dem Pflaster, von Pferden gezogen",
   "answer3": "Von Passagieren der 2. Klasse geschoben",
   "answer4": "Sie wurden schon immer elektrisch betrieben",
-  "correctAnswer": 1,
   "template": "quiz"
 }
