@@ -1,7 +1,7 @@
 {
   "spawnInterval": 10,
   "designModeOn": "true",
-  "rewardValue": null,
+  "rewardValue": 10,
   "timer": 120,
   "rotateAgents": "false",
   "agentOrigin": "0.5,0.78",
