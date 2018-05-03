@@ -5,7 +5,7 @@
   "MovementX": 1,
   "StartPointX": "5",
   "name": "Klicker",
-  "StartPointY": "100",
+  "StartPointY": "110",
   "finishLineHeight": 0.64,
   "ScaleOfBackground": 2,
   "reward": 50,
