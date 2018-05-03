@@ -17,32 +17,48 @@
       {
         "name": "MovementX",
         "type": "number"
-        },
-        {
-          "name": "StartPointY",
-          "type": "string" 
-        },
-        {
-          "name": "StartPointX",
-          "type": "string"
-        },
-        {
-          "name": "EndPointX",
-          "type": "string"
-        },
-        {
-          "name": "ScaleOfBackground",
-          "type": "number"
-        },
-        {
-          "name": "showWater",
-          "type": "string"
-        },
-        {
-          "name": "showFinishLine",
-          "type": "string"
-        }
-        ],
-        "children": [
-        "assets", "score"]
+      },
+      {
+        "name": "StartPointY",
+        "type": "string" 
+      },
+      {
+        "name": "StartPointX",
+        "type": "string"
+      },
+      {
+        "name": "EndPointX",
+        "type": "string"
+      },
+      {
+        "name": "ScaleOfBackground",
+        "type": "number"
+      },
+      {
+        "name": "showWater",
+        "type": "string"
+      },
+      {
+        "name": "showFinishLine",
+        "type": "string"
+      },
+      {
+        "name": "finishLineX",
+        "type": "number"
+      },
+      {
+        "name": "finishLineY",
+        "type": "number"
+      },
+      {
+        "name": "finishLineWidth",
+        "type": "number"
+      },
+      {
+        "name": "finishLineHeight",
+        "type": "number"
       }
+    ],
+    "children": [
+      "assets", "score"]
+    }
