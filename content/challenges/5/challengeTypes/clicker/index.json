@@ -4,6 +4,7 @@
   "timer": 20,
   "MovementX": 1,
   "StartPointX": "5",
+  "name": "Tramway",
   "StartPointY": "50",
   "ScaleOfBackground": 1,
   "reward": 50,
