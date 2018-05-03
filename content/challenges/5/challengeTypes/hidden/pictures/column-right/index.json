@@ -1,10 +1,11 @@
 {
+  "depth": "6",
   "img": "ColumnRight",
-  "tag": "",
-  "direction": "",
-  "positionX": "",
-  "positionY": "",
-  "depth": "3",
+  "positionX": "79.5",
+  "positionY": "79",
+  "baseWidth": 900,
+  "template": "picture",
   "type": 2,
-  "template": "picture"
+  "tag": "",
+  "direction": ""
 }

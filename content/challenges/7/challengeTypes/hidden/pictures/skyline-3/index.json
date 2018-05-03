@@ -3,6 +3,7 @@
   "img": "skyline3",
   "positionX": "39.5",
   "positionY": "43",
+  "baseWidth": 970,
   "rows": "",
   "template": "picture",
   "type": 2,
