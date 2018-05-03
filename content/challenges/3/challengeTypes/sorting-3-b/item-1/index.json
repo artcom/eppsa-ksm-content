@@ -5,5 +5,6 @@
   "text": "Dreikaiserschlacht bei Austerlitz",
   "initialPosition": 4,
   "correctPosition": 1,
-  "template": "sortingItem"
+  "template": "sortingItem",
+  "color": "#ffffff"
 }

@@ -5,5 +5,6 @@
   "text": "Schlacht von Waterloo",
   "initialPosition": 1,
   "correctPosition": 3,
-  "template": "sortingItem"
+  "template": "sortingItem",
+  "color": "#ffffff"
 }
