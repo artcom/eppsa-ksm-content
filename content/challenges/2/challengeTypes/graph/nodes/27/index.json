@@ -12,6 +12,6 @@
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 5,
-  "skin": "tailor",
+  "skin": "node",
   "nodeID": 27
 }

@@ -12,6 +12,6 @@
   "nodeState": "start",
   "isStart": "false",
   "template": "graphNode",
-  "skin": "",
+  "skin": "node",
   "nodeID": 0
 }
