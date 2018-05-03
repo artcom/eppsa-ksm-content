@@ -13,7 +13,7 @@
   "maxAgents": "3",
   "manualText": "",
   "collisionOnNode": "false",
-  "drawLinesAndNodes": "false",
+  "drawLinesAndNodes": "true",
   "backgroundColor": "",
   "template": "graph",
   "gameTypeFactor": 4,
