@@ -9,7 +9,7 @@
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
   "edgeThreshold": 12,
-  "lineColor": "0xCCD6DF",
+  "lineColor": "0xfaf3e1",
   "maxAgents": 5,
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
