@@ -1,7 +1,11 @@
 {
   "SpeedRow3": 5,
-  "SpeedRow4": 2,
+  "SpeedRow4": 0,
+  "SpeedRow5": 1.7,
   "rewardValue": 10,
+  "SpeedRow6": 0,
+  "SpeedRow7": 1.7,
+  "SpeedRow8": 1.7,
   "timer": 60,
   "Row8Max": 4000,
   "Row7Max": 4000,
@@ -15,11 +19,11 @@
   "YPosRow1": "35",
   "ScalingImages2": "0.2",
   "YPosRow2": "35",
-  "ScalingImages3": "0.7",
+  "ScalingImages3": "1.2",
   "YPosRow3": "50",
   "Row8Min": 3000,
   "Row7Min": 3000,
-  "ScalingImages4": "0.3",
+  "ScalingImages4": "",
   "YPosRow4": "0",
   "Row6Min": 0,
   "ScalingImages5": "0.3",
@@ -38,6 +42,6 @@
   "template": "hidden",
   "Row2Min": 3000,
   "Row1Min": 3000,
-  "SpeedRow1": 2,
-  "SpeedRow2": 2
+  "SpeedRow1": 1.7,
+  "SpeedRow2": 1.7
 }
