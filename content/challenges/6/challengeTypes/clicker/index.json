@@ -10,7 +10,7 @@
   "ScaleOfBackground": 2,
   "reward": 50,
   "finishLineX": 50,
-  "finishLineY": 35,
+  "finishLineY": 34.5,
   "manualText": "",
   "showWater": "true",
   "template": "clicker",
