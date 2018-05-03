@@ -1,13 +1,13 @@
 {
   "assignedDestination": "[17,8,22,27]",
-  "pauseTime": 1.9,
+  "pauseTime": 2.5,
   "collisionRadius": 0.5,
   "classes": 5,
   "speed": 5,
   "localRotation": 90,
-  "name": "smithh",
+  "name": "karte1",
   "isHostile": "false",
   "template": "graphAgent",
   "spawnProbability": 0.2,
-  "classCap": 40
+  "classCap": 1
 }
