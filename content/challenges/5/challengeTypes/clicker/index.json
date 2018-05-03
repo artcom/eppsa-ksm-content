@@ -4,7 +4,7 @@
   "timer": 10,
   "MovementX": 1,
   "StartPointX": "5",
-  "StartPointY": "45",
+  "StartPointY": "50",
   "ScaleOfBackground": 1,
   "reward": 50,
   "manualText": "",
