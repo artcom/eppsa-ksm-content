@@ -9,7 +9,7 @@
   "backgroundImage": "background",
   "agentOriginX": 0.3,
   "agentOriginY": 0,
-  "edgeThreshold": 12,
+  "edgeThreshold": 15,
   "maxAgents": "2",
   "manualText": "",
   "collisionOnNode": "false",
