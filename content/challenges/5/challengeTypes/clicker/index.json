@@ -1,7 +1,7 @@
 {
   "EndPointX": "80",
   "showFinishLine": "false",
-  "timer": 10,
+  "timer": 20,
   "MovementX": 1,
   "StartPointX": "5",
   "StartPointY": "50",
