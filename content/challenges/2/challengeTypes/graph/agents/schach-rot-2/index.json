@@ -5,9 +5,9 @@
   "classes": 5,
   "speed": 7,
   "localRotation": 90,
-  "name": "tailorwife",
+  "name": "schachrot2",
   "isHostile": "true",
   "template": "graphAgent",
-  "spawnProbability": 0.2,
-  "classCap": 1
+  "spawnProbability": 0.3,
+  "classCap": 40
 }

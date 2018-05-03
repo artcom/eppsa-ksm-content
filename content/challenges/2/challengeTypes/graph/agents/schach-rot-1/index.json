@@ -5,9 +5,9 @@
   "classes": 5,
   "speed": 5,
   "localRotation": 90,
-  "name": "shoemakerh",
+  "name": "schachrot1",
   "isHostile": "false",
   "template": "graphAgent",
-  "spawnProbability": 0.2,
+  "spawnProbability": 0.3,
   "classCap": 40
 }

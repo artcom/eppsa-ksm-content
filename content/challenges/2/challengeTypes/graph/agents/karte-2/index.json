@@ -8,6 +8,6 @@
   "name": "karte2",
   "isHostile": "false",
   "template": "graphAgent",
-  "spawnProbability": 0.2,
-  "classCap": 1
+  "spawnProbability": 0.3,
+  "classCap": 40
 }
