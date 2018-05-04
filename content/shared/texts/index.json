@@ -12,7 +12,7 @@
   "selectName": "Wähle deinen Namen!",
   "toPlayerName": "Zum Spielernamen",
   "requestedMateUnavailableCancelButton": "Zurück zur Lobby",
-  "finishBottomText": "Schau auf die Bestenliste um dich mit anderen Spielern zu vergleichen.\n\nZeige deinen Punktestand nach dem Spiel an der Kasse, um am Gewinnspiel teilzunehmen. ",
+  "finishBottomText": "Schau auf die Bestenliste um dich mit anderen Spielern zu vergleichen.\n\nZeige deinen Punktestand an der Kasse, um am Gewinnspiel teilzunehmen. ",
   "mateRequestPendingTitle": "${mate} lädt dich zum Spielen ein",
   "selectNamePlaceholder": "Spielername eingeben",
   "resumeGameText": "Möchtest du deinen Spielstand mit deiner letzten Figur fortführen?",
