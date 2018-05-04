@@ -1,7 +1,7 @@
 {
   "xPosition": 100,
   "nodePauseTime": 0,
-  "yPosition": 67,
+  "yPosition": 60,
   "edgeDirection": "none",
   "connectedTo": "[12,16,18,20,22]",
   "collisionEventEdge": "false",
