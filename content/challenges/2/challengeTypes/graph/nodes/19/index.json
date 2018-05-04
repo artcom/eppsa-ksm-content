@@ -1,9 +1,9 @@
 {
-  "xPosition": 85,
+  "xPosition": 90,
   "nodePauseTime": 0,
-  "yPosition": 60,
+  "yPosition": 75,
   "edgeDirection": "none",
-  "connectedTo": "[ 16, 20,25,26 ]",
+  "connectedTo": "[12,16,18,20,22]",
   "collisionEventEdge": "false",
   "isExit": "false",
   "collisionEventNode": "false",

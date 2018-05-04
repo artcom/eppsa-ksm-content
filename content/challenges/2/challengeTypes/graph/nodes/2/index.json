@@ -1,17 +1,17 @@
 {
-  "xPosition": 73,
+  "xPosition": 140,
   "nodePauseTime": 0,
   "yPosition": 12,
   "edgeDirection": "none",
-  "connectedTo": "[ 1, 3 ]",
+  "connectedTo": "[6]",
   "collisionEventEdge": "true",
   "isExit": "false",
   "collisionEventNode": "false",
   "edgeThreshold": 12,
-  "nodeState": "regular",
+  "nodeState": "exit",
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 5,
-  "skin": "",
+  "skin": "haus1780",
   "nodeID": 2
 }
