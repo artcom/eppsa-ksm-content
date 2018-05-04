@@ -1,0 +1,7 @@
+{
+  "name": "vehicleArrowSmall",
+  "image": {
+    "src": "b0/EPPSA_Airship_VehicleHUDsmall-b0ce8d3a96289fe778b06582978c292b6f032cf9.png"
+  },
+  "template": "asset"
+}

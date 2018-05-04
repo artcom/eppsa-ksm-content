@@ -1,0 +1,18 @@
+{
+  "EndPointX": "80",
+  "showFinishLine": "true",
+  "timer": 20,
+  "MovementX": 1,
+  "StartPointX": "5",
+  "name": "Rheinreise",
+  "StartPointY": "117",
+  "finishLineHeight": 0.64,
+  "ScaleOfBackground": 2,
+  "reward": 50,
+  "finishLineX": 70,
+  "finishLineY": 36,
+  "manualText": "Schnell! Tippe um dein Schiff zur nächsten Brücke zu bringen!",
+  "showWater": "true",
+  "template": "clicker",
+  "finishLineWidth": 0.5
+}
