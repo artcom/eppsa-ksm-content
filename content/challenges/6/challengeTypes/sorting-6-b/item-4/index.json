@@ -5,5 +5,6 @@
   "text": "Rotterdam",
   "initialPosition": 2,
   "correctPosition": 4,
-  "template": "sortingItem"
+  "template": "sortingItem",
+  "color": "#ffffff"
 }

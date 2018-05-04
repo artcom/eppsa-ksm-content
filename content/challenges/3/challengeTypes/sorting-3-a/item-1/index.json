@@ -5,5 +5,6 @@
   "text": "Juli-Revolution in Paris",
   "initialPosition": 1,
   "correctPosition": 1,
-  "template": "sortingItem"
+  "template": "sortingItem",
+  "color": "#ffffff"
 }
