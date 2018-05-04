@@ -1,11 +1,11 @@
 {
-  "EndPointX": "80",
+  "EndPointX": "30",
   "showFinishLine": "true",
   "timer": 20,
   "MovementX": 1,
   "StartPointX": "5",
   "name": "Rheinreise",
-  "StartPointY": "80",
+  "StartPointY": "110",
   "finishLineHeight": 0.64,
   "ScaleOfBackground": 2,
   "reward": 50,
