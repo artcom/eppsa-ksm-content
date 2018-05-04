@@ -2,7 +2,7 @@
   "spawnInterval": 1,
   "designModeOn": "true",
   "rewardValue": 100,
-  "timer": 10,
+  "timer": 60,
   "rotateAgents": "false",
   "agentOrigin": "0.5,0.78",
   "name": "Heinzelmännchen",

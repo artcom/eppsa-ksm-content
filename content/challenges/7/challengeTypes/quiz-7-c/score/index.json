@@ -1,6 +1,6 @@
 {
   "reward": 90,
-  "sessionLength": 20,
+  "sessionLength": 60,
   "tier1TimeBonus": 60,
   "tier2TimeBonus": 20,
   "tier3TimeBonus": 10,

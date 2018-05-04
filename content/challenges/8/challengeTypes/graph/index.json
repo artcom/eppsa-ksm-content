@@ -2,7 +2,7 @@
   "spawnInterval": 5,
   "designModeOn": "true",
   "rewardValue": 10,
-  "timer": 90,
+  "timer": 60,
   "rotateAgents": "true",
   "agentOrigin": "0.5, 0",
   "name": "Verkehrsspiel",
