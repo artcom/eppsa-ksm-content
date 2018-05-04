@@ -1,5 +1,5 @@
 {
-  "manualText": "Der Wert der Spielkarten ist durch die Figuren und ihre Position erkennbar.",
+  "manualText": "Der Wert der runden Spielkarten rechts an der Wand ist abhängig von der abgebildeten Figur. Ordne sie nach Wertigkeit.",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Höchster Wert",

@@ -1,5 +1,5 @@
 {
-  "manualText": "In welcher Reihenfolge passiert man auf kurzem Weg von Berlin nach Paris die folgenden Städte?",
+  "manualText": "Schau dir das Spiel vor dir genau an. Bringe die folgenden Städte in Reihenfolge, die auf dem Weg zwischen Berlin und Paris passiert werden.",
   "topLabel": "Berlin",
   "bottomLabel": "Paris",
   "template": "sorting",

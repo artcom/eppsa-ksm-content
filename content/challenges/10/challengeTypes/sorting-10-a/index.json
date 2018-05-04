@@ -1,5 +1,5 @@
 {
-  "manualText": "Ordne die Scopa-Karten nach ihrer Wertigkeit richtig an.",
+  "manualText": "Vor dir liegt das Scopa-Kartenspiel. Ordne die Scopa-Karten nach ihrer Wertigkeit.",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Höchster Wert",

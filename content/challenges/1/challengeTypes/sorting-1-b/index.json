@@ -1,5 +1,5 @@
 {
-  "manualText": "Astragale wurden wie Würfel benutzt. Ordne jede Würfelseite nach ihrer Wertigkeit.",
+  "manualText": "Lies den Beschreibungstext der Astragale (Würfel) durch. Ordne jede Würfelseite nach ihrer Wertigkeit.",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Höchster Wert",
