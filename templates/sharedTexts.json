@@ -141,6 +141,10 @@
       "type": "markdown"
     },
     {
+      "name": "finishScoreText",
+      "type": "string"
+    },
+    {
       "name": "finishBottomText",
       "type": "markdown"
     }
