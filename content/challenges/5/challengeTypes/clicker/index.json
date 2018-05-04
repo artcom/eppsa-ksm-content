@@ -8,7 +8,7 @@
   "StartPointY": "50",
   "ScaleOfBackground": 1,
   "reward": 50,
-  "manualText": "",
+  "manualText": "Schnell! Tippe um deine Straßenbahn zur nächsten Station zu bringen!",
   "showWater": "false",
   "template": "clicker"
 }
