@@ -2,10 +2,10 @@
   "question": "Welchem Zweck dienten die oftmals politischen oder religiösen Motive auf den Spielsteinen?",
   "correctAnswer": 1,
   "name": "Quiz",
-  "answer1": "Als Gesprächsstoff während des Spiels",
+  "answer1": "Gesprächsstoff während des Spiels",
   "manualText": "Schau dir den Beschreibungstext der Tric-Trac-Holz-Spielsteine in der Vitrine rechts genau.",
-  "answer2": "Als Erkennungshilfe für blinde Spieler",
-  "answer3": "Als Verhinderung von Spielbetrug",
-  "answer4": "Als Hinweis für zukünftige Generationen",
+  "answer2": "Erkennungshilfe für blinde Spieler",
+  "answer3": "Verhinderung von Spielbetrug",
+  "answer4": "Hinweis für zukünftige Generationen",
   "template": "quiz"
 }
