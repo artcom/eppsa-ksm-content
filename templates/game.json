@@ -13,10 +13,6 @@
       "type": "markdown"
     },
     {
-      "name": "finishText",
-      "type": "string"
-    },
-    {
       "name": "navigationToStartTitle",
       "type": "string"
     },

@@ -131,6 +131,18 @@
     {
       "name": "requestedMateUnavailableCancelButton",
       "type": "string"
+    },
+    {
+      "name": "finishTitle",
+      "type": "string"
+    },
+    {
+      "name": "finishTopText",
+      "type": "string"
+    },
+    {
+      "name": "finishBottomText",
+      "type": "string"
     }
   ]
 }
