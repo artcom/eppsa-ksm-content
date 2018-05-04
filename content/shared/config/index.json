@@ -1,9 +1,9 @@
 {
-  "quizScoreFactor": 1.2,
-  "sortingScoreFactor": 1.2,
-  "hiddenScoreFactor": 1.4,
-  "clickerScoreFactor": 1.8,
-  "skillScoreFactor": 1.7,
-  "graphScoreFactor": 1.2,
+  "quizScoreFactor": 1,
+  "sortingScoreFactor": 2,
+  "hiddenScoreFactor": 2,
+  "clickerScoreFactor": 1,
+  "skillScoreFactor": 2,
+  "graphScoreFactor": 2,
   "template": "sharedConfig"
 }
