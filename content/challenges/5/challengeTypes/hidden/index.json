@@ -1,11 +1,11 @@
 {
   "SpeedRow3": 7,
   "SpeedRow4": 0,
-  "SpeedRow5": 2,
+  "SpeedRow5": 3,
   "rewardValue": 10,
   "SpeedRow6": 0,
-  "SpeedRow7": 2,
-  "SpeedRow8": 2,
+  "SpeedRow7": 3,
+  "SpeedRow8": 3,
   "timer": 45,
   "Row8Max": 4000,
   "Row7Max": 4000,
@@ -44,6 +44,6 @@
   "template": "hidden",
   "Row2Min": 3000,
   "Row1Min": 3000,
-  "SpeedRow1": 2,
-  "SpeedRow2": 2
+  "SpeedRow1": 3,
+  "SpeedRow2": 3
 }
