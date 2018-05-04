@@ -138,11 +138,11 @@
     },
     {
       "name": "finishTopText",
-      "type": "string"
+      "type": "markdown"
     },
     {
       "name": "finishBottomText",
-      "type": "string"
+      "type": "markdown"
     }
   ]
 }
