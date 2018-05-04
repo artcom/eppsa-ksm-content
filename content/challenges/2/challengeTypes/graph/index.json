@@ -8,7 +8,7 @@
   "name": "Stadtspiel",
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
-  "edgeThreshold": 12,
+  "edgeThreshold": 20,
   "lineColor": "0xfaf3e1",
   "maxAgents": 5,
   "collisionOnNode": "true",
