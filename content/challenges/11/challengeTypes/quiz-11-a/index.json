@@ -1,11 +1,11 @@
 {
-  "question": "An welches japanische Arcade-Spiel erinnert das Retro-Spiel „Monster Man“ für die VC 4000?",
+  "question": "In „Squirrel & Bär“ wird spielerisch Englisch gelernt und die Bienen werden gerettet. Aber was ist eigentlich ein „Squirrel“?",
   "correctAnswer": 1,
   "name": "Quiz",
-  "answer1": "Pac-Man",
-  "manualText": "Sieh dir die Spiele und Beschreibungstexte in diesem Bereich genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Mario Bros.",
-  "answer3": "Space Invaders",
-  "answer4": "Asteroids",
+  "answer1": "Eichhörnchen",
+  "manualText": "Sieh dir die Pinnwand zur Entstehung eines digitalen Spiels genau an.",
+  "answer2": "Wiesel",
+  "answer3": "Biber",
+  "answer4": "Fuchs",
   "template": "quiz"
 }
