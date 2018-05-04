@@ -5,7 +5,7 @@
   "MovementX": 1,
   "StartPointX": "5",
   "name": "Rheinreise",
-  "StartPointY": "117",
+  "StartPointY": "80",
   "finishLineHeight": 0.64,
   "ScaleOfBackground": 2,
   "reward": 50,
