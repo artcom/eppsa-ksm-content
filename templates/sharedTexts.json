@@ -147,6 +147,18 @@
     {
       "name": "finishBottomText",
       "type": "markdown"
+    },
+    {
+      "name": "navigationToStartTitle",
+      "type": "string"
+    },
+    {
+      "name": "navigationToStartText",
+      "type": "string"
+    },
+    {
+      "name": "navigationToStartButtonText",
+      "type": "string"
     }
   ]
 }
