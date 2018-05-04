@@ -10,6 +10,7 @@
   "agentOriginY": 0.78,
   "lineColor": "0xCCD6DF",
   "maxAgents": 5,
+  "manualText": "Die fleißigen Heinzelmännchen verrichten die Arbeit der faulen Bürger. Weise den Heinzelmännchen, entsprechend ihrer Tätigkeit, den Weg zu ihrer Arbeitsstätte. Aber lass dich nicht von der Schneidersfrau erwischen!",
   "drawLinesAndNodes": "true",
   "backgroundColor": "#18516A",
   "template": "graph",
