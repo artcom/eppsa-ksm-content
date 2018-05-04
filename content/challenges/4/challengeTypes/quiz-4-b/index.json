@@ -1,10 +1,10 @@
 {
   "manualText": "Schau dir die Felder 80 bis 90 des Spielplans von „Die Reise in Himmelreich“ an. Er hängt rechts neben dem Gemälde an der Wand.",
-  "question": "In „Die Reise ins Himmelreich“ wird der Spieler auf Feld 82 einer Probe unterzogen. Was wird dabei gewogen?",
-  "answer1": "Die Tugenden gegen die Sünden",
-  "answer2": "Das Ausmaß der Todsünde Völlerei",
-  "answer3": "Das Gewicht des Herzens",
-  "answer4": "Das Körpergewicht zu Lebzeiten",
+  "question": "Auf Feld 82 in „Die Reise ins Himmelreich“ wird der Spieler einer Probe unterzogen. Was wird gewogen?",
+  "answer1": "Tugenden gegen die Sünden",
+  "answer2": "Ausmaß der Völlerei",
+  "answer3": "Gewicht des Herzens",
+  "answer4": "Körpergewicht zu Lebzeiten",
   "correctAnswer": 1,
   "template": "quiz"
 }
