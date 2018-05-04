@@ -11,7 +11,7 @@
   "edgeThreshold": 20,
   "lineColor": "0xfaf3e1",
   "maxAgents": 5,
-  "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise den Spielfiguren den Weg in ihre Epochen!",
+  "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise ihnen den Weg in ihre Epochen!",
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
   "backgroundColor": "#efd295",
