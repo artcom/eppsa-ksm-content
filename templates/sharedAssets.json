@@ -1,6 +1,10 @@
 {
   "fields": [
     {
+      "name": "logo",
+      "type": "image"
+    },
+    {
       "name": "avatarsSmall",
       "type": "image"
     },
