@@ -2,10 +2,10 @@
   "question": "Welcher gesellschaftlicher Wandel ist an den neuen Zielgruppen für Gesellschaftsspiele zu erkennen?",
   "correctAnswer": 1,
   "name": "Quiz",
-  "answer1": "Der Stellenwert von „Kindheit“",
+  "answer1": "Stellenwert von „Kindheit“",
   "manualText": "Sieh dir die Ausstellungsstücke und Beschreibungstexte in diesem Bereich genau an.",
-  "answer2": "Das Wachstum der Oberschicht",
-  "answer3": "Die Verminderung der Kindersterblichkeit",
-  "answer4": "Eine frühere kindliche Reife",
+  "answer2": "Wachstum der Oberschicht",
+  "answer3": "Verminderung der Kindersterblichkeit",
+  "answer4": "Frühere kindliche Reife",
   "template": "quiz"
 }
