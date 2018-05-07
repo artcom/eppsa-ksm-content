@@ -12,6 +12,6 @@
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 5,
-  "skin": "haus1500",
+  "skin": "housesmith",
   "nodeID": 1
 }
