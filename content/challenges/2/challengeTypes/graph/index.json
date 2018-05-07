@@ -1,5 +1,5 @@
 {
-  "spawnInterval": 10,
+  "spawnInterval": 5,
   "designModeOn": "false",
   "rewardValue": 10,
   "timer": 120,
