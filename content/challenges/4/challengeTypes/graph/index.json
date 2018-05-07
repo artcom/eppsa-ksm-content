@@ -9,14 +9,14 @@
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
   "edgeThreshold": 20,
-  "lineColor": "0xfaf3e1",
+  "lineColor": "0xccd6df",
   "maxAgents": 5,
   "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise ihnen den Weg in ihre Epochen!",
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
-  "backgroundColor": "#efd295",
+  "backgroundColor": "#14526b",
   "template": "graph",
   "gameTypeFactor": 3,
   "showScrollButton": "true",
-  "pathColor": "0xCCD6DF"
+  "pathColor": "0xfaec20"
 }
