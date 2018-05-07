@@ -1,14 +1,23 @@
 {
-  "name": "Engel",
-  "description": "Fliegt auch",
-  "large": {
-    "src": "41/angel_la-4114da1f61c91a79d403e139631d1b78f9b27b1e.png"
-  },
-  "template": "avatar",
   "small": {
     "src": "02/angel_sm-023c510748ad28e9627b20d0d217f352f28e1f00.png"
   },
+  "mediumCentered": {
+    "src": "47/angel_me-47ad9c8745c733db87c1509f1d3998189e889059.png"
+  },
+  "name": "Engel",
+  "largeCentered": {
+    "src": "47/angel_la-476521b0c6adefe302b29d0ab15b959cbd1fcfff.png"
+  },
   "medium": {
     "src": "8f/angel_me-8f885df9c33c88c04aaf53cea10b753a34ebfc2b.png"
-  }
+  },
+  "template": "avatar",
+  "smallCentered": {
+    "src": "b9/angel_sm-b9795bf0225b2ecb551b810f1309262c1c491d1b.png"
+  },
+  "large": {
+    "src": "41/angel_la-4114da1f61c91a79d403e139631d1b78f9b27b1e.png"
+  },
+  "description": "Fliegt auch"
 }
