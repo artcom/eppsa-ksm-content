@@ -19,6 +19,18 @@
     {
       "name": "large",
       "type": "image"
+    },
+    {
+      "name": "smallCentered",
+      "type": "image"
+    },
+    {
+      "name": "mediumCentered",
+      "type": "image"
+    },
+    {
+      "name": "largeCentered",
+      "type": "image"
     }
   ]
 }
