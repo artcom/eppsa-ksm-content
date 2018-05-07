@@ -2,7 +2,7 @@
   "spawnInterval": 5,
   "designModeOn": "true",
   "rewardValue": 10,
-  "timer": 90,
+  "timer": 3000,
   "rotateAgents": "false",
   "agentOrigin": "0.5,0.78",
   "name": "Stadtspiel",
