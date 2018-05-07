@@ -6,7 +6,7 @@
   "speed": 7,
   "localRotation": 90,
   "name": "schachrot2",
-  "isHostile": "true",
+  "isHostile": "false",
   "template": "graphAgent",
   "spawnProbability": 1,
   "classCap": 40
