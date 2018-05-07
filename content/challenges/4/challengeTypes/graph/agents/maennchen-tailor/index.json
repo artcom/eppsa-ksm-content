@@ -2,7 +2,7 @@
   "assignedDestination": "[1]",
   "pauseTime": 2.5,
   "collisionRadius": 0.5,
-  "speed": 5,
+  "speed": 10,
   "localRotation": 90,
   "name": "maennchentailor",
   "isHostile": "false",
