@@ -1,14 +1,23 @@
 {
-  "name": "Schachfigur",
-  "description": "Springt hin und her",
-  "large": {
-    "src": "93/chess_la-9360a7fbc37a51a535bdefe9ae5ba11a46c447af.png"
-  },
-  "template": "avatar",
   "small": {
     "src": "a0/chess_sm-a0385d8842f0fc78aa7dcd950aa635bfdc437cdb.png"
   },
+  "mediumCentered": {
+    "src": "f3/chess_me-f33581d480a80b8949eaa3c6afc02c3344099e38.png"
+  },
+  "name": "Schachfigur",
+  "largeCentered": {
+    "src": "05/chess_la-057aa2276d2f1264504396f21762ce9c32ac0690.png"
+  },
   "medium": {
     "src": "5b/chess_me-5be9b52c17ee47ec3ccc690c56a1bbbc7ea3c0e4.png"
-  }
+  },
+  "template": "avatar",
+  "smallCentered": {
+    "src": "b3/chess_sm-b37401c714538de98a2d5a746134061a457ca141.png"
+  },
+  "large": {
+    "src": "93/chess_la-9360a7fbc37a51a535bdefe9ae5ba11a46c447af.png"
+  },
+  "description": "Springt hin und her"
 }
