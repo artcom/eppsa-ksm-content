@@ -4,7 +4,7 @@
   "collisionRadius": null,
   "speed": 2,
   "localRotation": null,
-  "name": "TailorWife",
+  "name": "tailorwife",
   "isHostile": "true",
   "template": "graphAgent",
   "spawnProbability": 1,
