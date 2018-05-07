@@ -1,0 +1,21 @@
+{
+  "spawnInterval": 5,
+  "designModeOn": "true",
+  "rewardValue": 10,
+  "timer": 60,
+  "rotateAgents": "true",
+  "agentOrigin": "0.5, 0",
+  "name": "Verkehrsspiel",
+  "backgroundImage": "background",
+  "agentOriginX": 0.3,
+  "agentOriginY": 0,
+  "edgeThreshold": 15,
+  "maxAgents": "2",
+  "manualText": "Verkehr will geregelt sein. Jetzt bist du der Schupo und musst allen Autos den Weg zum Ausgang weisen. Achte die Verkehrsregeln und pass auf die Einbahnstraßen auf!",
+  "collisionOnNode": "false",
+  "drawLinesAndNodes": "true",
+  "backgroundColor": "",
+  "template": "graph",
+  "gameTypeFactor": 4,
+  "showScrollButton": "false"
+}
