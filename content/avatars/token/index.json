@@ -1,14 +1,23 @@
 {
-  "name": "Münze",
-  "description": "Rund",
-  "large": {
-    "src": "41/token_la-41b96e77230cb7875b37f1bf31a4df5bb8a07302.png"
-  },
-  "template": "avatar",
   "small": {
     "src": "96/token_sm-96220fdf2c93bd86cc64d6c6d185b2bf6dff4764.png"
   },
+  "mediumCentered": {
+    "src": "5a/token_me-5a999f94029766418e3526b66c341ad48a6f504e.png"
+  },
+  "name": "Münze",
+  "largeCentered": {
+    "src": "ec/token_la-ec872a8dd885fccceb911f403d721ce84e534143.png"
+  },
   "medium": {
     "src": "be/token_me-befe9351ce9183cba9c25741059e95d2c71debb5.png"
-  }
+  },
+  "template": "avatar",
+  "smallCentered": {
+    "src": "73/token_sm-730a8130f5022009e5dd27929b118effcf1d6072.png"
+  },
+  "large": {
+    "src": "41/token_la-41b96e77230cb7875b37f1bf31a4df5bb8a07302.png"
+  },
+  "description": "Rund"
 }
