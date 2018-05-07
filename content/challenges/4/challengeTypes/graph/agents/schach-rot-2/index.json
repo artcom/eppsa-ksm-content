@@ -1,0 +1,13 @@
+{
+  "assignedDestination": "[15]",
+  "pauseTime": 2.2,
+  "collisionRadius": 0.5,
+  "classes": 5,
+  "speed": 7,
+  "localRotation": 90,
+  "name": "schachrot2",
+  "isHostile": "false",
+  "template": "graphAgent",
+  "spawnProbability": 1,
+  "classCap": 40
+}
