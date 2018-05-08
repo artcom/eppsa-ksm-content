@@ -4,6 +4,7 @@
   "rewardValue": 10,
   "timer": 120,
   "rotateAgents": "false",
+  "firstAgentToSpawn": "maennchenbaker",
   "agentOrigin": "0.5,0.78",
   "name": "Stadtspiel",
   "agentOriginX": 0.5,
