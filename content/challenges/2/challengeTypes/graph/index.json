@@ -1,6 +1,6 @@
 {
   "spawnInterval": 4,
-  "designModeOn": "false",
+  "designModeOn": "true",
   "rewardValue": 10,
   "timer": 120,
   "rotateAgents": "false",
