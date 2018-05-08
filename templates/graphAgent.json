@@ -25,16 +25,12 @@
             "type": "number"
         },
         {
-            "name": "localRotation",
+            "name": "sizeMultiplier",
             "type": "number"
         },
         {
             "name": "assignedDestination",
             "type": "string"
-        },
-        {
-            "name": "collisionRadius",
-            "type": "number"
         }
     ]
     

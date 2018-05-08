@@ -27,8 +27,8 @@
       "type": "string"
     },
     {
-      "name": "rewardValue",
-      "type": "number"
+      "name": "firstAgentToSpawn",
+      "type": "string"
     },
     {
       "name": "collisionOnNode",

@@ -25,36 +25,12 @@
             "type": "string"
         },
         {
-            "name": "isStart",
-            "type": "string"
-        },
-        {
-            "name": "isExit",
-            "type": "string"
-        },
-        {
-            "name": "expectedVisitors",
-            "type": "number"
-        },
-        {
             "name": "nodePauseTime",
             "type": "number"
         },
         {
-            "name": "collisionEventNode",
-            "type": "string"
-        },
-        {
-            "name": "edgeThreshold",
+            "name": "sizeMultiplier",
             "type": "number"
-        },
-        {
-            "name": "edgeDirection",
-            "type": "string"
-        },
-        {
-            "name": "collisionEventEdge",
-            "type": "string"
         }
     ]
     
