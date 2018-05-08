@@ -1,6 +1,7 @@
 {
   "xPosition": 20,
   "nodePauseTime": 0,
+  "sizeMultiplier": 1.2,
   "yPosition": 55,
   "edgeDirection": "none",
   "connectedTo": "[11]",
