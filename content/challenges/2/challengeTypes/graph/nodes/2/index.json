@@ -1,5 +1,5 @@
 {
-  "xPosition": 124,
+  "xPosition": 130,
   "nodePauseTime": 0,
   "yPosition": 15,
   "edgeDirection": "none",
@@ -12,6 +12,6 @@
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 5,
-  "skin": "haus1780",
+  "skin": "housesmith",
   "nodeID": 2
 }

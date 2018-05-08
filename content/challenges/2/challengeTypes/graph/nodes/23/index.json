@@ -3,7 +3,7 @@
   "nodePauseTime": 0,
   "yPosition": 90,
   "edgeDirection": "none",
-  "connectedTo": "[17,18,24]",
+  "connectedTo": "[18,18,24]",
   "collisionEventEdge": "false",
   "isExit": "false",
   "collisionEventNode": "false",

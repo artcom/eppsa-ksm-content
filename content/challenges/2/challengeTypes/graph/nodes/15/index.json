@@ -1,9 +1,9 @@
 {
-  "xPosition": 180,
+  "xPosition": 170,
   "nodePauseTime": 0,
   "yPosition": 70,
   "edgeDirection": "none",
-  "connectedTo": "[14]",
+  "connectedTo": "[17]",
   "collisionEventEdge": "true",
   "isExit": "false",
   "collisionEventNode": "false",
@@ -12,6 +12,6 @@
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 5,
-  "skin": "haus1800",
+  "skin": "houseshoemaker",
   "nodeID": 15
 }
