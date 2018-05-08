@@ -1,5 +1,5 @@
 {
-  "spawnInterval": 10,
+  "spawnInterval": 3,
   "designModeOn": "false",
   "rewardValue": 10,
   "timer": 120,
@@ -10,7 +10,7 @@
   "agentOriginY": 0.78,
   "edgeThreshold": 40,
   "lineColor": "0xfaf3e1",
-  "maxAgents": "6",
+  "maxAgents": "5",
   "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise ihnen den Weg in ihre Epochen!",
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
