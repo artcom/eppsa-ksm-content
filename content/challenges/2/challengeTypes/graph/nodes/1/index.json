@@ -2,7 +2,7 @@
   "xPosition": 72,
   "nodePauseTime": 0,
   "sizeMultiplier": 0.6,
-  "yPosition": 15,
+  "yPosition": 16,
   "edgeDirection": "none",
   "connectedTo": "[7]",
   "collisionEventEdge": "false",
