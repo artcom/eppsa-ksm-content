@@ -2,7 +2,7 @@
   "assignedDestination": "[15]",
   "pauseTime": 1.6,
   "collisionRadius": 0.5,
-  "speed": 4,
+  "speed": 3,
   "localRotation": 90,
   "name": "schachrot3",
   "isHostile": "false",
