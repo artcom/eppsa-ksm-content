@@ -1,14 +1,23 @@
 {
-  "name": "Flugzeug",
-  "description": "Fliegt",
-  "large": {
-    "src": "16/airplane_la-166b3a75893e3557baf5a0090a1bfacfb6fcf48b.png"
-  },
-  "template": "avatar",
   "small": {
     "src": "e5/airplane_sm-e5df977fee4d5a3adc1020b7c6d9a84e2ed3224e.png"
   },
+  "mediumCentered": {
+    "src": "0f/airplane_me-0f835cd0b8bce94d7caa16e7ccb06eafb9fcb111.png"
+  },
+  "name": "Flugzeug",
+  "largeCentered": {
+    "src": "c9/airplane_la-c9c719d2cfef37e8e9a5610344628077bb2bd3ff.png"
+  },
   "medium": {
     "src": "c8/airplane_me-c87ea3e1166f3ebe46b378e55bc8783273c28e18.png"
-  }
+  },
+  "template": "avatar",
+  "smallCentered": {
+    "src": "fb/airplane_sm-fb87262398eb90e62197f5670b0eb6d99772cc18.png"
+  },
+  "large": {
+    "src": "16/airplane_la-166b3a75893e3557baf5a0090a1bfacfb6fcf48b.png"
+  },
+  "description": "Fliegt"
 }

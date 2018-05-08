@@ -1,14 +1,23 @@
 {
-  "name": "Zug",
-  "description": "Choo choo",
-  "large": {
-    "src": "68/train_la-6885320a2a7d2e1c3a032fbe0aec9a4b3edbd9f6.png"
-  },
-  "template": "avatar",
   "small": {
     "src": "27/train_sm-27a2d400e9ad92ab698a3e1791cf1af11ee025e7.png"
   },
+  "mediumCentered": {
+    "src": "9f/train_me-9fea0770dfb194c2506ae0adbc8eec7b1a9a0517.png"
+  },
+  "name": "Zug",
+  "largeCentered": {
+    "src": "5c/train_la-5c934e9aea4a53f91fdabadf7cce283b8d3ff89a.png"
+  },
   "medium": {
     "src": "25/train_me-2557c4f3bc1c2fb07ed9a08e8a5cd5d3a6118816.png"
-  }
+  },
+  "template": "avatar",
+  "smallCentered": {
+    "src": "a4/train_sm-a4e6d64ba0e8d222502b60c741660ee0e73be2d5.png"
+  },
+  "large": {
+    "src": "68/train_la-6885320a2a7d2e1c3a032fbe0aec9a4b3edbd9f6.png"
+  },
+  "description": "Choo choo"
 }
