@@ -1,5 +1,5 @@
 {
-  "xPosition": 70,
+  "xPosition": 72,
   "nodePauseTime": 0,
   "yPosition": 18,
   "edgeDirection": "none",
@@ -12,6 +12,6 @@
   "isStart": "false",
   "template": "graphNode",
   "expectedVisitors": 5,
-  "skin": "housetailor",
+  "skin": "haus1500",
   "nodeID": 1
 }

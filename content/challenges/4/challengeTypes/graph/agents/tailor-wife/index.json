@@ -1,12 +1,12 @@
 {
   "assignedDestination": "[]",
   "pauseTime": 2,
-  "collisionRadius": null,
-  "speed": 2,
-  "localRotation": null,
+  "collisionRadius": 0.5,
+  "speed": 3,
+  "localRotation": 90,
   "name": "tailorwife",
   "isHostile": "true",
   "template": "graphAgent",
-  "spawnProbability": 1,
+  "spawnProbability": 2,
   "classCap": 1
 }

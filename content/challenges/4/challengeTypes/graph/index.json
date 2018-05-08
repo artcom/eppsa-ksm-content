@@ -11,7 +11,7 @@
   "edgeThreshold": 40,
   "lineColor": "0xccd6df",
   "maxAgents": 5,
-  "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise ihnen den Weg in ihre Epochen!",
+  "manualText": "Die fleißigen Heinzelmännchen verrichten die Arbeit der faulen Bürger. Weise ihnen, entsprechend ihrer Tätigkeit, den Weg zu ihrer Arbeitsstädte. Aber lass dich nicht von der Schneidersfrau erwischen!",
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
   "backgroundColor": "#14526b",
