@@ -1,6 +1,6 @@
 {
-  "spawnInterval": 10,
-  "designModeOn": "false",
+  "spawnInterval": 4,
+  "designModeOn": "true",
   "rewardValue": 10,
   "timer": 120,
   "rotateAgents": "false",
@@ -8,7 +8,7 @@
   "name": "Stadtspiel",
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
-  "edgeThreshold": 20,
+  "edgeThreshold": 40,
   "lineColor": "0xfaf3e1",
   "maxAgents": 5,
   "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise ihnen den Weg in ihre Epochen!",
@@ -18,5 +18,5 @@
   "template": "graph",
   "gameTypeFactor": 3,
   "showScrollButton": "true",
-  "pathColor": "0xCCD6DF"
+  "pathColor": "0x006787"
 }
