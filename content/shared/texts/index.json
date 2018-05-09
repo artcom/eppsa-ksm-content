@@ -33,6 +33,7 @@
   "challengeModeSelectionTitle": "Wie möchtest du spielen?",
   "next": "Weiter",
   "requestedMatePendingTitle": "Warte auf ${mate}...",
+  "dashboardRecentFinishedGamesLabel": "Letzte Spiele",
   "selectAvatar": "Scanne eine Spielfigur um zu beginnen!",
   "challengeSelectionText": "Das nächste Spiel wird zufällig ausgewürfelt.",
   "requestedMateDeclinedTitle": "${mate} hat abgelehnt",
@@ -41,5 +42,6 @@
   "template": "sharedTexts",
   "selectAvatarInstructions": "Über QR-Codes wählst Du eine gewünschte Spielfigur.",
   "mateRequestPendingDeclineButton": "Ablehnen",
-  "requestedMateUnavailableTitle": "${mate} ist nicht mehr verfügbar"
+  "requestedMateUnavailableTitle": "${mate} ist nicht mehr verfügbar",
+  "dashboardAllTimeHighscoreLabel": "Bestenliste"
 }
