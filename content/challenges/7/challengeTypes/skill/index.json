@@ -1,7 +1,7 @@
 {
   "maxTilt": 20,
   "rewardValue": 5,
-  "npcHorizontalExit": 0.5,
+  "npcHorizontalExit": 0.2,
   "vehicleWinAngle": 5,
   "timer": 120,
   "vehicleAngle": 45,
@@ -10,7 +10,7 @@
   "minTilt": -20,
   "countdown": 3,
   "manualText": "Bringe den Zeppelin auf gleichen Kurs mit dem Wind und halte seine Position.",
-  "npcTiltStay": 0.7,
+  "npcTiltStay": 0.8,
   "streamWinAngle": 5,
   "template": "skill",
   "multiplayer": true,
@@ -18,6 +18,6 @@
   "npcTiltExit": 0.3,
   "streamRange": 60,
   "destabiliser": 0.05,
-  "npcHorizontalStay": 0.5,
+  "npcHorizontalStay": 0.8,
   "sensitivity": 2
 }
