@@ -11,7 +11,7 @@
   "agentOriginY": 0.5,
   "edgeThreshold": 80,
   "maxAgents": "2",
-  "manualText": "Verkehr will geregelt sein. Jetzt bist du der Schupo und musst allen Autos den Weg zum Ausgang weisen. Achte die Verkehrsregeln und pass auf die Einbahnstraßen auf!",
+  "manualText": "Verkehr will geregelt sein. Weise den Autos den Weg zum Ausgang. Pass dabei auf die Einbahnstraßen auf! Je mehr Abbiegungen du zurücklegst, desto besser!",
   "collisionOnNode": "false",
   "drawLinesAndNodes": "true",
   "backgroundColor": "",
