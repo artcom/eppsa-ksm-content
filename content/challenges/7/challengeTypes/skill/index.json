@@ -10,7 +10,7 @@
   "minTilt": -20,
   "countdown": 3,
   "manualText": "Bringe den Zeppelin auf gleichen Kurs mit dem Wind und halte seine Position.",
-  "npcTiltStay": 0.8,
+  "npcTiltStay": 0.7,
   "streamWinAngle": 5,
   "template": "skill",
   "multiplayer": true,
