@@ -3,7 +3,7 @@
   "rewardValue": 5,
   "npcHorizontalExit": 0.5,
   "vehicleWinAngle": 5,
-  "timer": 60,
+  "timer": 120,
   "vehicleAngle": 45,
   "name": "Skill",
   "streamForce": null,
