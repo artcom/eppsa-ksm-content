@@ -9,7 +9,7 @@
   "name": "Stadtspiel",
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
-  "edgeThreshold": 40,
+  "edgeThreshold": 50,
   "lineColor": "0xccd6df",
   "maxAgents": 5,
   "manualText": "Die fleißigen Heinzelmännchen verrichten die Arbeit der faulen Bürger. Ziehe sie zu ihrer richtigen Arbeitsstädte. Aber lass dich nicht von der Schneidersfrau erwischen!",
