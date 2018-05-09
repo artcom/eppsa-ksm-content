@@ -51,6 +51,14 @@
     {
       "name": "challengeSelectionRandom",
       "type": "image"
+    },
+    {
+      "name": "dashboardMap",
+      "type": "image"
+    },
+    {
+      "name": "dashboardWingSign",
+      "type": "image"
     }
   ]
 }

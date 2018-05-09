@@ -8,11 +8,14 @@
   "graphIcon": {
     "src": "a5/Icon_Graph-a52fad21d640ee939bb382b1a6ab239405ba02d2.svg"
   },
+  "dashboardMap": {
+    "src": "ba/MapBackground_Dashboard_Bretterretter-ba92b19eab917e3b775130f730f04a3686215810.png"
+  },
   "skillIcon": {
     "src": "55/Icon_Skill_Multiplayer-5586afaca03f08a65e2ac6624bbe2fee1b86ab68.svg"
   },
   "logo": {
-    "src": "82/Bretterretter_Logo_RGB-82040fb5c759481f5242e5b91c3c7c8911ef39b8.png"
+    "src": "12/Bretterretter_Logo_RGB-12b62d8916318414050fa6688538ff63d5609868.png"
   },
   "challengeSelectionRandom": {
     "src": "8d/challengeSelection-8d19b89b5e793d2b58a16c48698c0fba9d62fcb1.gif"
@@ -33,6 +36,9 @@
     "src": "0e/Icon_Error-0e1a669507dc4c0a5ec578ffb33c2ad14bf015b9.svg"
   },
   "template": "sharedAssets",
+  "dashboardWingSign": {
+    "src": "de/WingsSignComplete_Dashboard_Bretterretter-de7aff7c26b695fce3e60fefac1f977ec2c16836.svg"
+  },
   "sortingIcon": {
     "src": "d4/Icon_Sorting-d4656b97f98d5335a27cb2cd8ef2276c7a266a83.svg"
   },
