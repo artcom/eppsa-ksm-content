@@ -13,7 +13,7 @@
   "maxAgents": "2",
   "manualText": "Verkehr will geregelt sein. Jetzt bist du der Schupo und musst allen Autos den Weg zum Ausgang weisen. Achte die Verkehrsregeln und pass auf die Einbahnstraßen auf!",
   "collisionOnNode": "false",
-  "drawLinesAndNodes": "true",
+  "drawLinesAndNodes": "false",
   "backgroundColor": "",
   "template": "graph",
   "gameTypeFactor": 4,
