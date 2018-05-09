@@ -159,6 +159,14 @@
     {
       "name": "navigationToStartButtonText",
       "type": "string"
+    },
+    {
+      "name": "dashboardAllTimeHighscoreLabel",
+      "type": "string"
+    },
+    {
+      "name": "dashboardRecentFinishedGamesLabel",
+      "type": "string"
     }
   ]
 }
