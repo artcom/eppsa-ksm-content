@@ -8,7 +8,7 @@
   "name": "Verkehrsspiel",
   "backgroundImage": "background",
   "agentOriginX": 0.3,
-  "agentOriginY": 0,
+  "agentOriginY": 0.5,
   "edgeThreshold": 80,
   "maxAgents": "2",
   "manualText": "Verkehr will geregelt sein. Jetzt bist du der Schupo und musst allen Autos den Weg zum Ausgang weisen. Achte die Verkehrsregeln und pass auf die Einbahnstraßen auf!",
