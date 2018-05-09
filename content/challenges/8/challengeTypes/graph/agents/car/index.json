@@ -1,6 +1,6 @@
 {
   "assignedDestination": "[4,9,14,11]",
-  "sizeMultiplier": 0.2,
+  "sizeMultiplier": 0.15,
   "pauseTime": 0,
   "collisionRadius": 20,
   "classes": 3,
