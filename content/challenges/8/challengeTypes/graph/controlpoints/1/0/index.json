@@ -4,5 +4,5 @@
   "template": "graphControlPointLastNode",
   "skin": "schupo",
   "rotationWaiting": 0,
-  "waitTime": 3
+  "waitTime": 6
 }
