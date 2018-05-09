@@ -17,5 +17,6 @@
   "backgroundColor": "",
   "template": "graph",
   "gameTypeFactor": 4,
-  "showScrollButton": "false"
+  "showScrollButton": "false",
+  "pathColor": "0xfaec20"
 }
