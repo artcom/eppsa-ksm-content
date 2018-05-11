@@ -9,7 +9,7 @@
   "name": "Stadtspiel",
   "agentOriginX": 0.5,
   "agentOriginY": 0.78,
-  "edgeThreshold": 40,
+  "edgeThreshold": 50,
   "lineColor": "0xfaf3e1",
   "maxAgents": "6",
   "manualText": "Jedes Jahrhundert war von anderen Spielfiguren geprägt. Weise ihnen den Weg in ihre Epochen!",
