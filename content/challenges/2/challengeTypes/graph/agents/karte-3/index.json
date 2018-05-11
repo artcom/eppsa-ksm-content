@@ -3,7 +3,7 @@
   "pauseTime": 1.6,
   "collisionRadius": 0.5,
   "classes": 5,
-  "speed": 3,
+  "speed": 2.5,
   "localRotation": 90,
   "name": "karte3",
   "isHostile": "false",
