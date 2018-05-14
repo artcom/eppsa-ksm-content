@@ -1,5 +1,7 @@
 {
-  "name": "",
-  "image": null,
+  "name": "pointsBar",
+  "image": {
+    "src": "cc/Points_Bar-cce97d8d513f73337cf4b43ea5d1fa00656e8df0.png"
+  },
   "template": "asset"
 }
