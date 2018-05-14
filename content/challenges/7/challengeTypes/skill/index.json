@@ -15,10 +15,10 @@
   "streamWinAngle": 3,
   "template": "skill",
   "multiplayer": true,
-  "inertia": 0.5,
+  "inertia": 0.3,
   "npcTiltExit": 0.3,
   "streamRange": 45,
   "destabiliser": 0.3,
   "npcHorizontalStay": 0.8,
-  "sensitivity": 10
+  "sensitivity": 8
 }
