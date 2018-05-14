@@ -1,7 +1,7 @@
 {
   "maxTilt": 20,
   "rewardValue": 2,
-  "npcHorizontalExit": 0.2,
+  "npcHorizontalExit": 0.3,
   "vehicleWinAngle": 4,
   "timer": 120,
   "vehicleAngle": 60,
@@ -19,6 +19,6 @@
   "npcTiltExit": 0.3,
   "streamRange": 45,
   "destabiliser": 0.3,
-  "npcHorizontalStay": 0.8,
+  "npcHorizontalStay": 0.7,
   "sensitivity": 8
 }
