@@ -1,4 +1,7 @@
 {
+  "dashboardRecentGamesBackground": {
+    "src": "ba/MapBackground_Dashboard_Bretterretter-ba92b19eab917e3b775130f730f04a3686215810.png"
+  },
   "avatarsLarge": {
     "src": "c2/avatars_la-c2cfa62e346f6469f74cf3b5af17e823d02095aa.png"
   },
@@ -8,8 +11,8 @@
   "graphIcon": {
     "src": "a5/Icon_Graph-a52fad21d640ee939bb382b1a6ab239405ba02d2.svg"
   },
-  "dashboardRecentGamesBackground": {
-    "src": "ba/MapBackground_Dashboard_Bretterretter-ba92b19eab917e3b775130f730f04a3686215810.png"
+  "dashboardHighscoreBackground": {
+    "src": "02/Highscore_Background_2-029d29286c5e9cf0c14ddf886ffb96ba21e79373.png"
   },
   "skillIcon": {
     "src": "55/Icon_Skill_Multiplayer-5586afaca03f08a65e2ac6624bbe2fee1b86ab68.svg"
