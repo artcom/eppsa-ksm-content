@@ -1,0 +1,7 @@
+{
+  "name": "cloud1",
+  "image": {
+    "src": "de/EPPSA_Airship_Cloud1-de68cd9777aa4060f428f09516b25ba31f30ee32.png"
+  },
+  "template": "asset"
+}

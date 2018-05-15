@@ -1,0 +1,8 @@
+{
+  "skin": "schupo",
+  "rotationWaiting": 90,
+  "waitTime": 8,
+  "crashIf": "[6]",
+  "pointsIf": "[10,8]",
+  "template": "graphControlPointLastNode"
+}
