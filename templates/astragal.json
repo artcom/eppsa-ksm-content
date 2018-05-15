@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "default": "Astragal"
+    },
+    {
+      "name": "manualText",
+      "type": "string",
+      "default": "Würfle den Astragal."
+    },
+    {
+      "name": "useScan",
+      "type": "string"
+    },
+    {
+      "name": "numberOfTries",
+      "type": "number"
+    }
+  ],
+  "children": [
+    "score"
+  ]
+}
