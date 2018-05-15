@@ -1,0 +1,11 @@
+{
+  "question": "Welche Seite eines Astragals hat die höchste Punktzahl?",
+  "correctAnswer": 1,
+  "name": "Quiz",
+  "answer1": "Kyon",
+  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Hyption",
+  "answer3": "Pranes",
+  "answer4": "Chion",
+  "template": "quiz"
+}
