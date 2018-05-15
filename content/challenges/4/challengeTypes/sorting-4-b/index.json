@@ -1,5 +1,5 @@
 {
-  "manualText": "Rechts an der Wand findest du Spielkarten mit deutschem Blatt. Ordne sie nach ihrer Wertigkeit.",
+  "manualText": "Links an der Wand findest du Spielkarten mit deutschem Blatt. Ordne sie nach ihrer Wertigkeit.",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Höchster Wert",
