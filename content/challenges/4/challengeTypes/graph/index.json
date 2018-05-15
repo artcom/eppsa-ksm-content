@@ -12,7 +12,7 @@
   "edgeThreshold": 50,
   "lineColor": "0xccd6df",
   "maxAgents": 5,
-  "manualText": "Die fleißigen Heinzelmännchen verrichten die Arbeit der faulen Bürger. Ziehe sie zu ihrer richtigen Arbeitsstädte. Aber lass dich nicht von der Schneidersfrau erwischen!",
+  "manualText": "Die fleißigen Heinzelmännchen verrichten die Arbeit der faulen Bürger. Ziehe sie zu ihrer richtigen Arbeitsstätte. Aber lass dich nicht von der Schneidersfrau erwischen!",
   "collisionOnNode": "true",
   "drawLinesAndNodes": "true",
   "backgroundColor": "#14526b",
