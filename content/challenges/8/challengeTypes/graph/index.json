@@ -13,7 +13,7 @@
   "maxAgents": "4",
   "manualText": "Verkehr will geregelt sein. Weise den Autos den Weg zum Ausgang. Pass dabei auf die Einbahnstraßen auf! Je mehr Abbiegungen du zurücklegst, desto besser!",
   "collisionOnNode": "false",
-  "drawLinesAndNodes": "true",
+  "drawLinesAndNodes": "false",
   "backgroundColor": "",
   "template": "graph",
   "gameTypeFactor": 4,
