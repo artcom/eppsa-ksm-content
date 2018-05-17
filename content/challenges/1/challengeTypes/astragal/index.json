@@ -1,6 +1,6 @@
 {
   "name": "Astragal",
-  "manualText": "Würfle den Astragal.",
+  "manualText": "Wirf den Astragal.",
   "useScan": "false",
   "numberOfTries": 3,
   "template": "astragal"
