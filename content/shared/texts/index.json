@@ -24,7 +24,7 @@
   "finishTopText": "Du hast alle Stationen von  \nBRETTERRETTER  \ngemeistert und bist am Ziel angekommen.",
   "areaConfirmationText": "Erkunde alle Ausstellungsstücke in diesem Bereich!",
   "scanQrErrorInstructions": "Falscher QR-Code. Scanne den QR-Code in diesem Bereich.",
-  "navigationToNextArea": "Gehe zum nächsten Bereich und suche den QR-Code auf dem farbig markierten zentralen Ausstellungsstück.",
+  "navigationToNextArea": "Gehe zum nächsten Bereich und suche den QR-Code auf dem farbig markierten, zentralen Ausstellungsstück.",
   "challengeSelectionTitle": "Bitte warten...",
   "requestedMatePendingCancelButton": "Abbrechen",
   "resumeGameButton": "Spiel fortführen",
