@@ -37,6 +37,10 @@
       "type": "image"
     },
     {
+      "name": "astragalIcon",
+      "type": "image"
+    },
+    {
       "name": "sortingIcon",
       "type": "image"
     },
