@@ -11,7 +11,7 @@
   "reward": 50,
   "finishLineX": 70,
   "finishLineY": 36,
-  "manualText": "Schnell! Tippe um dein Schiff zur nächsten Brücke zu bringen!",
+  "manualText": "Schnell! Tippe, um dein Schiff zur nächsten Brücke zu bringen!",
   "showWater": "true",
   "template": "clicker",
   "finishLineWidth": 0.5
