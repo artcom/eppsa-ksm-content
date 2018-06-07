@@ -49,6 +49,10 @@
       "type": "string"
     },
     {
+      "name": "challengeCodePlaceholder",
+      "type": "string"
+    },
+    {
       "name": "confirm",
       "type": "string"
     },
