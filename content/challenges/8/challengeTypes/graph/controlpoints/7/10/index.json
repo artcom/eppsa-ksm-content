@@ -1,8 +1,0 @@
-{
-  "skin": "",
-  "rotationWaiting": null,
-  "waitTime": null,
-  "crashIf": "[6]",
-  "pointsIf": "[8,10]",
-  "template": "graphControlPointLastNode"
-}
