@@ -1,9 +1,0 @@
-{
-  "image": {
-    "src": "db/Sorting_Youth_12-db41483d711d6194f0e19f23fe159c39a6831fa2.jpg"
-  },
-  "text": "",
-  "initialPosition": 1,
-  "correctPosition": 2,
-  "template": "sortingItem"
-}
