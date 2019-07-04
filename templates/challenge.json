@@ -22,6 +22,9 @@
     }
   ],
   "children": [
-    "challengeTypes"
+    "clicker",
+    "hidden",
+    "quiz",
+    "sorting"
   ]
 }
