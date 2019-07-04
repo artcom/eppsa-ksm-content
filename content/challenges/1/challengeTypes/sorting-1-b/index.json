@@ -1,7 +1,0 @@
-{
-  "manualText": "Lies den Beschreibungstext der Astragale (Würfel) durch. Ordne jede Würfelseite nach ihrer Wertigkeit.",
-  "template": "sorting",
-  "name": "Sortieren",
-  "topLabel": "Höchster Wert",
-  "bottomLabel": "Niedrigster Wert"
-}
