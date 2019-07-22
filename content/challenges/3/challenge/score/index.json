@@ -1,0 +1,8 @@
+{
+  "reward": 5,
+  "sessionLength": 45,
+  "tier1TimeBonus": null,
+  "tier2TimeBonus": null,
+  "tier3TimeBonus": null,
+  "template": "score"
+}

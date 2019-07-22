@@ -1,11 +1,11 @@
 {
-  "navigationText": "Got to third station",
-  "color": "#9b1b2b",
-  "token": "3",
+  "navigationText": "Got to fourth station",
+  "color": "#f39200",
+  "token": "4",
   "template": "challenge",
-  "name": "Revolution im Spiel",
+  "name": "Spielend fürs Leben lernen",
   "icon": {
-    "src": "8d/Icon_03-8d5a8f2a5e82e7a4dd257d6aa6b11cf736257e76.svg"
+    "src": "6e/Icon_04-6e536c98c61c24e964fe190e060d4d0d6b3579e5.svg"
   },
-  "code": "3"
+  "code": "4"
 }

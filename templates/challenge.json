@@ -11,14 +11,6 @@
     {
       "name": "icon",
       "type": "image"
-    },
-    {
-      "name": "token",
-      "type": "string"
-    },
-    {
-      "name": "code",
-      "type": "string"
     }
   ],
   "children": [
