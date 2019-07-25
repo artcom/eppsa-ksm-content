@@ -1,0 +1,10 @@
+{
+  "image": {
+    "src": "f1/Sorting_Luxery_01-f1ffa3728e648514dd0f6c24fcbaacd476ac169a.jpg"
+  },
+  "text": "Nelken-König",
+  "initialPosition": 4,
+  "correctPosition": 1,
+  "template": "sortingItem",
+  "color": "#ffffff"
+}

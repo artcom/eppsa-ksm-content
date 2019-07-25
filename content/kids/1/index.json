@@ -1,0 +1,11 @@
+{
+  "navigationText": "Go to first station",
+  "color": "#d4310f",
+  "token": "1",
+  "template": "challenge",
+  "name": "Aus der Erde ans Licht gebrach",
+  "icon": {
+    "src": "cb/Icon_01-cbe1dc9e85db6b73a028126c7cf78fc8442f75e5.svg"
+  },
+  "code": "1"
+}
