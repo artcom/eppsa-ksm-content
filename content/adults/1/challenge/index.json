@@ -7,5 +7,8 @@
   "answer2": "wasd",
   "answer3": "wasd",
   "answer4": "wasd",
+  "icon": {
+    "src": "IMG_20171215_161639-85105ccaa2f819d2efa325624af7090f8114454a2aa64e961c12eabdf7236108.jpg"
+  },
   "template": "quiz"
 }
