@@ -6,6 +6,10 @@
       "default": "Quiz"
     },
     {
+      "name": "icon",
+      "type": "image"
+    },
+    {
       "name": "manualText",
       "type": "string",
       "default": "Beantworten Sie die folgenden Fragen so schnell wie möglich."
