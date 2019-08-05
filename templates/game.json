@@ -3,14 +3,6 @@
     {
       "name": "name",
       "type": "string"
-    },
-    {
-      "name": "gameManualTitle",
-      "type": "string"
-    },
-    {
-      "name": "gameManualText",
-      "type": "markdown"
     }
   ],
   "children": [
