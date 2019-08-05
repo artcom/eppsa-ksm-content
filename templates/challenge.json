@@ -11,6 +11,10 @@
     {
       "name": "icon",
       "type": "image"
+    },
+    {
+      "name": "areaConfirmationText",
+      "type": "string"
     }
   ],
   "children": [
