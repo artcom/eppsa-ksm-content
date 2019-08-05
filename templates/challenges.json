@@ -1,4 +1,14 @@
 {
+  "fields": [
+  {
+    "name": "gameManualTitle",
+    "type": "string"
+  },
+  {
+    "name": "gameManualText",
+    "type": "markdown"
+  }
+],
   "children": [
     "challenge"
   ]
