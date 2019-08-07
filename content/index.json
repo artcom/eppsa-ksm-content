@@ -1,4 +1,7 @@
 {
   "name": "Bretterretter",
-  "template": "game"
+  "template": "game",
+  "logo": {
+    "src": "IMG_20171215_232514-33c5d64485834b4c48580a21cd56a605b56d640dff167661bddc0dbba904820f.jpg"
+  }
 }
