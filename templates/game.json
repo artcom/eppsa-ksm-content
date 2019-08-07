@@ -3,6 +3,10 @@
     {
       "name": "name",
       "type": "string"
+    },
+    {
+      "name": "logo",
+      "type": "image"
     }
   ],
   "children": [
