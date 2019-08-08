@@ -6,7 +6,8 @@
     },
     {
       "name": "color",
-      "type": "string"
+      "type": "string",
+      "default": "#d4310f"
     },
     {
       "name": "icon",
