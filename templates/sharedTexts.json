@@ -171,6 +171,14 @@
     {
       "name": "dashboardRecentFinishedGamesLabel",
       "type": "string"
+    },
+    {
+      "name": "playerTypeSelectionTitle",
+      "type": "string"
+    },
+    {
+      "name": "playerTypeSelectionDescription",
+      "type": "string"
     }
   ]
 }
