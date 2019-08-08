@@ -1,14 +1,11 @@
 {
-  "question": "wasd",
+  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
   "correctAnswer": 1,
   "name": "Quiz",
-  "answer1": "wasd",
-  "manualText": "Beantworten Sie die folgenden Fragen so schnell wie möglich.",
-  "answer2": "wasd",
-  "answer3": "wasd",
-  "answer4": "wasd",
-  "icon": {
-    "src": "IMG_20171215_161639-85105ccaa2f819d2efa325624af7090f8114454a2aa64e961c12eabdf7236108.jpg"
-  },
+  "answer1": "Sprungbein",
+  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Fersenbein",
+  "answer3": "Hufbein",
+  "answer4": "Erbsenbein",
   "template": "quiz"
 }
