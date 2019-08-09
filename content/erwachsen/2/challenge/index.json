@@ -1,7 +1,7 @@
 {
-  "manualText": "Der Wert der runden Spielkarten rechts an der Wand ist abhängig von der abgebildeten Figur. Ordne sie nach Wertigkeit",
+  "manualText": "Sortiere die Bilder in der richtigen Reihenfolge!",
   "template": "sorting",
   "name": "Sortieren",
-  "topLabel": "Höchster Wert",
-  "bottomLabel": "Niedrigster Wert"
+  "topLabel": "Oben",
+  "bottomLabel": "Unten"
 }
