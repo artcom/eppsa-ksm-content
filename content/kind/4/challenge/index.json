@@ -1,6 +1,6 @@
 {
   "EndPointX": "55",
-  "showFinishLine": "false",
+  "showFinishLine": "true",
   "timer": 20,
   "MovementX": 1,
   "StartPointX": "5",
@@ -9,6 +9,6 @@
   "ScaleOfBackground": 1,
   "reward": 50,
   "manualText": "Schnell! Tippe um deine Straßenbahn zur nächsten Station zu bringen!",
-  "showWater": "false",
+  "showWater": "true",
   "template": "clicker"
 }
