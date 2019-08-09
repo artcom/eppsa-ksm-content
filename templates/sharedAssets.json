@@ -1,22 +1,6 @@
 {
   "fields": [
     {
-      "name": "logo",
-      "type": "image"
-    },
-    {
-      "name": "avatarsSmall",
-      "type": "image"
-    },
-    {
-      "name": "avatarsMedium",
-      "type": "image"
-    },
-    {
-      "name": "avatarsLarge",
-      "type": "image"
-    },
-    {
       "name": "graphIcon",
       "type": "image"
     },
@@ -42,30 +26,6 @@
     },
     {
       "name": "sortingIcon",
-      "type": "image"
-    },
-    {
-      "name": "lobbyIconWaiting",
-      "type": "image"
-    },
-    {
-      "name": "lobbyIconError",
-      "type": "image"
-    },
-    {
-      "name": "challengeSelectionRandom",
-      "type": "image"
-    },
-    {
-      "name": "dashboardRecentGamesBackground",
-      "type": "image"
-    },
-    {
-      "name": "dashboardHighscoreBackground",
-      "type": "image"
-    },
-    {
-      "name": "dashboardWingSign",
       "type": "image"
     }
   ]
