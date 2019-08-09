@@ -1,11 +1,14 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
+  "question": "Welche Farbe hatte der Boden.",
   "correctAnswer": 1,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Hellbraun",
+  "manualText": "Schau dir den Tisch genau an!",
+  "answer2": "Rot",
+  "answer3": "Weiß",
+  "answer4": "Schwarz",
+  "icon": {
+    "src": "IMG_20190809_113849-c82608a3164d24311b2fc631218fe83a96df22fc94514ff92521f8ab4ba2bea7.jpg"
+  },
   "template": "quiz"
 }
