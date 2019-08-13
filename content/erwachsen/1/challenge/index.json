@@ -1,12 +1,12 @@
 {
-  "question": "Welche Farbe hatte der Boden.",
-  "correctAnswer": 1,
+  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
+  "correctAnswer": 2,
   "name": "Quiz",
-  "answer1": "Hellbraun",
-  "manualText": "Schau dir den Tisch genau an!",
-  "answer2": "Rot",
-  "answer3": "Weiß",
-  "answer4": "Schwarz",
+  "answer1": "Spiegelreflexkamera",
+  "manualText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz. Schauen Sie sich diesen Bereich genauer an.",
+  "answer2": "Plattenkamera",
+  "answer3": "Polaroid 635 Supercolor",
+  "answer4": "Smartphone-Kamera",
   "icon": {
     "src": "IMG_20190809_113849-c82608a3164d24311b2fc631218fe83a96df22fc94514ff92521f8ab4ba2bea7.jpg"
   },
