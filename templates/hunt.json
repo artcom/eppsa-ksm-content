@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "default": "Jagd"
+    },
+    {
+      "name": "manualText",
+      "type": "string",
+      "default": "Auf die Jagd."
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    }
+  ],
+  "children": [
+    "huntPlayers",
+    "huntQuests",
+    "huntItems",
+    "score"
+  ]
+}

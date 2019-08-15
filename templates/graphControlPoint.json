@@ -1,0 +1,12 @@
+{
+    "fields": [
+        {
+            "name": "skin",
+            "type": "string"
+        }
+    ],
+    "children": [
+      "graphControlPointLastNode"
+    ]
+    
+}

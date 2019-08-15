@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "name": "graphIcon",
+      "type": "image"
+    },
+    {
+      "name": "hiddenIcon",
+      "type": "image"
+    },
+    {
+      "name": "clickerIcon",
+      "type": "image"
+    },
+    {
+      "name": "quizIcon",
+      "type": "image"
+    },
+    {
+      "name": "skillIcon",
+      "type": "image"
+    },
+    {
+      "name": "astragalIcon",
+      "type": "image"
+    },
+    {
+      "name": "sortingIcon",
+      "type": "image"
+    }
+  ]
+}

@@ -1,7 +1,14 @@
 {
-  "manualText": "Sortiere die Bilder in der richtigen Reihenfolge!",
-  "template": "sorting",
-  "name": "Sortieren",
-  "topLabel": "Oben",
-  "bottomLabel": "Unten"
+  "EndPointX": "55",
+  "showFinishLine": "false",
+  "timer": 20,
+  "MovementX": 1,
+  "StartPointX": "5",
+  "name": "Tramway",
+  "StartPointY": "50",
+  "ScaleOfBackground": 1,
+  "reward": 50,
+  "manualText": "Schnell! Tippe um deine Straßenbahn zur nächsten Station zu bringen!",
+  "showWater": "false",
+  "template": "clicker"
 }

@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "small",
+      "type": "image"
+    },
+    {
+      "name": "medium",
+      "type": "image"
+    },
+    {
+      "name": "large",
+      "type": "image"
+    },
+    {
+      "name": "smallCentered",
+      "type": "image"
+    },
+    {
+      "name": "mediumCentered",
+      "type": "image"
+    },
+    {
+      "name": "largeCentered",
+      "type": "image"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "fields": [
+        {
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "name": "classCap",
+            "type": "number"
+        },
+        {
+            "name": "spawnProbability",
+            "type": "number"
+        },
+        {
+            "name": "isHostile",
+            "type": "string"
+        },
+        {
+            "name": "pauseTime",
+            "type": "number"
+        },
+        {
+            "name": "speed",
+            "type": "number"
+        },
+        {
+            "name": "sizeMultiplier",
+            "type": "number"
+        },
+        {
+            "name": "assignedDestination",
+            "type": "string"
+        }
+    ]
+    
+}

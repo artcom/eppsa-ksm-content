@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "default": "Skill"
+    },
+    {
+      "name": "manualText",
+      "type": "string",
+      "default": "Teste deinen Skill."
+    },
+    {
+      "name": "multiplayer",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "name": "timer",
+      "type": "number"
+    },
+    {
+      "name": "rewardValue",
+      "type": "number"
+    },
+    {
+      "name": "countdown",
+      "type": "number"
+    },
+    {
+      "name": "minTilt",
+      "type": "number"
+    },
+    {
+      "name": "maxTilt",
+      "type": "number"
+    },
+    {
+      "name": "sensitivity",
+      "type": "number"
+    },
+    {
+      "name": "vehicleAngle",
+      "type": "number"
+    },
+    {
+      "name": "inertia",
+      "type": "number"
+    },
+    {
+      "name": "vehicleWinAngle",
+      "type": "number"
+    },
+    {
+      "name": "streamRange",
+      "type": "number"
+    },
+    {
+      "name": "streamForce",
+      "type": "number"
+    },
+    {
+      "name": "streamWinAngle",
+      "type": "number"
+    },
+    {
+      "name": "destabiliser",
+      "type": "number"
+    },
+    {
+      "name": "updateNPCTimeInMS",
+      "type": "number"
+    },
+    {
+      "name": "npcHorizontalStay",
+      "type": "number"
+    },
+    {
+      "name": "npcHorizontalExit",
+      "type": "number"
+    },
+    {
+      "name": "npcTiltStay",
+      "type": "number"
+    },
+    {
+      "name": "npcTiltExit",
+      "type": "number"
+    }
+  
+  ],
+  "children": [
+    "assets", "score"
+  ]
+}

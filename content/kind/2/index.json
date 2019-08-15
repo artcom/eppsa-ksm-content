@@ -1,8 +1,11 @@
 {
-  "name": "02, EG, Quiz",
-  "color": "#693333",
+  "navigationText": "Got to second station",
+  "color": "#c19641",
+  "token": "2",
+  "template": "challenge",
+  "name": "Spiel als Luxus",
   "icon": {
-    "src": "Bildschirmfoto 2019-07-29 um 17.36.20-360ed65bbbc1f0e0260e9be5914e7f11eea778d004c678d9d842790eb00dc62b.png"
+    "src": "53/Icon_02-53d445a03e7c9d3c52249e6ff42130cd7e2bd824.svg"
   },
-  "template": "challenge"
+  "code": "2"
 }

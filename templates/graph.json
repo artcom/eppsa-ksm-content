@@ -1,0 +1,85 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "default": "Graph"
+    },
+    {
+      "name": "manualText",
+      "type": "string",
+      "default": "Bringe alle Leute nach Hause."
+    },
+    {
+      "name": "timer",
+      "type": "number"
+    },
+    {
+      "name": "maxAgents",
+      "type": "string"
+    },
+    {
+      "name": "spawnInterval",
+      "type": "number"
+    },
+    {
+      "name": "rotateAgents",
+      "type": "string"
+    },
+    {
+      "name": "firstAgentToSpawn",
+      "type": "string"
+    },
+    {
+      "name": "collisionOnNode",
+      "type": "string"
+    },
+    {
+      "name": "edgeThreshold",
+      "type": "number"
+    },
+    {
+      "name": "agentOriginX",
+      "type": "number"
+    },
+    {
+      "name": "agentOriginY",
+      "type": "number"
+    },
+    {
+      "name": "backgroundColor",
+      "type": "string"
+    },
+    {
+      "name": "backgroundImage",
+      "type": "string"
+    },
+    {
+      "name": "drawLinesAndNodes",
+      "type": "string"
+    },
+    {
+      "name": "showScrollButton",
+      "type": "string"
+    },
+    {
+      "name": "lineColor",
+      "type": "string"
+    },
+    {
+      "name": "pathColor",
+      "type": "string"
+    },
+    {
+      "name": "designModeOn",
+      "type": "string"
+    }
+  ],
+  "children": [
+    "graphAgents",
+    "graphNodes",
+    "assets",
+    "graphControlPoints",
+    "score"
+  ]
+}
