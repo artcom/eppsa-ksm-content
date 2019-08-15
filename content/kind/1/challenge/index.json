@@ -1,11 +1,14 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
+  "correctAnswer": 2,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Spiegelreflexkamera",
+  "manualText": "Schauen Sie sich diesen Bereich genauer an!",
+  "answer2": "Plattenkamera",
+  "answer3": "Polaroid 635 Supercolor",
+  "answer4": "Smartphone-Kamera",
+  "icon": {
+    "src": "g-31884-19157008df185d53d3499481dba751550ca596889f072b4879bcd75689310544.JPG"
+  },
   "template": "quiz"
 }
