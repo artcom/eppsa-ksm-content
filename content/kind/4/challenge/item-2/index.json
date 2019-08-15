@@ -1,0 +1,10 @@
+{
+  "image": {
+    "src": "2-04d96e1bbcb1db006768525a34765645bc4d739b06ea21ce28a8b7c7f18b4129.jpg"
+  },
+  "text": "Tische/Pflanzen",
+  "initialPosition": 2,
+  "correctPosition": 2,
+  "template": "sortingItem",
+  "color": "#ffffff"
+}

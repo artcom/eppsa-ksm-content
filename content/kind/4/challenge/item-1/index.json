@@ -1,0 +1,10 @@
+{
+  "image": {
+    "src": "1-8fc1f18a3a8eb1c278978210f305299aca1c67579502e45cbaf1d0f1d31de394.jpg"
+  },
+  "text": "Fenster",
+  "initialPosition": 4,
+  "correctPosition": 1,
+  "template": "sortingItem",
+  "color": "#ffffff"
+}

@@ -1,11 +1,9 @@
 {
-  "navigationText": "Go to first station",
-  "color": "#d4310f",
-  "token": "1",
-  "template": "challenge",
-  "name": "Kids Aus der Erde ans Licht gebracht Bar",
+  "name": "01, Auftakt, Quiz",
+  "color": "#693333",
   "icon": {
-    "src": "cb/Icon_01-cbe1dc9e85db6b73a028126c7cf78fc8442f75e5.svg"
+    "src": "IMG_20190809_113906-98437b3bae9c3afa8edf44a82cdbc285a8e87c30e6199ca423ad26cc562e0e87.jpg"
   },
-  "code": "1"
+  "template": "challenge",
+  "areaConfirmationText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
 }

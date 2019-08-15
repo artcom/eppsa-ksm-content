@@ -1,7 +1,0 @@
-{
-  "children": [
-    "sharedTexts",
-    "sharedConfig",
-    "sharedAssets"
-  ]
-}
