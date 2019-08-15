@@ -1,11 +1,7 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
-  "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
-  "template": "quiz"
+  "manualText": "Der Wert der runden Spielkarten rechts an der Wand ist abhängig von der abgebildeten Figur. Ordne sie nach Wertigkeit",
+  "template": "sorting",
+  "name": "Sortieren",
+  "topLabel": "Höchster Wert",
+  "bottomLabel": "Niedrigster Wert"
 }
