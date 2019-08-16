@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Der Direktor welches Kölner Museums hielt im Kölner Pavillon einen Vortrag über \"entartete Kunst\"?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Haus der Rheinischen Heimat (heutiges Kölnisches Stadtmuseum)",
+  "manualText": "Schauen Sie sich die Veranstaltungen, die im Kölner Pavillon stattgefunden haben genauer an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Kunstgewerbemuseum (heutiges MAKK)",
+  "answer3": "Museum Schnütgen",
+  "answer4": "Wallraf-Richartz Museum",
   "template": "quiz"
 }
