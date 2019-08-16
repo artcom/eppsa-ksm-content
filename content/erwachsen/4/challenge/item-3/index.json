@@ -1,9 +1,9 @@
 {
   "image": {
-    "src": "3-c16311e7164f91fcb4b82ba5cf46de607196918b69583400d70e193fa1248371.jpg"
+    "src": "B_Freigestellt_1994-57e9c45b4e173844976f25595778a0ad0f5262b39563f59529bef14a7d8de99d.jpg"
   },
-  "text": "Container/Boden",
-  "initialPosition": 3,
+  "text": "",
+  "initialPosition": 1,
   "correctPosition": 3,
   "template": "sortingItem",
   "color": "#ffffff"
