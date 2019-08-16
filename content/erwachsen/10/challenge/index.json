@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Wann kehrte Anton Räderscheidt aus Frankreich zurück nach Köln?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "1936",
+  "manualText": "Schauen Sie sich genau um - blicken Sie auch hinter die Wand. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "2007",
+  "answer3": "1970",
+  "answer4": "1949",
   "template": "quiz"
 }
