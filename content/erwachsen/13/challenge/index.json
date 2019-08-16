@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Was befindet sich heute an der Stelle des Kölner Pavillons?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Gedenktafel",
+  "manualText": "Schauen Sie sich genau um. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Café-Terrasse",
+  "answer3": "Liebeschlösser",
+  "answer4": "Hausboot",
   "template": "quiz"
 }
