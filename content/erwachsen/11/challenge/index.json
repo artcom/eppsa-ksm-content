@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Welcher Kölner Betrieb wurde von Adolf Hitler kurz vor der Weltausstellung als \"nationalsozialistischer Musterbetrieb\" ausgezeichnet?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Venditor: Kunst- und Sprengstoff",
+  "manualText": "Schauen Sie sich die \"Made in Cologen\"-Objekte genauer an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Humboldt Deutz",
+  "answer3": "Haus Neuerburg",
+  "answer4": "Gebrüder Stollwerck AG",
   "template": "quiz"
 }
