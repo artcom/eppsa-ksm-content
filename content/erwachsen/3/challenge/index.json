@@ -1,11 +1,11 @@
 {
-  "question": "Was ist auf den Bildern",
-  "correctAnswer": 4,
+  "question": "Was ist auf den Bildern aus der Zeit um 1930 und 1947 anders als auf den beiden Bildern 1993/4 und 2018?",
+  "correctAnswer": 2,
   "name": "Quiz",
-  "answer1": "",
+  "answer1": "Anzahl der Treppenstufen",
   "manualText": "Tippen Sie auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "answer2": "Skulptur im Lichthof",
+  "answer3": "Asphaltboden",
+  "answer4": "Blumenbeete",
   "template": "quiz"
 }
