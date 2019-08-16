@@ -1,5 +1,5 @@
 {
-  "manualText": "Der Wert der runden Spielkarten rechts an der Wand ist abhängig von der abgebildeten Figur. Ordne sie nach Wertigkeit",
+  "manualText": "Sortieren Sie die Bildausschnitte nach aufsteigenden Jahreszahlen!",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Höchster Wert",

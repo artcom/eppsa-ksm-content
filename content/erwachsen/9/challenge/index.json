@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Wer weihte das \"Deutsche Haus\" nur zwei Tage nach der Eröffnung der Weltausstellung ein?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Jacques Gerber",
+  "manualText": "Schauen Sie sich das \"Deutsche Haus\" genau an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Adolf Hitler",
+  "answer3": "Josef Thorak",
+  "answer4": "Hjalmas Schacht",
   "template": "quiz"
 }

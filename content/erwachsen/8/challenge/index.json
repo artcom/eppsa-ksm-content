@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "In wessen Auftrag hat André Devambez offiziell Gemälde angefertigt?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "Marine",
+  "manualText": "Schauen Sie sich genauer in diesem Bereich um. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Hohe Domkirche zu Köln",
+  "answer3": "Sorbonne Université",
+  "answer4": "Luftfahrtministerium ",
   "template": "quiz"
 }

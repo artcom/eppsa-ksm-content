@@ -1,8 +1,9 @@
 {
-  "name": "10, OG, Quiz",
+  "name": "Quiz",
   "color": "#e7ae00",
   "icon": {
     "src": "Bildschirmfoto 2019-07-29 um 17.36.20-360ed65bbbc1f0e0260e9be5914e7f11eea778d004c678d9d842790eb00dc62b.png"
   },
-  "template": "challenge"
+  "template": "challenge",
+  "areaConfirmationText": "Gehen Sie nun weiter in den hinteren Bereich der Ausstellung. Betreten Sie zur Ihrerer Linken das Innere des Kölner Pavillon."
 }

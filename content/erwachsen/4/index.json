@@ -1,9 +1,9 @@
 {
-  "name": "04, EG, Sortieren",
-  "color": "#693333",
+  "name": "Sortieren",
+  "color": "#4CC0DF",
   "icon": {
-    "src": "IMG_20190809_123906-98437b3bae9c3afa8edf44a82cdbc285a8e87c30e6199ca423ad26cc562e0e87.jpg"
+    "src": "Icon_Sorting-bab77072ad856b5b5bfe1316643042fd3f2e2199fb58b3f56805b3a4ae762943.svg"
   },
   "template": "challenge",
-  "areaConfirmationText": "Such diesen Schreibtisch."
+  "areaConfirmationText": "Am Kopfende des Raumes sehen Sie vier Fotografien vom Bayenturm! Gehen Sie dort hin und schauen sich die Bilder genau an."
 }
