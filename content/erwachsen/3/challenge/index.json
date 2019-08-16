@@ -1,11 +1,11 @@
 {
-  "question": "Wer war Jan von Werth",
+  "question": "Was ist auf den Bildern",
   "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "bekannter Kölner Dichter",
+  "answer1": "",
   "manualText": "Tippen Sie auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Bürgermeister von Köln",
-  "answer3": "erster Kölner Karnevalsprinz",
-  "answer4": "sagenumwobener Rittergeneral",
+  "answer2": "",
+  "answer3": "",
+  "answer4": "",
   "template": "quiz"
 }
