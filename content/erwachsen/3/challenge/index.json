@@ -1,11 +1,11 @@
 {
-  "question": "Welcher Huftierknochen wurde „Astragal“ genannt und zum Würfeln benutzt?",
-  "correctAnswer": 1,
+  "question": "Wer war Jan von Werth",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Sprungbein",
-  "manualText": "Finde die „Astragale“ und sieh dir ihre Beschreibung genau an. Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Fersenbein",
-  "answer3": "Hufbein",
-  "answer4": "Erbsenbein",
+  "answer1": "bekannter Kölner Dichter",
+  "manualText": "Biegen Sie nach rechts und suchen den Alter Markt. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Bürgermeister von Köln",
+  "answer3": "erster Kölner Karnevalsprinz",
+  "answer4": "sagenumwobener Rittergeneral",
   "template": "quiz"
 }
