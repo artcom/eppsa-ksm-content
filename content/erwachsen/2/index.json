@@ -1,8 +1,9 @@
 {
-  "name": "02, EG, Quiz",
+  "name": "Quiz",
   "color": "#4CC0DF",
   "icon": {
     "src": "Icon_Quiz-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
-  "template": "challenge"
+  "template": "challenge",
+  "areaConfirmationText": "Gehen Sie links und suchen Sie die vier Bilder mit Domblick!"
 }
