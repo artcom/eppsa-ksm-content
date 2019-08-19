@@ -7,5 +7,8 @@
   "answer2": "Café-Terrasse",
   "answer3": "Liebeschlösser",
   "answer4": "Hausboot",
+  "icon": {
+    "src": "Icon_Quiz1 - Kopie - Kopie (4) - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+  },
   "template": "quiz"
 }
