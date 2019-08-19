@@ -2,10 +2,13 @@
   "question": "Der Direktor welches Kölner Museums hielt im Kölner Pavillon einen Vortrag über \"entartete Kunst\"?",
   "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Haus der Rheinischen Heimat (heutiges Kölnisches Stadtmuseum)",
+  "answer1": "Haus der Rheinischen Heimat ",
   "manualText": "Schauen Sie sich die Veranstaltungen, die im Kölner Pavillon stattgefunden haben genauer an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Kunstgewerbemuseum (heutiges MAKK)",
+  "answer2": "Kunstgewerbemuseum ",
   "answer3": "Museum Schnütgen",
   "answer4": "Wallraf-Richartz Museum",
+  "icon": {
+    "src": "Icon_Quiz1 - Kopie - Kopie (4) - Kopie - Kopie - Kopie - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+  },
   "template": "quiz"
 }
