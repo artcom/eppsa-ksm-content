@@ -7,5 +7,8 @@
   "answer2": "Skulptur im Lichthof",
   "answer3": "Asphaltboden",
   "answer4": "Blumenbeete",
+  "icon": {
+    "src": "Icon_Quiz1 - Kopie - Kopie (2) - Kopie - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+  },
   "template": "quiz"
 }
