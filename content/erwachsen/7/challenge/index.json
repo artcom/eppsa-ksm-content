@@ -2,6 +2,6 @@
   "manualText": "Sortieren Sie die Bildausschnitte nach aufsteigenden Jahreszahlen!",
   "template": "sorting",
   "name": "Sortieren",
-  "topLabel": "Höchster Wert",
-  "bottomLabel": "Niedrigster Wert"
+  "topLabel": "Früher",
+  "bottomLabel": "Heute"
 }
