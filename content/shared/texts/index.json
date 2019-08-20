@@ -20,7 +20,7 @@
   "finishBottomText": "Schau auf die Bestenliste, um dich mit anderen Spielern zu vergleichen.\n\nZeige deinen Punktestand an der Kasse, um am Gewinnspiel teilzunehmen. ",
   "mateRequestPendingTitle": "${mate} lädt dich zum Spielen ein",
   "selectNamePlaceholder": "Spielername eingeben",
-  "finishScoreText": "Dein Punktestand lautet:",
+  "finishScoreText": "Ihr/Dein Punktestand lautet:",
   "resumeGameText": "Möchtest du deinen letzten Besuch fortführen?",
   "lobbyIsEmpty": "Warte auf weitere Spieler...",
   "requestedMateDeclinedCancelButton": "Zurück zur Lobby",
