@@ -16,7 +16,7 @@
   "toPlayerName": "Zum Spielernamen",
   "playerTypeSelectionTitle": "Welchen Parcours möchten Sie gehen?",
   "requestedMateUnavailableCancelButton": "Zurück zur Lobby",
-  "playerTypeSelectionDescription": "Was für ein Spielertyp bist du?",
+  "playerTypeSelectionDescription": "Wählen Sie bitte aus:",
   "finishBottomText": "Schau auf die Bestenliste, um dich mit anderen Spielern zu vergleichen.\n\nZeige deinen Punktestand an der Kasse, um am Gewinnspiel teilzunehmen. ",
   "mateRequestPendingTitle": "${mate} lädt dich zum Spielen ein",
   "selectNamePlaceholder": "Spielername eingeben",
