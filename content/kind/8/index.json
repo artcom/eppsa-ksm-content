@@ -1,9 +1,9 @@
 {
   "name": "",
-  "color": "#B40404",
+  "color": "#e7ae00",
   "icon": {
     "src": "Oper_Schmölz-c6e924da4bd4679f56dc6b896481a6a5f21f1feba793d93fee250a06744e911c.png"
   },
   "template": "challenge",
-  "areaConfirmationText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
+  "areaConfirmationText": "Gehe den kleinen Bogen bis du wieder in der Mitte des Ausstellungsraums stehst."
 }
