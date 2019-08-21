@@ -1,12 +1,12 @@
 {
-  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
-  "correctAnswer": 2,
+  "question": "Über wen erzählt die bekannte kölsche Geschichte, die auf dem großen länglichen Gemälde zu sehen ist?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Spiegelreflexkamera",
-  "manualText": "Schauen Sie sich diesen Bereich genauer an!",
-  "answer2": "Plattenkamera",
-  "answer3": "Polaroid 635 Supercolor",
-  "answer4": "Smartphone-Kamera",
+  "answer1": "Heinzelmännchen",
+  "manualText": "Schaue dir die großen Vitrinen in der Wand genauer an.",
+  "answer2": "Richmodis und die Pferde auf dem Turm",
+  "answer3": "Hermann Gryns Löwenkampf",
+  "answer4": "Ursula und ihre elftausend Jungfrauen",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
