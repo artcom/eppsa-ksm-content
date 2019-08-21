@@ -7,7 +7,7 @@
     },
     {
     "name": "timer",
-    "type": "number" 
+    "type": "number"
     },
     {
       "name": "manualText",
@@ -20,7 +20,7 @@
       },
       {
         "name": "StartPointY",
-        "type": "string" 
+        "type": "string"
       },
       {
         "name": "StartPointX",
@@ -60,5 +60,5 @@
       }
     ],
     "children": [
-      "assets", "score"]
+      "assets", "score", "result"]
     }

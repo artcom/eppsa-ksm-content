@@ -21,6 +21,7 @@
   ],
   "children": [
     "score",
-    "sortingItem"
+    "sortingItem",
+    "sorting"
   ]
 }

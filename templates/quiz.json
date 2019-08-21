@@ -58,6 +58,6 @@
     }
   ],
   "children": [
-    "score"
+    "score", "result"
   ]
 }

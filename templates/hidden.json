@@ -40,7 +40,7 @@
     {
       "name": "Row4Max",
       "type": "number"
-    },  
+    },
     {
       "name": "Row4Min",
       "type": "number"
@@ -48,7 +48,7 @@
      {
       "name": "Row5Max",
       "type": "number"
-    },  
+    },
     {
       "name": "Row5Min",
       "type": "number"
@@ -56,7 +56,7 @@
      {
       "name": "Row6Max",
       "type": "number"
-    },  
+    },
     {
       "name": "Row6Min",
       "type": "number"
@@ -64,7 +64,7 @@
      {
       "name": "Row7Max",
       "type": "number"
-    },  
+    },
     {
       "name": "Row7Min",
       "type": "number"
@@ -72,7 +72,7 @@
     {
       "name": "Row8Max",
       "type": "number"
-    },  
+    },
     {
       "name": "Row8Min",
       "type": "number"
@@ -183,7 +183,6 @@
 
   ],
   "children": [
-    "score", "pictures", "assets", "questions"
+    "score", "pictures", "assets", "questions", "result"
   ]
 }
-
