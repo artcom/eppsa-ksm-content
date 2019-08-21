@@ -1,12 +1,12 @@
 {
-  "question": "Wie viel kleine Ford Autos befinden sich in der Vitrine?",
+  "question": "",
   "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "5",
-  "manualText": "Schaue dir die Autos und die Vitrinen genau an.",
-  "answer2": "105",
-  "answer3": "17",
-  "answer4": "28",
+  "answer1": "",
+  "manualText": "",
+  "answer2": "",
+  "answer3": "",
+  "answer4": "",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
