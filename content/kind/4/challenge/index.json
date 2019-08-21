@@ -1,7 +1,7 @@
 {
-  "manualText": "Sortiere die Bilder in der richtigen Reihenfolge!",
+  "manualText": "Sortiere die Bildausschnitte nach aufsteigenden Jahreszahlen",
   "template": "sorting",
   "name": "Sortieren",
-  "topLabel": "Oben",
-  "bottomLabel": "Unten"
+  "topLabel": "Früher",
+  "bottomLabel": "Heute"
 }

@@ -1,9 +1,9 @@
 {
-  "name": "01, Auftakt, Quiz",
+  "name": "",
   "color": "#B40404",
   "icon": {
-    "src": "IMG_20190809_113906-98437b3bae9c3afa8edf44a82cdbc285a8e87c30e6199ca423ad26cc562e0e87.jpg"
+    "src": "Oper_Schmölz-c6e924da4bd4679f56dc6b896481a6a5f21f1feba793d93fee250a06744e911c.png"
   },
   "template": "challenge",
-  "areaConfirmationText": "Zu Beginn der Ausstellung findest du rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
+  "areaConfirmationText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
 }

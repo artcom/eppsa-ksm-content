@@ -1,7 +1,14 @@
 {
-  "manualText": "Der Wert der runden Spielkarten rechts an der Wand ist abhängig von der abgebildeten Figur. Ordne sie nach Wertigkeit",
-  "template": "sorting",
-  "name": "Sortieren",
-  "topLabel": "Höchster Wert",
-  "bottomLabel": "Niedrigster Wert"
+  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
+  "correctAnswer": 2,
+  "name": "Quiz",
+  "answer1": "Spiegelreflexkamera",
+  "manualText": "Schauen Sie sich diesen Bereich genauer an!",
+  "answer2": "Plattenkamera",
+  "answer3": "Polaroid 635 Supercolor",
+  "answer4": "Smartphone-Kamera",
+  "icon": {
+    "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+  },
+  "template": "quiz"
 }

@@ -1,8 +1,9 @@
 {
-  "name": "06, EG, Quiz",
-  "color": "#693333",
+  "name": "",
+  "color": "#4CC0DF",
   "icon": {
-    "src": "Bildschirmfoto 2019-07-29 um 17.36.20-360ed65bbbc1f0e0260e9be5914e7f11eea778d004c678d9d842790eb00dc62b.png"
+    "src": "rba_d051477_01-70eda692858732a475b899ed5bd92f0f01dd8327d39e81947db8c87845fc6e5f.jpg"
   },
-  "template": "challenge"
+  "template": "challenge",
+  "areaConfirmationText": "Am Kopfende des Raumes sehen Sie vier Fotografien vom Bayenturm! Gehen Sie dort hin und schauen sich die Bilder genau an."
 }

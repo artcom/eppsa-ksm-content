@@ -1,8 +1,9 @@
 {
-  "name": "10, OG, Quiz",
-  "color": "#e7ae00",
+  "name": "",
+  "color": "#B40404",
   "icon": {
-    "src": "Bildschirmfoto 2019-07-29 um 17.36.20-360ed65bbbc1f0e0260e9be5914e7f11eea778d004c678d9d842790eb00dc62b.png"
+    "src": "Oper_Schmölz-c6e924da4bd4679f56dc6b896481a6a5f21f1feba793d93fee250a06744e911c.png"
   },
-  "template": "challenge"
+  "template": "challenge",
+  "areaConfirmationText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
 }
