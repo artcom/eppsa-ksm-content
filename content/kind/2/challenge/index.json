@@ -1,12 +1,12 @@
 {
-  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
+  "question": "Vor vielen Jahren wurde Köln im Krieg zerstört. Welches der vier Bilder zeigt Köln direkt nach dem Krieg?",
   "correctAnswer": 2,
   "name": "Quiz",
-  "answer1": "Spiegelreflexkamera",
-  "manualText": "Schaue dir diesen Bereich genauer an!",
-  "answer2": "Plattenkamera",
-  "answer3": "Polaroid 635 Supercolor",
-  "answer4": "Smartphone-Kamera",
+  "answer1": "1925",
+  "manualText": "Schaue dir die Bilder genauer an.",
+  "answer2": "1947",
+  "answer3": "1993/94",
+  "answer4": "2018",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
