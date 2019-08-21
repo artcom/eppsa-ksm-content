@@ -2,7 +2,7 @@
   "image": {
     "src": "Eiffelturm_1-4fcd20806a529cbacff15d0a22ae64a5a719db72760914d2b61d10cd33a1499d.jpg"
   },
-  "text": "Sortiere den Eiffelturm in die richtige Reihenfolge.",
+  "text": "",
   "initialPosition": 4,
   "correctPosition": 1,
   "template": "sortingItem",
