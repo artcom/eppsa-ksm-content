@@ -1,5 +1,5 @@
 {
-  "manualText": "Sortiere die Bildausschnitte nach aufsteigenden Jahreszahlen",
+  "manualText": "Kannst du die Bildausschnitte so sortieren, dass das älteste ganz oben, das Bild von heute ganz unten steht?",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Früher",
