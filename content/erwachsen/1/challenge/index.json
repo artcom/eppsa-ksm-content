@@ -1,12 +1,12 @@
 {
-  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
-  "correctAnswer": 2,
+  "question": "In welchem Stadtteil Kölns hat Hugo Schmölz sein eigenes Geschäft?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Spiegelreflexkamera",
+  "answer1": "Lindenthal",
   "manualText": "Schauen Sie sich hier genau um! Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Plattenkamera",
-  "answer3": "Polaroid 635 Supercolor",
-  "answer4": "Smartphone-Kamera",
+  "answer2": "Ehrenfeld",
+  "answer3": "Deutz",
+  "answer4": "Nippes",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
