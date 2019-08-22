@@ -1,12 +1,12 @@
 {
-  "question": "",
+  "question": "Wie unterscheidet sich die Brücke auf den beiden linken Bildern zu den zwei Bildern auf der rechten Seite?",
   "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "",
-  "manualText": "Schaue dir die Fotografien genau an! ",
-  "answer2": "",
-  "answer3": "",
-  "answer4": "",
+  "answer1": "Anzahl der Brückenbögen",
+  "manualText": "Schaue dir die Fotografien genau an! Tippe auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Anzahl der Zebrastreifen",
+  "answer3": "Anzahl der Fahrradfahrer",
+  "answer4": "Anzahl der Ampeln",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
