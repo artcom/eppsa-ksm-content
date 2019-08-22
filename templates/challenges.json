@@ -7,6 +7,18 @@
   {
     "name": "gameManualText",
     "type": "markdown"
+  },
+  {
+    "name": "resumeGameText",
+    "type": "string"
+  },
+  {
+    "name": "finishTopText",
+    "type": "markdown"
+  },
+  {
+    "name": "finishBottomText",
+    "type": "markdown"
   }
 ],
   "children": [
