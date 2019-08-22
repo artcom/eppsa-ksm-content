@@ -1,7 +1,7 @@
 {
-  "manualText": "Sortiere die Bildausschnitte nach aufsteigenden Jahreszahlen",
+  "manualText": "Kannst du den Eiffelturm wieder in die richtige Reihenfolge bringen? Tippe auf „Weiter“, um das Spiel zu starten.",
   "template": "sorting",
   "name": "Sortieren",
-  "topLabel": "Früher",
-  "bottomLabel": "Heute"
+  "topLabel": "Oben",
+  "bottomLabel": "Unten"
 }

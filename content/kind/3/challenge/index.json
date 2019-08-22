@@ -1,5 +1,5 @@
 {
-  "manualText": "Sortiere die Bildausschnitte nach aufsteigenden Jahreszahlen",
+  "manualText": "Kannst du die folgenden Bilder so sortieren, dass das älteste ganz oben, das Bild von heute ganz unten steht? Tippe auf „Weiter“, um das Spiel zu starten.",
   "template": "sorting",
   "name": "Sortieren",
   "topLabel": "Früher",
