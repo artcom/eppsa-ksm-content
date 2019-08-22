@@ -1,12 +1,12 @@
 {
-  "question": "Im Zweiten Weltkrieg wurde Köln zerstört. Welches der vier Bilder zeigt Köln direkt nach dem Krieg?",
+  "question": "Im Zweiten Weltkrieg wurde Köln stark zerstört. Welches der vier Bilder zeigt Köln direkt nach dem Krieg?",
   "correctAnswer": 2,
   "name": "Quiz",
-  "answer1": "1925",
+  "answer1": "das erste Bild",
   "manualText": "Schaue dir die Bilder genau an! Tippe dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "1947",
-  "answer3": "1993/94",
-  "answer4": "2018",
+  "answer2": "das zweite Bild",
+  "answer3": "das dritte Bild",
+  "answer4": "das vierte Bild",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
