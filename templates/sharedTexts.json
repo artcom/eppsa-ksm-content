@@ -9,10 +9,6 @@
       "type": "string"
     },
     {
-      "name": "resumeGameText",
-      "type": "string"
-    },
-    {
       "name": "resumeGameButton",
       "type": "string"
     },
@@ -29,16 +25,8 @@
       "type": "string"
     },
     {
-      "name": "finishTopText",
-      "type": "markdown"
-    },
-    {
       "name": "finishScoreText",
       "type": "string"
-    },
-    {
-      "name": "finishBottomText",
-      "type": "markdown"
     },
     {
       "name": "playerTypeSelectionTitle",

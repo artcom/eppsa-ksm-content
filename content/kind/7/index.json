@@ -1,9 +1,9 @@
 {
   "name": "",
-  "color": "#B40404",
+  "color": "#4CC0DF",
   "icon": {
-    "src": "Oper_Schmölz-c6e924da4bd4679f56dc6b896481a6a5f21f1feba793d93fee250a06744e911c.png"
+    "src": "rba_d051483_01-9b2bda86a76936551336bd13ea8893bde3a72bc300f2fc2c146842a61d65e5dc.jpg"
   },
   "template": "challenge",
-  "areaConfirmationText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
+  "areaConfirmationText": "Wenn du dich umdrehst, siehst du vier Fotos einer Brücke, der Rodenkirchener Brücke."
 }

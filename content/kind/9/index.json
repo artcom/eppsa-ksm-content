@@ -1,9 +1,9 @@
 {
   "name": "",
-  "color": "#B40404",
+  "color": "#E7AE00",
   "icon": {
-    "src": "Oper_Schmölz-c6e924da4bd4679f56dc6b896481a6a5f21f1feba793d93fee250a06744e911c.png"
+    "src": "Kitsch_Straße-a7fafaa6d28c32023828ab813a973c6c1ae18a9a456de9b870dcf85a972dd57b.jpg"
   },
   "template": "challenge",
-  "areaConfirmationText": "Zu Beginn der Ausstellung finden Sie rechts einige Informationen über das Leben der beiden Fotografen Hugo und Karl Hugo Schmölz."
+  "areaConfirmationText": "Gehe wieder in der Mitte des Ausstellungsraums."
 }

@@ -1,12 +1,12 @@
 {
-  "question": "Mit welcher Kamera fotografierten Hugo und Karl Hugo Schmölz?",
-  "correctAnswer": 2,
+  "question": "Was siehst du auf Seite 4?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Spiegelreflexkamera",
-  "manualText": "Schauen Sie sich diesen Bereich genauer an!",
-  "answer2": "Plattenkamera",
-  "answer3": "Polaroid 635 Supercolor",
-  "answer4": "Smartphone-Kamera",
+  "answer1": "Kölner Dom",
+  "manualText": "Lasse dich im \"Café\" nieder und blättere durch die Broschüre \"Köln\"! Tippe dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Rhein",
+  "answer3": "Kirche St. Gereon",
+  "answer4": "Kölner Rathaus",
   "icon": {
     "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },

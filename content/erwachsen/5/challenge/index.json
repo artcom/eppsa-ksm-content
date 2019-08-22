@@ -1,11 +1,11 @@
 {
-  "question": "Welche Veränderung im Stadtbild sieht man nur auf der Fotografie von 2018?",
-  "correctAnswer": 2,
+  "question": "Welches Fortbewegungsmittel kann nur auf dem Bild von 1924 die Straße Burgmauer passieren?",
+  "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Höhe der Häuser",
-  "manualText": "Schauen Sie sich diese genau an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Baulücke wurde geschlossen",
-  "answer3": "Straßenbahnschienen sind verschwunden",
-  "answer4": "Parkplätze für Busse",
+  "answer1": "Pferd",
+  "manualText": "Schauen Sie sich diese genau an! Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Auto",
+  "answer3": "Fahrrad",
+  "answer4": "Straßenbahn",
   "template": "quiz"
 }
