@@ -1,0 +1,9 @@
+{
+  "primary": "#d4310f",
+  "secondary": "#e1001e",
+  "primaryFont": "#000000",
+  "secondaryFont": "#7b7b7b",
+  "background": "#ffffff",
+  "rightAnswer": "#00d700",
+  "wrongAnswer": "#f3352f"
+}

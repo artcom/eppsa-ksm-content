@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "name": "primary",
+      "type": "string"
+    },
+    {
+      "name": "secondary",
+      "type": "string"
+    },
+    {
+      "name": "primaryFont",
+      "type": "string"
+    },
+    {
+      "name": "secondaryFont",
+      "type": "string"
+    },
+    {
+      "name": "background",
+      "type": "string"
+    },
+    {
+      "name": "rightAnswer",
+      "type": "string"
+    },
+    {
+      "name": "wrongAnswer",
+      "type": "string"
+    }
+  ]
+}
