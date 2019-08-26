@@ -1,6 +1,10 @@
 {
   "fields": [
   {
+    "name": "typeName",
+    "type": "string"
+  },
+  {
     "name": "gameManualTitle",
     "type": "string"
   },
