@@ -3,7 +3,7 @@
   "img": "Helmet",
   "positionX": "",
   "positionY": "",
-  "baseWidth": null,
+  "baseWidth": 320,
   "rows": "[1,2,5,7,8]",
   "template": "picture",
   "type": 1,
