@@ -3,7 +3,7 @@
   "showFinishLine": "true",
   "timer": 20,
   "MovementX": 1,
-  "StartPointX": "50",
+  "StartPointX": "0",
   "name": "Klicker",
   "StartPointY": "10",
   "finishLineHeight": 10,
