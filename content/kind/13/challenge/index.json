@@ -1,0 +1,17 @@
+{
+  "EndPointX": "55",
+  "showFinishLine": "false",
+  "timer": 20,
+  "MovementX": 1,
+  "StartPointX": "50",
+  "name": "Klicker",
+  "StartPointY": "5",
+  "finishLineHeight": null,
+  "ScaleOfBackground": 1,
+  "finishLineX": null,
+  "finishLineY": null,
+  "manualText": "Ganz schnell drücken",
+  "showWater": "false",
+  "template": "clicker",
+  "finishLineWidth": null
+}
