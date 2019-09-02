@@ -4,9 +4,9 @@
   "positionX": "",
   "positionY": "",
   "baseWidth": null,
-  "rows": "",
+  "rows": "[1,2,5,7,8]",
   "template": "picture",
   "type": 1,
-  "tag": "[correct]",
+  "tag": "correct",
   "direction": ""
 }
