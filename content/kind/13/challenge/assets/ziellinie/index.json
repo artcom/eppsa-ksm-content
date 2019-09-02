@@ -1,5 +1,7 @@
 {
   "name": "Ziellinie",
-  "image": null,
+  "image": {
+    "src": "EPPSA_Button_SeineShip_Bridge-7657749555292d997178f0db0646ca2d185fd666b1743e803d86e16b2e4c4712.png"
+  },
   "template": "asset"
 }
