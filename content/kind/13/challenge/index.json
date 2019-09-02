@@ -1,9 +1,9 @@
 {
-  "EndPointX": "0",
+  "EndPointX": "-35",
   "showFinishLine": "true",
   "timer": 20,
   "MovementX": 1,
-  "StartPointX": "-105",
+  "StartPointX": "-95",
   "name": "Klicker",
   "StartPointY": "50",
   "finishLineHeight": 10,
