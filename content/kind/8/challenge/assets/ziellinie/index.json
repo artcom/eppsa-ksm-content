@@ -1,5 +1,7 @@
 {
   "name": "Ziellinie",
-  "image": null,
+  "image": {
+    "src": "rba_d515621-ded393c3f01e9d63bcb4da54aa614f26dd91d6d9f1cd9e144b9e50039f797909.jpg"
+  },
   "template": "asset"
 }
