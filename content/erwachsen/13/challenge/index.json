@@ -1,14 +1,14 @@
 {
-  "question": "Was befindet sich heute an der Stelle des Kölner Pavillons?",
+  "question": "Der Direktor welches Kölner Museums hielt im Kölner Pavillon einen Vortrag über \"entartete Kunst\"?",
   "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Gedenktafel",
-  "manualText": "Schauen Sie sich die Fotografien und die Ausstellungsstücke genau an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Café-Terrasse",
-  "answer3": "Liebeschlösser",
-  "answer4": "Hausboot",
+  "answer1": "Haus der Rheinischen Heimat ",
+  "manualText": "Schauen Sie sich die Veranstaltungen, die im Kölner Pavillon stattgefunden haben, genau an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Kunstgewerbemuseum ",
+  "answer3": "Museum Schnütgen",
+  "answer4": "Wallraf-Richartz Museum",
   "icon": {
-    "src": "Icon_Quiz1 - Kopie - Kopie (4) - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+    "src": "Icon_Quiz1 - Kopie - Kopie (4) - Kopie - Kopie - Kopie - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
   "template": "quiz"
 }

@@ -1,9 +1,9 @@
 {
   "name": "",
-  "color": "#e7ae00",
+  "color": "#E7AE00",
   "icon": {
-    "src": "OGO_F_27_Schmölz_1-997-a522afa8a0f4dfdbf1beb95dba1cf946bc3b1bf3f5e98d4706461726f5fc45ea.jpeg"
+    "src": "EPPSA_Station_Closet_Background-89a065fdea44e8790e148d02af34343b5befbf8bdc1a68784265b452737097c8.png"
   },
-  "template": "challenge",
-  "areaConfirmationText": "Gehen Sie nun weiter in den hinteren Bereich der Ausstellung, in Richtung des großen Eiffelturms. Betreten Sie zur Ihrer Linken das \"Innere\" des Kölner Pavillon."
+  "areaConfirmationText": "",
+  "template": "challenge"
 }

@@ -1,14 +1,14 @@
 {
-  "question": "Welcher Kölner Betrieb wurde von Adolf Hitler als \"nationalsozialistischer Musterbetrieb\" ausgezeichnet?",
+  "question": "Wann kehrte Anton Räderscheidt aus Frankreich zurück nach Köln?",
   "correctAnswer": 4,
   "name": "Quiz",
-  "answer1": "Venditor: Kunst- und Sprengstoff",
-  "manualText": "Schauen Sie sich die \"Made in Cologne\"-Objekte genau an. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
-  "answer2": "Humboldt Deutz",
-  "answer3": "Haus Neuerburg",
-  "answer4": "Gebrüder Stollwerck AG",
+  "answer1": "1936",
+  "manualText": "Schauen Sie sich genau um - blicken Sie auch hinter die Wand. Tippen Sie dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "2007",
+  "answer3": "1970",
+  "answer4": "1949",
   "icon": {
-    "src": "Icon_Quiz1 - Kopie - Kopie (3) - Kopie - Kopie - Kopie - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+    "src": "Icon_Quiz1 - Kopie - Kopie (3) - Kopie - Kopie - Kopie-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
   },
   "template": "quiz"
 }
