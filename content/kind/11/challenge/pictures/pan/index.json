@@ -1,0 +1,12 @@
+{
+  "depth": "5",
+  "img": "PanGlass",
+  "positionX": "",
+  "positionY": "",
+  "baseWidth": 407,
+  "rows": "[1,2,3]",
+  "template": "picture",
+  "type": 1,
+  "tag": "correct",
+  "direction": "Left"
+}

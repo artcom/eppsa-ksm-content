@@ -1,0 +1,12 @@
+{
+  "depth": "5",
+  "img": "Sign",
+  "positionX": "",
+  "positionY": "",
+  "baseWidth": 444,
+  "rows": "[1,2,3]",
+  "template": "picture",
+  "type": 1,
+  "tag": "",
+  "direction": "Left"
+}

@@ -1,17 +1,7 @@
 {
-  "EndPointX": "-58",
-  "showFinishLine": "true",
-  "timer": 20,
-  "MovementX": 1,
-  "StartPointX": "-95",
-  "name": "Klicker",
-  "StartPointY": "60",
-  "finishLineHeight": 10,
-  "ScaleOfBackground": 1,
-  "finishLineX": 5,
-  "finishLineY": 5,
-  "manualText": "Ganz schnell drücken",
-  "showWater": "false",
-  "template": "clicker",
-  "finishLineWidth": 20
+  "manualText": "Kannst du den Eiffelturm wieder in die richtige Reihenfolge bringen? Tippe auf „Weiter“, um das Spiel zu starten.",
+  "template": "sorting",
+  "name": "Sortieren",
+  "topLabel": "Oben",
+  "bottomLabel": "Unten"
 }

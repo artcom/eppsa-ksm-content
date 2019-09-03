@@ -1,0 +1,12 @@
+{
+  "depth": "5",
+  "img": "Cup",
+  "positionX": "",
+  "positionY": "",
+  "baseWidth": 286,
+  "rows": "[1,2,3]",
+  "template": "picture",
+  "type": 1,
+  "tag": "",
+  "direction": "Left"
+}

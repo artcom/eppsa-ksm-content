@@ -1,9 +1,9 @@
 {
   "name": "",
-  "color": "#e7ae00",
+  "color": "#E7AE00",
   "icon": {
-    "src": "Brosch_Titel_Köln_Klein-ba7596d75596a27646e5021f42dea40680ed020c042df9078b21098f9571b6fd.jpeg"
+    "src": "EPPSA_Station_Closet_Background-89a065fdea44e8790e148d02af34343b5befbf8bdc1a68784265b452737097c8.png"
   },
-  "template": "challenge",
-  "areaConfirmationText": "Verlasse den Pavillon und gehe weiter auf die \"Terasse\", wo die Stühle stehen. "
+  "areaConfirmationText": "",
+  "template": "challenge"
 }

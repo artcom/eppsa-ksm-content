@@ -1,7 +1,14 @@
 {
-  "manualText": "Kannst du den Eiffelturm wieder in die richtige Reihenfolge bringen? Tippe auf „Weiter“, um das Spiel zu starten.",
-  "template": "sorting",
-  "name": "Sortieren",
-  "topLabel": "Oben",
-  "bottomLabel": "Unten"
+  "question": "Was siehst du auf Seite 4?",
+  "correctAnswer": 4,
+  "name": "Quiz",
+  "answer1": "Kölner Dom",
+  "manualText": "Lasse dich im \"Café\" nieder und blättere durch die Broschüre \"Köln\"! Tippe dann auf „Weiter“, um das Quiz zu starten.",
+  "answer2": "Rhein",
+  "answer3": "Kirche St. Gereon",
+  "answer4": "Kölner Rathaus",
+  "icon": {
+    "src": "Icon_Quiz1 - Kopie - Kopie (3)-a710e88d96207bc4ef1191eb616fff87081c083032a95ef347658e1fcabddbbe.svg"
+  },
+  "template": "quiz"
 }

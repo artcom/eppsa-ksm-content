@@ -1,0 +1,12 @@
+{
+  "depth": "5",
+  "img": "Kelch",
+  "positionX": "",
+  "positionY": "",
+  "baseWidth": 155,
+  "rows": "[1,2,3]",
+  "template": "picture",
+  "type": 1,
+  "tag": "correct",
+  "direction": "Left"
+}
